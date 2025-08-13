@@ -14,8 +14,10 @@ I am considering finding a cloud host to place the tables in a SQL DB. But for n
 
 # Known skills I applied
 - Python skills
+- Pandas python package skills
 - Feature engineering skills
 - Project management skills
+- Documentation skills
 
 # Lessons Learned
 - I have learned how to scrape data from websites
