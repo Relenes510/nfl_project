@@ -1,8 +1,8 @@
 # nfl_project
 
-Author: Rodolfo Elenes
-Email contact: rodolfoe7157@gmail.com
-LinkedIn: www.linkedin.com/in/rodolfo-elenes-083311223
+- Author: Rodolfo Elenes
+- Email contact: rodolfoe7157@gmail.com
+- LinkedIn: www.linkedin.com/in/rodolfo-elenes-083311223
 
 Hello user! I am conducting a case study on NFL Runningback players. These are known the be the most injury prone players in the sport. 
 I want to find what factors contribute to the player's injuries such as usage, age, experience in the league, etc.
