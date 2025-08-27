@@ -1,33 +1,33 @@
-﻿Team,ABV,PFR_ABV
-Arizona Cardinals,ARI,crd
-Atlanta Falcons,ATL,atl
-Baltimore Ravens,BAL,rav
-Buffalo Bills,BUF,buf
-Carolina Panthers,CAR,car
-Chicago Bears,CHI,chi
-Cincinnati Bengals,CIN,cin
-Cleveland Browns,CLE,cle
-Dallas Cowboys,DAL,dal
-Denver Broncos,DEN,den
-Detroit Lions,DET,det
-Green Bay Packers,GB,gnb
-Houston Texans,HOU,htx
-Indianapolis Colts,IND,clt
-Jacksonville Jaguars,JAX,jax
-Kansas City Chiefs,KC,kan
-Las Vegas Raiders,LV,rai
-Los Angeles Chargers,LAC,sdg
-Los Angeles Rams,LAR,ram
-Miami Dolphins,MIA,mia
-Minnesota Vikings,MIN,min
-New England Patriots,NE,nwe
-New Orleans Saints,NO,nor
-New York Giants,NYG,nyg
-New York Jets,NYJ,nyj
-Philadelphia Eagles,PHI,phi
-Pittsburgh Steelers,PIT,pit
-San Francisco 49ers,SF,sfo
-Seattle Seahawks,SEA,sea
-Tampa Bay Buccaneers,TB,tam
-Tennessee Titans,TEN,oti
-Washington Commanders,WAS,was
+﻿Team,ABV,ABV2,ABV3,PFR_ABV
+Arizona Cardinals,ARI,,,crd
+Atlanta Falcons,ATL,,,atl
+Baltimore Ravens,BAL,,,rav
+Buffalo Bills,BUF,,,buf
+Carolina Panthers,CAR,,,car
+Chicago Bears,CHI,,,chi
+Cincinnati Bengals,CIN,,,cin
+Cleveland Browns,CLE,,,cle
+Dallas Cowboys,DAL,,,dal
+Denver Broncos,DEN,,,den
+Detroit Lions,DET,,,det
+Green Bay Packers,GB,GNB,,gnb
+Houston Texans,HOU,,,htx
+Indianapolis Colts,IND,,,clt
+Jacksonville Jaguars,JAX,,,jax
+Kansas City Chiefs,KC,KAN,,kan
+Las Vegas Raiders,LV,OAK,,rai
+Los Angeles Chargers,LAC,SDG,,sdg
+Los Angeles Rams,LAR,STL,RAM,ram
+Miami Dolphins,MIA,,,mia
+Minnesota Vikings,MIN,,,min
+New England Patriots,NE,NWE,,nwe
+New Orleans Saints,NO,NOR,,nor
+New York Giants,NYG,,,nyg
+New York Jets,NYJ,,,nyj
+Philadelphia Eagles,PHI,,,phi
+Pittsburgh Steelers,PIT,,,pit
+San Francisco 49ers,SF,SFO,,sfo
+Seattle Seahawks,SEA,,,sea
+Tampa Bay Buccaneers,TB,TAM,,tam
+Tennessee Titans,TEN,HOU,,oti
+Washington Commanders,WAS,,,was
