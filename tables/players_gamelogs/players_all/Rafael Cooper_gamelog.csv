@@ -1,0 +1,18 @@
+CarGm,Team,Player,pfr_id,Date,Season,Week,Season_type,GS,RushAtt,RushYds,RushTD,Tgt,Rec,RecYds,RecTD,OffSnp,STSnp
+0,DET,Rafael Cooper,CoopRa00,2002-09-08,2002,1,DNP,0,0,0,0,0,0,0,0,0,0
+0,DET,Rafael Cooper,CoopRa00,2002-09-15,2002,2,DNP,0,0,0,0,0,0,0,0,0,0
+0,DET,Rafael Cooper,CoopRa00,2002-09-22,2002,3,DNP,0,0,0,0,0,0,0,0,0,0
+0,DET,Rafael Cooper,CoopRa00,2002-09-29,2002,4,DNP,0,0,0,0,0,0,0,0,0,0
+0,DET,Rafael Cooper,CoopRa00,1970-01-01,2002,5,BYE,0,0,0,0,0,0,0,0,0,0
+0,DET,Rafael Cooper,CoopRa00,2002-10-13,2002,6,DNP,0,0,0,0,0,0,0,0,0,0
+0,DET,Rafael Cooper,CoopRa00,2002-10-20,2002,7,DNP,0,0,0,0,0,0,0,0,0,0
+0,DET,Rafael Cooper,CoopRa00,2002-10-27,2002,8,DNP,0,0,0,0,0,0,0,0,0,0
+0,DET,Rafael Cooper,CoopRa00,2002-11-03,2002,9,DNP,0,0,0,0,0,0,0,0,0,0
+0,DET,Rafael Cooper,CoopRa00,2002-11-10,2002,10,DNP,0,0,0,0,0,0,0,0,0,0
+0,DET,Rafael Cooper,CoopRa00,2002-11-17,2002,11,DNP,0,0,0,0,0,0,0,0,0,0
+0,DET,Rafael Cooper,CoopRa00,2002-11-24,2002,12,DNP,0,0,0,0,0,0,0,0,0,0
+1,DET,Rafael Cooper,CoopRa00,2002-11-28,2002,13,REG,0,0,0,0,0,0,0,0,0,0
+2,DET,Rafael Cooper,CoopRa00,2002-12-08,2002,14,REG,0,1,1,0,0,0,0,0,0,0
+3,DET,Rafael Cooper,CoopRa00,2002-12-15,2002,15,REG,0,8,50,0,0,0,0,0,0,0
+4,DET,Rafael Cooper,CoopRa00,2002-12-22,2002,16,REG,0,2,5,0,0,0,0,0,0,0
+5,DET,Rafael Cooper,CoopRa00,2002-12-29,2002,17,REG,0,1,1,0,3,1,4,0,0,0

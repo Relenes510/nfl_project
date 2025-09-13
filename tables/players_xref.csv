@@ -1,184 +1,1243 @@
-season,team,position,full_name,height,weight,age,years_exp,pfr_id,gm_log_rtrvd
-2024,PIT,RB,Cordarrelle Patterson,74,238,33,11.0,PattCo00,1
-2024,MIA,RB,Raheem Mostert,70,197,32,9.0,MostRa00,1
-2024,LV,RB,Ameer Abdullah,69,203,31,9.0,AbduAm00,1
-2024,BAL,RB,Derrick Henry,75,247,30,8.0,HenrDe00,1
-2024,LAC,RB,Ezekiel Elliott,72,228,29,8.0,ElliEz00,1
-2024,SF,RB,Christian McCaffrey,71,205,28,7.0,McCaCh01,1
-2024,MIN,RB,Aaron Jones,69,208,29,7.0,JoneAa00,1
-2024,SF,RB,Matt Breida,70,190,29,7.0,BreiMa00,1
-2024,KC,RB,Samaje Perine,70,240,28,7.0,PeriSa00,1
-2024,ARI,RB,James Conner,73,233,29,7.0,ConnJa00,1
-2024,NYJ,RB,Tarik Cohen,66,191,29,7.0,CoheTa00,1
-2024,WAS,RB,Austin Ekeler,70,200,29,7.0,EkelAu00,1
-2024,HOU,RB,Dare Ogunbowale,71,205,30,7.0,OgunDa00,1
-2024,DAL,RB,Dalvin Cook,70,210,29,7.0,CookDa01,1
-2024,HOU,RB,Joe Mixon,73,220,28,7.0,MixoJo00,1
-2024,NO,RB,Alvin Kamara,70,215,29,7.0,KamaAl00,1
-2024,KC,RB,Kareem Hunt,71,216,29,7.0,HuntKa00,1
-2024,CLE,RB,D'Onta Foreman,73,233,28,7.0,ForeDO00,1
-2024,NO,RB,Jamaal Williams,72,213,29,7.0,WillJa06,1
-2024,WAS,RB,Jeremy McNichols,69,205,28,7.0,McNiJe00,1
-2024,MIA,RB,Jeff Wilson,72,194,28,6.0,WilsJe01,1
-2024,LAC,RB,Gus Edwards,73,238,29,6.0,EdwaGu00,1
-2024,CAR,RB,Mike Boone,70,205,29,6.0,BoonMi00,1
-2024,CLE,RB,Nyheim Hines,69,198,27,6.0,HineNy00,1
-2024,PIT,RB,Boston Scott,66,203,29,6.0,ScotBo02,1
-2024,TB,RB,Chase Edmonds,69,210,28,6.0,EdmoCh00,1
-2024,CAR,RB,Rashaad Penny,71,220,28,6.0,PennRa00,1
-2024,CLE,RB,Nick Chubb,71,225,28,6.0,ChubNi00,1
-2024,CLE,RB,John Kelly,70,205,27,6.0,KellJo00,2
-2024,LA,RB,Royce Freeman,72,238,28,6.0,FreeRo00,1
-2024,PHI,RB,Saquon Barkley,72,233,27,6.0,BarkSa00,1
-2024,LV,RB,Alexander Mattison,71,220,26,5.0,MattAl01,1
-2024,BAL,RB,Justice Hill,70,200,26,5.0,HillJu00,1
-2024,CAR,RB,Miles Sanders,71,211,27,5.0,SandMi01,1
-2024,NYG,RB,Devin Singletary,67,203,27,5.0,SingDe00,1
-2024,TEN,RB,Tony Pollard,72,209,27,5.0,PollTo00,1
-2024,CIN,RB,Trayveon Williams,68,206,26,5.0,WillTr06,1
-2024,JAX,RB,Myles Gaskin,70,200,27,5.0,GaskMy00,1
-2024,BUF,RB,Ty Johnson,70,210,26,5.0,JohnTy02,1
-2024,DET,RB,Craig Reynolds,71,215,28,5.0,ReynCr00,1
-2024,CHI,RB,Travis Homer,70,202,26,5.0,HomeTr00,1
-2024,JAX,RB,D'Ernest Johnson,70,208,28,5.0,JohnDE04,1
-2024,DET,RB,David Montgomery,71,222,27,5.0,MontDa01,1
-2024,GB,RB,Josh Jacobs,70,220,26,5.0,JacoJo01,1
-2024,NE,RB,JaMycal Hasty,68,205,28,4.0,HastJa02,1
-2024,NO,RB,James Robinson,70,220,26,4.0,RobiJa00,1
-2024,ARI,RB,Tony Jones,71,225,26,4.0,JoneTo04,1
-2024,PIT,RB,Jonathan Ward,72,202,26,4.0,WardJo00,2
-2024,SF,RB,Patrick Taylor,73,223,26,4.0,TaylPa01,1
-2024,IND,RB,Salvon Ahmed,71,196,25,4.0,AhmeSa01,1
-2024,HOU,RB,J.J. Taylor,66,185,26,4.0,TaylJJ01,1
-2024,DAL,RB,Rico Dowdle,72,215,26,4.0,DowdRi01,1
-2024,LAC,RB,J.K. Dobbins,70,214,25,4.0,DobbJK00,1
-2024,IND,RB,Jonathan Taylor,70,221,25,4.0,TaylJo02,1
-2024,CIN,RB,Zack Moss,70,215,26,4.0,MossZa00,1
-2024,GB,RB,AJ Dillon,72,250,26,4.0,DillAJ00,1
-2024,PIT,RB,La'Mical Perine,71,220,26,4.0,PeriLa00,1
-2024,CHI,RB,D'Andre Swift,69,211,25,4.0,SwifDA00,1
-2024,CHI,RB,Darrynton Evans,70,200,26,4.0,EvanDa02,1
-2024,NE,RB,Antonio Gibson,72,221,26,4.0,GibsAn00,1
-2024,MIA,RB,Anthony McFarland,69,198,26,4.0,McFaAn00,2
-2024,NO,RB,Clyde Edwards-Helaire,67,209,25,4.0,EdwaCl00,1
-2024,TEN,RB,Joshua Kelley,71,219,26,4.0,KellJo01,1
-2024,MIN,RB,Cam Akers,70,212,25,4.0,AkerCa00,1
-2024,ARI,RB,DeeJay Dallas,70,214,25,4.0,DallDe00,1
-2024,SF,RB,Ke'Shawn Vaughn,70,215,27,4.0,VaugKe00,1
-2024,NYJ,RB,Deon Jackson,72,220,25,3.0,JackDe02,1
-2024,ATL,RB,Spencer Brown,72,220,25,3.0,BrowSp01,2
-2024,CAR,RB,Chuba Hubbard,73,207,25,3.0,HubbCh01,1
-2024,SF,RB,Elijah Mitchell,70,221,26,3.0,MitcEl00,1
-2024,CIN,RB,Gary Brightwell,73,218,26,3.0,BrigGa00,2
-2024,GB,RB,Nate McCrary,73,225,25,3.0,McCrNa00,3
-2024,WAS,RB,Demetric Felton,69,185,26,3.0,FeltDe00,2
-2024,DET,RB,Jermar Jefferson,70,209,24,3.0,JeffJe00,2
-2024,LAC,RB,Jaret Patterson,68,195,24,3.0,PattJa01,1
-2024,NYJ,RB,Kene Nwangwu,73,205,26,3.0,NwanKe00,2
-2024,CIN,RB,Chris Evans,71,216,26,3.0,EvanCh02,2
-2024,JAX,RB,Jake Funk,70,205,26,3.0,FunkJa00,2
-2024,NE,RB,Rhamondre Stevenson,72,246,26,3.0,StevRh00,1
-2024,PIT,RB,Najee Harris,73,230,26,3.0,HarrNa00,1
-2024,CIN,RB,Khalil Herbert,69,212,26,3.0,HerbKh00,1
-2024,PHI,RB,Kenneth Gainwell,69,191,25,3.0,GainKe00,1
-2024,ARI,RB,Michael Carter,68,200,25,3.0,CartMi03,1
-2024,ATL,RB,Avery Williams,69,195,26,3.0,WillAv02,2
-2024,JAX,RB,Travis Etienne,70,200,25,3.0,EtieTr00,1
-2024,IND,RB,Trey Sermon,72,215,25,3.0,SermTr00,1
-2024,DEN,RB,Javonte Williams,70,220,24,3.0,WillJa10,1
-2024,DEN,RB,Tyler Badie,68,194,25,2.0,BadiTy00,2
-2024,IND,RB,Tyler Goodson,69,199,23,2.0,GoodTy00,2
-2024,NYJ,RB,Bam Knight,71,210,23,2.0,KnigZo00,1
-2024,KC,RB,Isiah Pacheco,70,215,25,2.0,PachIs00,1
-2024,PIT,RB,Jaylen Warren,68,225,25,2.0,WarrJa01,1
-2024,BUF,RB,James Cook,71,190,24,2.0,CookJa01,1
-2024,TB,RB,Rachaad White,72,210,25,2.0,WhitRa01,1
-2024,HOU,RB,Dameon Pierce,70,215,24,2.0,PierDa01,1
-2024,ATL,RB,Tyler Allgeier,70,220,24,2.0,AllgTy00,1
-2024,DAL,RB,Snoop Conner,70,220,24,2.0,ConnSn00,3
-2024,CLE,RB,Jerome Ford,70,220,25,2.0,FordJe00,1
-2024,MIN,RB,Ty Chandler,71,210,26,2.0,ChanTy01,1
-2024,NE,RB,Kevin Harris,70,220,23,2.0,HarrKe01,2
-2024,KC,RB,Keaontay Ingram,72,215,24,2.0,IngrKe01,1
-2024,SEA,RB,Brittain Brown,73,205,26,2.0,BrowBr06,3
-2024,MIA,RB,Zander Horvath,75,230,25,2.0,HorvZa00,2
-2024,CAR,RB,Raheem Blackshear,69,194,26,2.0,BlacRa00,2
-2024,SF,RB,Jordan Mason,71,218,25,2.0,MasoJo00,1
-2024,LA,RB,Ronnie Rivers,69,190,25,2.0,RiveRo01,1
-2024,DAL,RB,Malik Davis,70,207,25,2.0,DaviMa02,2
-2024,TEN,RB,Julius Chestnut,71,215,23,2.0,ChesJu00,2
-2024,LAC,RB,Hassan Haskins,74,220,24,2.0,HaskHa00,1
-2024,CAR,RB,Velus Jones Jr.,72,200,27,2.0,JoneVe00,2
-2024,WAS,RB,Brian Robinson,73,228,25,2.0,RobiBr01,1
-2024,PHI,RB,Tyrion Davis-Price,73,223,23,2.0,DaviTy03,2
-2024,LA,RB,Kyren Williams,69,199,24,2.0,WillKy02,1
-2024,LV,RB,Zamir White,72,215,24,2.0,WhitZa01,1
-2024,LV,RB,Isaiah Spiller,73,215,23,2.0,SpilIs00,2
-2024,CLE,RB,Pierre Strong,71,205,25,2.0,StroPi00,1
-2024,NYJ,RB,Breece Hall,71,220,23,2.0,HallBr03,1
-2024,SEA,RB,Kenneth Walker III,69,210,23,2.0,WalkKe00,1
-2024,SF,RB,Israel Abanikanda,70,215,21,1.0,AbanIs00,2
-2024,NYG,RB,Eric Gray,70,210,24,1.0,GrayEr01,2
-2024,IND,RB,Evan Hull,70,210,23,1.0,HullEv00,2
-2024,PHI,RB,Lew Nichols III,70,222,23,1.0,NichLe00,3
-2024,BAL,RB,Keaton Mitchell,68,184,22,1.0,MitcKe01,1
-2024,BAL,RB,Owen Wright,69,225,25,1.0,WrigOw00,3
-2024,ATL,RB,Bijan Robinson,71,214,22,1.0,RobiBi01,1
-2024,NO,RB,Kendre Miller,72,220,22,1.0,MillKe01,1
-2024,JAX,RB,Tank Bigsby,71,213,22,1.0,BigsTa00,1
-2024,CIN,RB,Chase Brown,70,205,24,1.0,BrowCh10,1
-2024,WAS,RB,Chris Rodriguez Jr.,71,224,24,1.0,RodrCh00,1
-2024,DAL,RB,Deuce Vaughn,66,176,22,1.0,VaugDe00,2
-2024,SEA,RB,Kenny McIntosh,72,210,24,1.0,McInKe00,2
-2024,MIN,RB,Mohamed Ibrahim,70,210,25,1.0,IbraMo00,3
-2024,NO,RB,Jordan Mims,72,205,25,1.0,MimsJo00,2
-2024,GB,RB,Chris Brooks,73,230,24,1.0,BrooCh00,2
-2024,ARI,RB,Emari Demercado,69,210,25,1.0,DemeEm00,1
-2024,DEN,RB,Jaleel McLaughlin,67,183,23,1.0,McLaJa00,1
-2024,GB,RB,Emanuel Wilson,71,220,25,1.0,WilsEm00,1
-2024,ATL,RB,Elijah Dotson,69,200,25,1.0,DotsEl00,2
-2024,LA,RB,SaRodorick Thompson Jr.,72,215,24,1.0,ThomSa00,3
-2024,ATL,RB,Carlos Washington,71,220,25,1.0,WashCa00,3
-2024,TB,RB,Sean Tucker,70,210,22,1.0,TuckSe00,1
-2024,CHI,RB,Roschon Johnson,72,222,23,1.0,JohnRo07,1
-2024,TEN,RB,Tyjae Spears,71,195,23,1.0,SpeaTy00,1
-2024,MIA,RB,De'Von Achane,69,185,22,1.0,AchaDe00,1
-2024,MIN,RB,DeWayne McBride,71,210,23,1.0,McBrDe00,3
-2024,NYJ,RB,Zach Evans,71,215,23,1.0,EvanZa00,3
-2024,DET,RB,Jahmyr Gibbs,69,200,22,1.0,GibbJa01,1
-2024,SEA,RB,Zach Charbonnet,73,220,23,1.0,CharZa00,1
-2024,LV,RB,Chris Collier,71,195,24,0.0,CollCh01,2
-2024,CIN,RB,Kendall Milton,74,220,22,0.0,MiltKe01,3
-2024,SEA,RB,George Holani,70,210,24,0.0,HolaGe00,2
-2024,KC,RB,Carson Steele,72,225,21,0.0,SteeCa00,1
-2024,CAR,RB,Jonathon Brooks,72,207,21,0.0,BrooJo02,2
-2024,TB,RB,Bucky Irving,70,195,22,0.0,IrviBu00,1
-2024,SF,RB,Isaac Guerendo,72,225,24,0.0,GuerIs00,1
-2024,DET,RB,Sione Vaki,71,208,23,0.0,VakiSi00,2
-2024,DEN,RB,Audric Estimé,71,227,21,0.0,EstiAu00,1
-2024,NYG,RB,Tyrone Tracy Jr.,71,210,24,0.0,TracTy00,1
-2024,JAX,RB,Keilan Robinson,68,188,24,0.0,RobiKe03,3
-2024,LAC,RB,Kimani Vidal,68,215,23,0.0,VidaKi00,2
-2024,ATL,RB,Jase McClellan,71,212,22,0.0,McClJa05,3
-2024,HOU,RB,Jawhar Jordan,70,185,25,0.0,JordJa00,3
-2024,LV,RB,Dylan Laube,70,208,24,0.0,LaubDy00,3
-2024,CLE,RB,Jacob Kibodi,73,225,25,0.0,KiboJa00,2
-2024,WAS,RB,Colson Yankoff,76,225,24,0.0,YankCo00,3
-2024,LA,RB,Cody Schrader,69,214,25,0.0,SchrCo00,2
-2024,LA,RB,Blake Corum,68,213,23,0.0,CoruBl00,1
-2024,PHI,RB,Will Shipley,71,210,22,0.0,ShipWi00,2
-2024,NE,RB,Terrell Jennings,72,225,23,0.0,JennTe00,2
-2024,NYJ,RB,Braelon Allen,73,235,20,0.0,AlleBr05,1
-2024,BAL,RB,Rasheen Ali,71,209,23,0.0,AlixRa00,2
-2024,NYJ,RB,Isaiah Davis,73,220,22,0.0,DaviIs00,2
-2024,GB,RB,MarShawn Lloyd,69,210,23,0.0,LloyMa00,2
-2024,MIA,RB,Jaylen Wright,71,210,21,0.0,WrigJa04,1
-2024,BUF,RB,Ray Davis,68,216,24,0.0,DaviRa04,1
-2024,ARI,RB,Trey Benson,73,215,22,0.0,BensTr01,1
-2014,MIN,RB,Adrian Peterson,73,217,39,7.0,PeteAd01,1
-2014,SEA,RB,Marshawn Lynch,71,215,38,7.0,LyncMa00,1
-2014,PIT,RB,Le'Veon Bell,73,244,32,1.0,BellLe00,1
-2014,TB,RB,Doug Martin,69,215,35,2.0,MartDo00,1
-2013,OAK,FB,Marcel Reece,73,255,39,5.0,ReecMa00,1
-1995,IND,RB,Roosevelt Potts,72,260,53,,PottRo00,1
-2009,MIA,RB,Ricky Williams,70,230,100,10.0,WillRi00,1
+Team,ABV,Season,Position,Player,pfr_id,Birth_date,Age,Years_exp,Entry_year,Height,Weight,gm_log_rtrvd
+Detroit Lions,DET,1990,RB,James Wilder,WildJa00,5/12/1958,31,9,1981,75,225,1
+Miami Dolphins,MIA,1990,RB,Tony Collins,CollTo01,5/27/1959,30,9,1981,71,203,1
+Cleveland Browns,CLE,1990,RB,Barry Redden,ReddBa00,7/21/1960,29,8,1982,70,205,1
+Denver Broncos,DEN,1990,RB,Sammy Winder,WindSa00,7/15/1959,30,8,1982,71,203,1
+Los Angeles Rams,RAM,1990,RB,Curt Warner,WarnCu00,3/18/1961,28,7,1983,71,205,1
+Minnesota Vikings,MIN,1990,RB,Jessie Clark,ClarJe00,1/3/1960,30,7,1983,72,226,1
+Buffalo Bills,BUF,1990,RB,Larry Kinnebrew,KinnLa00,6/11/1959,30,7,1983,73,266,1
+Green Bay Packers,GNB,1990,RB,Michael Haddix,HaddMi00,12/27/1961,28,7,1983,74,225,1
+Atlanta Falcons,ATL,1990,RB,Gene Lang,LangGe00,3/15/1962,27,6,1984,70,196,1
+Green Bay Packers,GNB,1990,RB,Herman Fontenot,FontHe00,9/12/1963,26,5,1985,72,206,2
+San Diego Chargers,SDG,1990,RB,Tim Spencer,SpenTi00,12/10/1960,29,5,1985,73,220,1
+Philadelphia Eagles,PHI,1990,RB,Anthony Toney,ToneAn00,9/23/1962,27,4,1986,72,227,1
+Cleveland Browns,CLE,1990,RB,Brent Fullwood,FullBr00,10/10/1963,26,4,1987,71,209,1
+Washington Redskins,WAS,1990,RB,Kelvin Bryant,BryaKe00,9/26/1960,29,4,1986,74,195,1
+Washington Redskins,WAS,1990,RB,Reggie Dupard,DupaRe00,10/30/1963,26,4,1986,71,206,2
+Los Angeles Raiders,RAI,1990,RB,Bo Jackson,JackBo00,11/30/1962,27,3,1987,73,230,1
+Philadelphia Eagles,PHI,1990,RB,Roger Vick,VickRo00,8/11/1964,25,3,1987,75,232,1
+Dallas Cowboys,DAL,1990,RB,Timmy Smith,SmitTi00,1/24/1964,25,3,1987,71,216,2
+New England Patriots,NWE,1990,RB,Jamie Morris,MorrJa00,6/6/1965,24,2,1988,67,188,2
+Chicago Bears,CHI,1990,RB,Lars Tate,TateLa00,2/2/1966,23,2,1988,74,215,1
+Denver Broncos,DEN,1990,RB,Mel Bratton,BratMe00,2/2/1965,24,1,1989,73,225,1
+Tampa Bay Buccaneers,TAM,1990,RB,John Harvey,HarvJo00,12/28/1966,23,0,1990,71,185,1
+Pittsburgh Steelers,PIT,1990,RB,Richard Bell,BellRi00,5/3/1967,22,0,1990,72,200,1
+Los Angeles Rams,RAM,1991,RB,Mosi Tatupu,TatuMo00,4/26/1955,35,13,1978,72,227,1
+Washington Redskins,WAS,1991,RB,Gerald Riggs,RiggGe00,11/6/1960,30,9,1982,73,230,1
+Cleveland Browns,CLE,1991,RB,Joe Morris,MorrJo00,9/15/1960,30,9,1982,67,190,1
+Minnesota Vikings,MIN,1991,RB,Alfred Anderson,AndeAl00,8/4/1961,29,7,1984,73,214,1
+Green Bay Packers,GNB,1991,RB,Allen Rice,RiceAl00,4/5/1962,28,7,1984,70,200,1
+New England Patriots,NWE,1991,RB,George Adams,AdamGe00,12/22/1962,28,6,1985,73,225,2
+Cleveland Browns,CLE,1991,RB,Lee Rouson,RousLe00,10/18/1962,28,6,1985,73,210,2
+Atlanta Falcons,ATL,1991,RB,Mike Rozier,RoziMi00,3/1/1961,29,6,1985,70,198,1
+Philadelphia Eagles,PHI,1991,RB,Thomas Sanders,SandTh00,1/4/1962,29,6,1985,71,203,1
+Atlanta Falcons,ATL,1991,RB,Gary Wilkins,WilkGa00,11/23/1963,27,5,1986,73,235,1
+Los Angeles Raiders,RAI,1991,RB,Vance Mueller,MuelVa00,5/5/1964,26,5,1986,72,210,2
+Buffalo Bills,BUF,1991,RB,Jamie Mueller,MuelJa00,10/4/1964,26,4,1987,73,225,2
+Minnesota Vikings,MIN,1991,RB,Rick Fenney,FennRi00,12/7/1964,26,4,1987,73,242,1
+Phoenix Cardinals,PHO,1991,RB,Terrence Flagler,FlagTe00,9/24/1964,26,4,1987,72,200,1
+Indianapolis Colts,IND,1991,RB,Tim Manoa,ManoTi00,9/9/1964,26,4,1987,73,227,2
+Cincinnati Bengals,CIN,1991,RB,Ickey Woods,WoodIc00,2/28/1966,24,3,1988,74,231,1
+Green Bay Packers,GNB,1991,RB,Keith Woodside,WoodKe00,7/29/1964,26,3,1988,71,203,2
+Kansas City Chiefs,KAN,1991,RB,Kenny Gamble,GambKe00,3/8/1965,25,3,1988,70,197,1
+New England Patriots,NWE,1991,RB,Marvin Allen,AlleMa01,11/23/1965,25,3,1988,70,215,1
+Cleveland Browns,CLE,1991,RB,Mike Oliphant,OlipMi00,5/19/1963,27,3,1988,70,183,1
+Cincinnati Bengals,CIN,1991,RB,Craig Taylor,TaylCr00,1/3/1966,25,2,1989,71,224,2
+Philadelphia Eagles,PHI,1991,RB,Robert Drummond,DrumRo00,6/21/1967,23,2,1989,73,205,1
+Indianapolis Colts,IND,1991,RB,Bruce Perkins,PerkBr00,8/14/1967,23,1,1990,74,230,1
+New Orleans Saints,NOR,1991,RB,Gill Fenerty,FeneGi00,8/24/1963,27,1,1990,72,205,2
+Los Angeles Rams,RAM,1991,RB,Marcus Dupree,DuprMa00,5/22/1964,26,1,1990,74,220,1
+New York Giants,NYG,1992,RB,Ottis Anderson,AndeOt00,1/19/1957,34,13,1979,74,220,1
+New York Jets,NYJ,1992,RB,Freeman McNeil,McNeFr00,4/22/1959,32,11,1981,71,216,1
+Cleveland Browns,CLE,1992,RB,James Brooks,BrooJa00,12/28/1958,33,11,1981,70,177,1
+Minnesota Vikings,MIN,1992,RB,Darrin Nelson,NelsDa00,1/2/1959,33,10,1982,69,180,1
+Chicago Bears,CHI,1992,RB,Dennis Gentry,GentDe00,2/10/1959,32,10,1982,68,173,2
+New York Jets,NYJ,1992,RB,Johnny Hector,HectJo00,11/26/1960,31,9,1983,71,200,1
+Green Bay Packers,GNB,1992,RB,Buford McGee,McGeBu00,8/16/1960,31,8,1984,72,206,1
+Tampa Bay Buccaneers,TAM,1992,RB,Stanford Jennings,JennSt00,3/12/1962,29,8,1984,73,205,1
+Miami Dolphins,MIA,1992,RB,Tony Paige,PaigTo00,10/14/1962,29,8,1984,70,225,1
+Pittsburgh Steelers,PIT,1992,RB,Albert Bentley,BentAl00,8/15/1960,31,7,1985,71,207,1
+Indianapolis Colts,IND,1992,RB,Maurice Carthon,CartMa00,4/24/1961,30,7,1985,73,225,1
+Denver Broncos,DEN,1992,RB,Steve Sewell,SeweSt00,4/2/1963,28,7,1985,75,210,2
+New Orleans Saints,NOR,1992,RB,Allen Pinkett,PinkAl00,1/25/1964,27,6,1986,69,181,1
+New Orleans Saints,NOR,1992,RB,Buford Jordan,JordBu00,6/26/1962,29,6,1986,72,222,2
+Tampa Bay Buccaneers,TAM,1992,RB,Alonzo Highsmith,HighAl00,2/26/1965,26,5,1987,73,234,1
+Denver Broncos,DEN,1992,RB,Bob Perryman,PerrBo00,10/16/1964,27,5,1987,73,233,1
+New Orleans Saints,NOR,1992,RB,Bobby Morse,MorsBo00,10/3/1965,26,5,1987,70,201,1
+Kansas City Chiefs,KAN,1992,RB,Christian Okoye,OkoyCh00,8/16/1961,30,5,1987,73,253,1
+Detroit Lions,DET,1992,RB,DJ Dozier,DoziDJ00,9/21/1965,26,5,1987,72,210,2
+Green Bay Packers,GNB,1992,RB,Harry Sydney,SydnHa00,6/26/1959,32,5,1987,72,217,2
+Washington Redskins,WAS,1992,RB,John Settle,SettJo00,6/2/1965,26,5,1987,69,207,1
+Detroit Lions,DET,1992,RB,Troy Stradford,StraTr00,9/11/1964,27,5,1987,69,191,1
+New York Jets,NYJ,1992,RB,AB Brown,BrowAB00,12/4/1965,26,3,1989,69,210,1
+New England Patriots,NWE,1992,RB,Ivy Joe Hunter,HuntIv00,11/16/1966,25,3,1989,72,237,1
+Denver Broncos,DEN,1992,RB,Jeff Alexander,AlexJe00,1/15/1965,26,3,1989,72,245,1
+Minnesota Vikings,MIN,1992,RB,Keith Henderson,HendKe00,8/4/1966,25,3,1989,73,220,2
+Atlanta Falcons,ATL,1992,RB,Keith Jones,JoneKe01,3/20/1966,25,3,1989,73,210,2
+Chicago Bears,CHI,1992,RB,Mark Green,GreeMa00,3/22/1967,24,3,1989,71,181,2
+Denver Broncos,DEN,1992,RB,Sammie Smith,SmitSa00,5/16/1967,24,3,1989,74,226,1
+Kansas City Chiefs,KAN,1992,RB,Bill Jones,JoneBi00,9/10/1966,25,2,1990,71,222,1
+Indianapolis Colts,IND,1992,RB,Ken Clark,ClarKe00,6/11/1966,25,2,1990,69,201,2
+Denver Broncos,DEN,1992,RB,Greg Lewis,LewiGr00,8/10/1969,22,1,1991,70,214,2
+Cincinnati Bengals,CIN,1992,RB,Mike Dingle,DingMi00,1/30/1969,22,1,1991,74,240,1
+Dallas Cowboys,DAL,1992,RB,Ricky Blake,BlakRi00,7/15/1967,24,1,1991,74,235,1
+Atlanta Falcons,ATL,1993,RB,Eric Dickerson,DickEr00,9/2/1960,32,10,1983,75,220,1
+Detroit Lions,DET,1993,RB,James Jones,JoneJa00,3/21/1961,31,10,1983,74,229,1
+Minnesota Vikings,MIN,1993,RB,Roger Craig,CraiRo00,7/10/1960,32,10,1983,72,222,1
+Detroit Lions,DET,1993,RB,Gary Anderson,AndeGa00,4/18/1961,31,8,1985,72,180,1
+Cleveland Browns,CLE,1993,RB,Kevin Mack,MackKe00,8/9/1962,30,8,1985,72,212,1
+New Orleans Saints,NOR,1993,RB,Dalton Hilliard,HillDa00,1/21/1964,28,7,1986,68,196,1
+Chicago Bears,CHI,1993,RB,Neal Anderson,AndeNe00,8/14/1964,28,7,1986,71,210,1
+Seattle Seahawks,SEA,1993,RB,Rueben Mayes,MayeRu00,6/6/1963,29,7,1986,71,201,1
+Philadelphia Eagles,PHI,1993,RB,Vai Sikahema,SikaVa00,8/29/1962,30,7,1986,69,191,1
+Los Angeles Raiders,RAI,1993,RB,Gaston Green,GreeGa00,8/1/1966,26,5,1988,70,189,1
+Atlanta Falcons,ATL,1993,RB,John Stephens,StepJo00,2/23/1966,26,5,1988,73,220,1
+Denver Broncos,DEN,1993,RB,Robert Delpino,DelpRo00,11/2/1965,27,5,1988,72,198,1
+Indianapolis Colts,IND,1993,RB,Warren Williams,WillWa00,7/29/1965,27,5,1988,72,203,2
+Miami Dolphins,MIA,1993,RB,Bobby Humphrey,HumpBo00,10/11/1966,26,4,1989,73,201,1
+Philadelphia Eagles,PHI,1993,RB,Heath Sherman,SherHe00,3/27/1967,25,4,1989,72,190,1
+Los Angeles Rams,RAM,1993,RB,Anthony Thompson,ThomAn00,4/8/1967,25,3,1990,71,207,2
+Dallas Cowboys,DAL,1993,RB,Derrick Gainer,GainDe00,8/15/1966,26,3,1990,71,240,1
+Detroit Lions,DET,1993,RB,Curvin Richards,RichCu00,12/26/1968,24,2,1991,69,200,1
+Chicago Bears,CHI,1993,RB,Darren Lewis,LewiDa00,11/7/1968,24,2,1991,70,219,2
+Kansas City Chiefs,KAN,1993,RB,Ernie Thompson,ThomEr00,10/25/1969,23,2,1991,71,238,1
+Minnesota Vikings,MIN,1993,RB,Ivory Lee Brown,BrowIv00,8/17/1969,23,2,1991,74,230,1
+Los Angeles Raiders,RAI,1993,RB,Nick Bell,BellNi00,8/19/1968,24,2,1991,74,250,2
+New York Jets,NYJ,1993,RB,Pat Chaffey,ChafPa00,4/19/1967,25,2,1991,73,218,1
+Cincinnati Bengals,CIN,1993,RB,Ostell Miles,MileOs00,8/6/1970,22,1,1992,72,236,1
+New England Patriots,NWE,1993,RB,Scott Lockwood,LockSc00,3/23/1968,24,1,1992,70,196,1
+Philadelphia Eagles,PHI,1993,RB,Tony Brooks,BrooTo00,8/17/1969,23,1,1992,72,230,3
+Buffalo Bills,BUF,1994,RB,Kenneth Davis,DaviKe00,4/16/1962,31,8,1986,70,208,1
+Los Angeles Raiders,RAI,1994,RB,Napoleon McCallum,McCaNa00,10/6/1963,30,8,1986,74,225,2
+Los Angeles Raiders,RAI,1994,RB,Tom Rathman,RathTo00,10/7/1962,31,8,1986,73,230,1
+Arizona Cardinals,ARI,1994,RB,Barry Word,WordBa00,1/17/1963,30,7,1987,74,242,1
+Chicago Bears,CHI,1994,RB,Merril Hoge,HogeMe00,1/26/1965,28,7,1987,74,230,1
+New Orleans Saints,NOR,1994,RB,Brad Muster,MustBr00,4/11/1965,28,6,1988,75,235,1
+Dallas Cowboys,DAL,1994,RB,Tommie Agee,AgeeTo00,2/22/1964,29,6,1988,72,235,1
+Miami Dolphins,MIA,1994,RB,Cleveland Gary,GaryCl00,5/4/1966,27,5,1989,72,226,1
+Cleveland Browns,CLE,1994,RB,Eric Metcalf,MetcEr00,1/23/1968,25,5,1989,70,190,1
+Chicago Bears,CHI,1994,RB,Tim Worley,WorlTi00,9/24/1966,27,5,1989,74,216,1
+Pittsburgh Steelers,PIT,1994,RB,Barry Foster,FostBa00,12/8/1968,25,4,1990,70,218,1
+Green Bay Packers,GNB,1994,RB,Darrell Thompson,ThomDa01,11/23/1967,26,4,1990,72,215,1
+New York Jets,NYJ,1994,RB,Johnny Johnson,JohnJo00,6/11/1968,25,4,1990,75,220,1
+Tampa Bay Buccaneers,TAM,1994,RB,Vernon Turner,TurnVe00,1/6/1967,27,4,1990,68,185,1
+Los Angeles Raiders,RAI,1994,RB,Jarrod Bunch,BuncJa00,8/9/1968,25,3,1991,74,250,2
+Kansas City Chiefs,KAN,1994,RB,Jon Vaughn,VaugJo00,3/12/1970,23,3,1991,69,203,2
+Tampa Bay Buccaneers,TAM,1994,RB,Anthony McDowell,McDoAn00,11/12/1968,25,2,1992,71,235,1
+Tampa Bay Buccaneers,TAM,1994,RB,Mazio Royster,RoysMa00,8/3/1970,23,2,1992,73,200,1
+Los Angeles Raiders,RAI,1994,RB,Tyrone Montgomery,MontTy00,8/3/1970,23,1,1993,72,190,1
+Carolina Panthers,CAR,1995,RB,Blair Thomas,ThomBl00,10/7/1967,27,0,1995,70,202,1
+Tampa Bay Buccaneers,TAM,1995,RB,Bobby Joe Edmonds,EdmoBo00,9/26/1964,30,0,1995,71,190,1
+New York Jets,NYJ,1995,RB,Brad Baxter,BaxtBr00,5/5/1967,27,0,1995,73,235,1
+New England Patriots,NWE,1995,RB,Corey Croom,CrooCo00,5/22/1971,23,0,1995,71,208,1
+Dallas Cowboys,DAL,1995,RB,David Lang,LangDa00,3/28/1968,26,0,1995,71,210,1
+Oakland Raiders,OAK,1995,RB,Eric Ball,BallEr00,7/1/1966,28,0,1995,74,230,2
+Cincinnati Bengals,CIN,1995,RB,James Joseph,JoseJa00,10/28/1967,27,0,1995,72,222,2
+Philadelphia Eagles,PHI,1995,RB,James Saxon,SaxoJa00,3/23/1966,28,0,1995,71,239,2
+Pittsburgh Steelers,PIT,1995,RB,John L Williams,WillJo00,11/23/1964,30,0,1995,71,231,1
+St. Louis Rams,STL,1995,RB,Johnny Bailey,BailJo00,3/17/1967,27,0,1995,68,190,2
+Chicago Bears,CHI,1995,RB,Lewis Tillman,TillLe00,4/16/1966,28,0,1995,72,204,1
+Cleveland Browns,CLE,1995,RB,Lorenzo White,WhitLo00,4/12/1966,28,0,1995,71,222,1
+Houston Oilers,HOU,1995,RB,Marion Butts,ButtMa00,8/1/1966,28,0,1995,73,248,1
+Arizona Cardinals,ARI,1995,RB,Mark Higgs,HiggMa00,4/11/1966,28,0,1995,67,199,1
+San Francisco 49ers,SFO,1995,RB,Ricky Ervins,ErviRi00,12/7/1968,26,0,1995,67,195,1
+Denver Broncos,DEN,1995,RB,Rod Bernstine,BernRo00,2/8/1965,29,0,1995,75,238,1
+San Diego Chargers,SDG,1995,RB,Rodney Culver,CulvRo00,12/23/1969,25,0,1995,69,224,2
+St. Louis Rams,STL,1995,RB,Ron Wolfley,WolfRo00,10/14/1962,32,0,1995,72,230,1
+Indianapolis Colts,IND,1995,RB,Ronald Humphrey,HumpRo00,3/3/1969,25,0,1995,70,211,1
+Pittsburgh Steelers,PIT,1995,RB,Steve Avery,AverSt00,8/18/1966,28,0,1995,74,233,1
+Seattle Seahawks,SEA,1995,RB,Steve Smith,SmitSt00,8/30/1964,30,0,1995,73,242,1
+Jacksonville Jaguars,JAX,1995,RB,Vaughn Dunbar,DunbVa00,9/4/1968,26,0,1995,70,204,1
+Kansas City Chiefs,KAN,1996,RB,Todd McNair,McNaTo00,10/7/1965,30,7,1989,73,202,2
+Tampa Bay Buccaneers,TAM,1996,RB,Tracy Johnson,JohnTr00,11/29/1966,29,7,1989,72,242,1
+Indianapolis Colts,IND,1996,RB,Vince Workman,WorkVi00,5/9/1968,27,7,1989,70,215,1
+San Francisco 49ers,SFO,1996,RB,Dexter Carter,CartDe00,9/15/1967,28,6,1990,69,170,2
+New York Jets,NYJ,1996,RB,Reggie Cobb,CobbRe00,7/7/1968,27,6,1990,73,212,1
+San Diego Chargers,SDG,1996,RB,Leonard Russell,RussLe00,11/17/1969,26,5,1991,74,240,1
+Tampa Bay Buccaneers,TAM,1996,RB,Leroy Thompson,ThomLe00,2/3/1968,27,5,1991,70,217,1
+Baltimore Ravens,BAL,1996,RB,Randy Baldwin,BaldRa00,8/19/1967,28,5,1991,70,220,1
+Denver Broncos,DEN,1996,RB,Reggie Rivers,RiveRe00,2/22/1968,27,5,1991,73,215,2
+Miami Dolphins,MIA,1996,RB,Robert Wilson,WilsRo00,1/13/1969,26,5,1991,72,255,1
+Philadelphia Eagles,PHI,1996,RB,Adam Walker,WalkAd00,6/7/1968,27,4,1992,73,210,1
+Detroit Lions,DET,1996,RB,Eric Lynch,LyncEr00,5/16/1970,25,4,1992,70,224,1
+Carolina Panthers,CAR,1996,RB,Tony Smith,SmitTo00,6/29/1970,25,4,1992,73,215,1
+St. Louis Rams,STL,1996,RB,Greg Robinson,RobiGr00,8/7/1969,26,3,1993,70,205,2
+New York Jets,NYJ,1996,RB,Kenyon Rasheed,RashKe00,8/23/1970,25,3,1993,70,235,1
+Tampa Bay Buccaneers,TAM,1996,RB,Reggie Brooks,BrooRe00,1/19/1971,24,3,1993,68,211,1
+Green Bay Packers,GNB,1996,RB,Calvin Jones,JoneCa00,11/27/1970,25,2,1994,71,205,1
+Cincinnati Bengals,CIN,1996,RB,Jeff Cothran,CothJe00,6/28/1971,24,2,1994,73,249,1
+San Diego Chargers,SDG,1996,RB,Freddie Bradley,BradFr00,6/12/1970,25,0,1996,70,208,1
+New Orleans Saints,NOR,1996,RB,Ricky Whittle,WhitRi00,12/21/1971,24,0,1996,69,200,1
+Kansas City Chiefs,KAN,1997,RB,Marcus Allen,AlleMa00,3/26/1960,36,15,1982,74,210,1
+Baltimore Ravens,BAL,1997,RB,Earnest Byner,ByneEa00,9/15/1962,34,13,1984,70,215,1
+Dallas Cowboys,DAL,1997,RB,Herschel Walker,WalkHe00,3/3/1962,34,11,1986,73,225,1
+Philadelphia Eagles,PHI,1997,RB,Mel Gray,GrayMe00,3/16/1961,35,11,1986,69,171,1
+Chicago Bears,CHI,1997,RB,Ronnie Harmon,HarmRo00,5/7/1964,32,11,1986,71,200,1
+Washington Redskins,WAS,1997,RB,Marc Logan,LogaMa00,5/9/1965,31,10,1987,72,228,1
+Oakland Raiders,OAK,1997,RB,Derrick Fenner,FennDe00,4/6/1967,29,8,1989,71,240,1
+San Diego Chargers,SDG,1997,RB,Carwell Gardner,GardCa00,11/27/1966,30,7,1990,74,240,2
+New York Giants,NYG,1997,RB,Rodney Hampton,HampRo00,4/3/1969,27,7,1990,71,228,1
+New York Giants,NYG,1997,RB,Erric Pegram,PegrEr00,1/7/1969,28,6,1991,70,195,1
+Arizona Cardinals,ARI,1997,RB,Derrick Moore,MoorDe00,10/13/1967,29,5,1992,72,238,1
+Minnesota Vikings,MIN,1997,RB,Robert Green,GreeRo00,9/10/1970,26,5,1992,68,212,2
+Cincinnati Bengals,CIN,1997,RB,Scottie Graham,GrahSc00,3/28/1969,27,5,1992,69,217,1
+New Orleans Saints,NOR,1997,RB,Derek Brown,BrowDe01,4/15/1971,25,4,1993,69,205,1
+New Orleans Saints,NOR,1997,RB,Wes Bender,BendWe00,8/2/1970,26,4,1993,70,230,1
+Miami Dolphins,MIA,1997,RB,Irving Spikes,SpikIr00,12/21/1970,26,3,1994,68,205,2
+Green Bay Packers,GNB,1997,RB,Chris Darkins,DarkCh00,4/30/1974,22,1,1996,72,210,3
+Oakland Raiders,OAK,1997,RB,Joe Aska,AskaJo00,7/14/1972,24,1,1996,71,240,1
+New England Patriots,NWE,1997,RB,Marrio Grier,GrieMa00,12/5/1971,25,1,1996,70,229,1
+Miami Dolphins,MIA,1997,RB,Ray Nealy,NealRa00,4/30/1975,21,0,1997,71,220,3
+New York Jets,NYJ,1998,RB,Keith Byars,ByarKe00,10/14/1963,34,12,1986,73,257,1
+Indianapolis Colts,IND,1998,RB,Craig Heyward,HeywCr00,9/26/1966,31,10,1988,71,265,1
+Detroit Lions,DET,1998,RB,Barry Sanders,SandBa00,7/16/1968,29,9,1989,68,200,1
+New York Jets,NYJ,1998,RB,Dave Meggett,MeggDa00,4/30/1966,31,9,1989,67,190,1
+Arizona Cardinals,ARI,1998,RB,Cedric Smith,SmitCe00,5/27/1968,29,8,1990,71,250,1
+Atlanta Falcons,ATL,1998,RB,Harold Green,GreeHa00,1/29/1968,29,8,1990,74,222,1
+Seattle Seahawks,SEA,1998,RB,Steve Broussard,BrouSt00,2/22/1967,30,8,1990,67,201,1
+Oakland Raiders,OAK,1998,RB,Harvey Williams,WillHa00,4/22/1967,30,7,1991,74,220,1
+Miami Dolphins,MIA,1998,RB,Ronald Moore,MoorRo01,1/26/1970,27,5,1993,70,220,1
+Baltimore Ravens,BAL,1998,RB,Roosevelt Potts,PottRo00,1/8/1971,27,5,1993,72,250,1
+Denver Broncos,DEN,1998,RB,Vaughn Hebron,HebrVa00,10/7/1970,27,5,1993,68,192,1
+San Francisco 49ers,SFO,1998,RB,Chuck Levy,LevyCh00,1/7/1972,26,4,1994,72,206,1
+Washington Redskins,WAS,1998,RB,LeShai Maston,MastLe00,10/7/1970,27,4,1994,72,236,1
+Philadelphia Eagles,PHI,1998,RB,Aaron Hayden,HaydAa00,4/13/1973,24,2,1996,72,216,2
+Detroit Lions,DET,1998,RB,Jerris McPhail,McPhJe00,6/26/1972,25,2,1996,71,198,1
+Carolina Panthers,CAR,1998,RB,Mike Dulaney,DulaMi00,9/9/1970,27,2,1996,72,245,3
+Cincinnati Bengals,CIN,1998,RB,Ray Zellars,ZellRa00,3/25/1973,24,2,1996,71,233,1
+Philadelphia Eagles,PHI,1998,RB,Corey Walker,WalkCo00,6/4/1973,24,1,1997,70,188,1
+Baltimore Ravens,BAL,1998,RB,Kenyon Cotton,CottKe00,2/23/1974,23,1,1997,72,255,3
+Dallas Cowboys,DAL,1998,RB,Nicky Sualua,SualNi00,4/16/1975,22,1,1997,71,260,3
+St. Louis Rams,STL,1998,RB,June Henley,HenlJu00,9/4/1975,22,0,1998,70,226,1
+Cincinnati Bengals,CIN,1998,RB,Michael Blair,BlaiMi00,11/26/1974,23,0,1998,71,245,1
+Dallas Cowboys,DAL,1999,RB,Daryl Johnston,JohnDa00,2/10/1966,32,10,1989,74,242,2
+Denver Broncos,DEN,1999,RB,Derek Loville,LoviDe00,7/4/1968,30,9,1990,70,210,1
+Minnesota Vikings,MIN,1999,RB,Leroy Hoard,HoarLe00,5/15/1968,30,9,1990,71,225,1
+New Orleans Saints,NOR,1999,RB,Aaron Craver,CravAa00,12/18/1968,30,8,1991,72,232,2
+Philadelphia Eagles,PHI,1999,RB,Eric Bieniemy,BienEr00,8/15/1969,29,8,1991,67,205,1
+New York Giants,NYG,1999,RB,Gary Brown,BrowGa00,7/1/1969,29,8,1991,71,230,1
+Chicago Bears,CHI,1999,RB,Edgar Bennett,BennEd00,2/15/1969,29,7,1992,72,218,1
+Philadelphia Eagles,PHI,1999,RB,Kevin Turner,TurnKe00,6/12/1969,29,7,1992,73,231,2
+Dallas Cowboys,DAL,1999,RB,Tim Lester,LestTi00,6/15/1968,30,7,1992,69,230,1
+San Francisco 49ers,SFO,1999,RB,Tommy Vardell,VardTo00,2/20/1969,29,7,1992,73,238,1
+Kansas City Chiefs,KAN,1999,RB,Bam Morris,MorrBa00,1/13/1972,26,5,1994,72,259,1
+Detroit Lions,DET,1999,RB,Greg Hill,HillGr00,2/23/1972,26,5,1994,71,212,1
+Philadelphia Eagles,PHI,1999,RB,James Bostic,BostJa00,3/13/1972,26,5,1994,71,225,1
+Indianapolis Colts,IND,1999,RB,Keith Elias,EliaKe00,2/3/1972,26,5,1994,69,203,1
+New York Giants,NYG,1999,RB,LeShon Johnson,JohnLe01,1/15/1971,27,5,1994,72,215,2
+New York Giants,NYG,1999,RB,Charles Way,WayxCh00,12/27/1972,26,3,1996,72,250,1
+Indianapolis Colts,IND,1999,RB,Darick Holmes,HolmDa00,7/1/1971,27,3,1996,72,237,1
+New Orleans Saints,NOR,1999,RB,Dino Philyaw,PhilDi00,10/30/1970,28,3,1996,70,205,1
+New England Patriots,NWE,1999,RB,Jerry Ellison,ElliJe00,12/20/1971,27,3,1996,70,204,1
+San Francisco 49ers,SFO,1999,RB,Lawrence Phillips,PhilLa00,5/12/1975,23,3,1996,72,210,1
+Indianapolis Colts,IND,1999,RB,Leeland McElroy,McElLe00,6/25/1974,24,3,1996,69,212,2
+Tennessee Titans,TEN,1999,RB,Mike Archie,ArchMi00,10/14/1972,26,3,1996,68,205,1
+Cleveland Browns,CLE,1999,RB,Rashaan Salaam,SalaRa00,10/8/1974,24,3,1996,73,225,1
+Indianapolis Colts,IND,1999,RB,Scott Greene,GreeSc00,6/1/1972,26,3,1996,70,240,1
+Dallas Cowboys,DAL,1999,RB,Sherman Williams,WillSh00,8/13/1973,25,3,1996,68,202,1
+Chicago Bears,CHI,1999,RB,Ty Hallock,HallTy00,4/30/1971,27,3,1996,74,254,1
+Atlanta Falcons,ATL,1999,RB,Byron Hanspard,HansBy00,1/23/1976,22,2,1997,70,200,2
+St. Louis Rams,STL,1999,RB,David Thompson,ThomDa00,1/13/1975,23,2,1997,68,200,1
+New England Patriots,NWE,1999,RB,Derrick Cullors,CullDe00,12/26/1972,26,2,1997,72,195,1
+Carolina Panthers,CAR,1999,RB,Fred Lane,LaneFr00,9/6/1975,23,2,1997,70,205,1
+Cleveland Browns,CLE,1999,RB,George Jones,JoneGe00,12/31/1973,25,2,1997,69,212,2
+Cincinnati Bengals,CIN,1999,RB,Sedrick Shaw,ShawSe00,11/16/1973,25,2,1997,72,214,1
+Tennessee Titans,TEN,1999,RB,Spencer George,GeorSp00,10/28/1973,25,2,1997,69,200,3
+New Orleans Saints,NOR,1999,RB,Troy Davis,DaviTr00,9/14/1975,23,2,1997,67,191,2
+Philadelphia Eagles,PHI,1999,RB,Edwin Watson,WatsEd00,9/29/1976,22,1,1998,72,225,3
+Atlanta Falcons,ATL,1999,RB,Ken Oxendine,OxenKe00,10/4/1975,23,1,1998,72,230,2
+Kansas City Chiefs,KAN,1999,RB,Rashaan Shehee,ShehRa00,6/20/1975,23,1,1998,70,210,1
+Jacksonville Jaguars,JAX,1999,RB,Tavian Banks,BankTa00,2/17/1974,24,1,1998,70,208,1
+Detroit Lions,DET,1999,RB,Travis Reece,ReecTr00,4/3/1975,23,1,1998,75,251,3
+San Diego Chargers,SDG,1999,RB,Tremayne Stephens,StepTr00,4/16/1976,22,1,1998,71,206,1
+New Orleans Saints,NOR,1999,RB,Wilmont Perry,PerrWi00,2/24/1975,23,1,1998,73,235,1
+Miami Dolphins,MIA,1999,RB,Cecil Collins,CollCe00,11/19/1976,22,0,1999,70,207,2
+Minnesota Vikings,MIN,1999,RB,John Henry Mills,MillJo00,10/31/1969,29,0,1999,72,230,3
+New Orleans Saints,NOR,1999,RB,Marvin Powell,PoweMa00,6/6/1976,22,0,1999,74,235,1
+Miami Dolphins,MIA,2000,RB,Thurman Thomas,ThomTh00,5/16/1966,33,12,1988,70,206,1
+Jacksonville Jaguars,JAX,2000,RB,Anthony Johnson,JohnAn00,10/25/1967,32,10,1990,72,225,1
+Kansas City Chiefs,KAN,2000,RB,Kimble Anders,AndeKi00,9/10/1966,33,9,1991,71,218,1
+New York Jets,NYJ,2000,RB,Bernie Parmalee,ParmBe00,9/16/1967,32,8,1992,71,210,1
+Baltimore Ravens,BAL,2000,RB,Chuck Evans,EvanCh00,4/16/1967,32,7,1993,73,245,2
+Carolina Panthers,CAR,2000,RB,Natrone Means,MeanNa00,4/26/1972,27,7,1993,70,245,1
+Minnesota Vikings,MIN,2000,RB,Robert Smith,SmitRo00,3/4/1972,27,7,1993,74,210,1
+Cleveland Browns,CLE,2000,RB,Errict Rhett,RhetEr00,12/11/1970,29,6,1994,71,211,1
+Atlanta Falcons,ATL,2000,RB,Gary Downs,DownGa00,6/6/1972,27,6,1994,73,210,1
+Detroit Lions,DET,2000,RB,Mario Bates,BateMa00,1/16/1973,26,6,1994,74,239,1
+Denver Broncos,DEN,2000,RB,Raymont Harris,HarrRa00,12/23/1970,29,6,1994,72,230,1
+Atlanta Falcons,ATL,2000,RB,Ron Rivers,RiveRo00,11/13/1971,28,6,1994,68,207,2
+Carolina Panthers,CAR,2000,RB,William Floyd,FloyWi00,2/17/1972,27,6,1994,73,242,1
+New Orleans Saints,NOR,2000,RB,Brian Milne,MilnBr00,1/7/1973,27,4,1996,75,254,1
+Cincinnati Bengals,CIN,2000,RB,Clif Groce,GrocCl00,7/30/1972,27,4,1996,71,245,1
+New Orleans Saints,NOR,2000,RB,Jerald Moore,MoorJe00,11/20/1974,25,4,1996,69,230,2
+Oakland Raiders,OAK,2000,RB,Napoleon Kaufman,KaufNa00,6/7/1973,26,4,1996,69,185,1
+Seattle Seahawks,SEA,2000,RB,Reggie Brown,BrowRe00,6/26/1973,26,4,1996,72,244,1
+Atlanta Falcons,ATL,2000,RB,Winslow Oliver,OlivWi00,3/3/1973,26,4,1996,67,200,1
+Philadelphia Eagles,PHI,2000,RB,Darnell Autry,AutrDa00,6/19/1976,23,3,1997,70,210,2
+Minnesota Vikings,MIN,2000,RB,David Palmer,PalmDa00,11/19/1972,27,3,1997,68,180,1
+San Diego Chargers,SDG,2000,RB,Kenny Bynum,BynuKe00,5/29/1974,25,3,1997,71,191,2
+San Diego Chargers,SDG,2000,RB,Robert Chancey,ChanRo20,9/7/1972,27,3,1997,72,252,1
+Cleveland Browns,CLE,2000,RB,Chris Floyd,FloyCh00,6/23/1975,24,2,1998,74,235,1
+Jacksonville Jaguars,JAX,2000,RB,Chris Howard,HowaCh00,5/2/1975,24,2,1998,70,221,1
+Chicago Bears,CHI,2000,RB,Curtis Enis,EnisCu00,6/15/1976,23,2,1998,72,250,1
+New England Patriots,NWE,2000,RB,Harold Shaw,ShawHa00,9/3/1974,25,2,1998,72,230,1
+Buffalo Bills,BUF,2000,RB,Jonathan Linton,LintJo00,11/7/1974,25,2,1998,73,234,1
+Green Bay Packers,GNB,2000,RB,Basil Mitchell,MitcBa00,9/7/1975,24,1,1999,70,207,1
+San Diego Chargers,SDG,2000,RB,Jermaine Fazande,FazaJe00,1/14/1975,24,1,1999,74,255,2
+Indianapolis Colts,IND,2000,RB,Lennox Gordon,GordLe00,9/9/1978,21,1,1999,71,201,3
+Cincinnati Bengals,CIN,2000,RB,Michael Basnight,BasnMi00,9/3/1977,22,1,1999,73,235,1
+Indianapolis Colts,IND,2000,RB,Paul Shields,ShiePa00,1/31/1976,23,1,1999,73,238,3
+Jacksonville Jaguars,JAX,2000,RB,Chad Dukes,DukeCh00,12/29/1971,28,0,2000,72,230,3
+Arizona Cardinals,ARI,2000,RB,Clarence Williams,WillCl00,5/16/1977,22,0,2000,69,196,3
+Chicago Bears,CHI,2000,RB,Marlon Barnes,BarnMa00,3/13/1976,23,0,2000,69,215,1
+Seattle Seahawks,SEA,2001,RB,Ricky Watters,WattRi00,4/7/1969,31,10,1991,73,211,1
+Baltimore Ravens,BAL,2001,RB,Terry Allen,AlleTe00,2/21/1968,32,10,1991,71,208,1
+Detroit Lions,DET,2001,RB,Amp Lee,LeexAm00,10/1/1971,29,9,1992,71,200,1
+Chicago Bears,CHI,2001,RB,Glyn Milburn,MilbGl00,2/19/1971,29,8,1993,68,176,2
+Denver Broncos,DEN,2001,RB,Howard Griffith,GrifHo00,11/17/1967,33,8,1993,72,240,2
+Washington Redskins,WAS,2001,RB,Donnell Bennett,BennDo00,9/14/1972,28,7,1994,72,246,1
+Atlanta Falcons,ATL,2001,RB,Jamal Anderson,AndeJa00,9/30/1972,28,7,1994,71,237,1
+San Diego Chargers,SDG,2001,RB,Derrick Harris,HarrDe00,9/18/1972,28,5,1996,72,252,1
+Pittsburgh Steelers,PIT,2001,RB,Jon Witman,WitmJo00,6/1/1972,28,5,1996,74,244,1
+Atlanta Falcons,ATL,2001,RB,Rodney Thomas,ThomRo00,3/30/1973,27,5,1996,70,210,1
+Denver Broncos,DEN,2001,RB,Terrell Davis,DaviTe00,10/28/1972,28,5,1996,71,210,1
+Carolina Panthers,CAR,2001,RB,Tim Biakabutuka,BiakTi00,1/24/1974,26,5,1996,72,215,1
+Detroit Lions,DET,2001,RB,Brock Olivo,OlivBr00,6/24/1976,24,3,1998,72,232,1
+Kansas City Chiefs,KAN,2001,RB,Jermaine Williams,WillJe00,7/3/1972,28,3,1998,71,245,1
+Detroit Lions,DET,2001,RB,DeMond Parker,ParkDe00,12/24/1976,24,2,1999,70,185,1
+Miami Dolphins,MIA,2001,RB,JJ Johnson,JohnJ.00,4/20/1974,26,2,1999,73,230,2
+Detroit Lions,DET,2001,RB,Sedrick Irvin,IrviSe00,3/30/1978,22,2,1999,71,226,1
+Jacksonville Jaguars,JAX,2001,RB,Frank Moreau,MoreFr00,9/9/1976,24,1,2000,72,223,1
+Green Bay Packers,GNB,2001,RB,Herbert Goodman,GoodHe00,8/31/1977,23,1,2000,71,205,1
+San Francisco 49ers,SFO,2001,RB,Jonas Lewis,LewiJo00,12/27/1976,24,1,2000,69,210,3
+Cleveland Browns,CLE,2001,RB,Aaron Shea,SheaAa00,12/5/1976,24,0,2001,75,244,3
+Philadelphia Eagles,PHI,2001,RB,Jamie Reader,ReadJa00,5/4/1974,26,0,2001,72,238,1
+Baltimore Ravens,BAL,2001,RB,Jason Brookins,BrooJa01,1/5/1976,25,0,2001,72,235,2
+Denver Broncos,DEN,2001,RB,Patrick Hape,HapePa00,6/6/1974,26,0,2001,76,262,1
+Chicago Bears,CHI,2001,RB,Scott Dragos,DragSc00,10/28/1975,25,0,2001,74,245,3
+Dallas Cowboys,DAL,2001,RB,Terry Witherspoon,WithTe00,8/22/1977,23,0,2001,71,255,3
+Dallas Cowboys,DAL,2001,RB,Tony Taylor,TaylTo00,3/9/1978,22,0,2001,69,190,3
+Atlanta Falcons,ATL,2002,RB,Bob Christian,ChriBo00,11/14/1968,33,11,1992,71,232,2
+Oakland Raiders,OAK,2002,RB,Randy Jordan,JordRa00,6/6/1970,31,9,1993,71,220,2
+Oakland Raiders,OAK,2002,RB,Terry Kirby,KirbTe00,1/20/1970,31,9,1993,73,225,1
+Detroit Lions,DET,2002,RB,Lamont Warren,WarrLa00,1/4/1973,29,8,1994,71,211,1
+Green Bay Packers,GNB,2002,RB,Tony Carter,CartTo00,8/23/1972,29,8,1994,72,235,1
+Detroit Lions,DET,2002,RB,James Stewart,StewJa00,12/27/1971,30,7,1996,73,224,1
+San Diego Chargers,SDG,2002,RB,Terrell Fletcher,FletTe00,9/14/1973,28,7,1996,68,196,1
+Detroit Lions,DET,2002,RB,Richard Huntley,HuntRi00,9/18/1972,29,6,1996,71,225,1
+Houston Texans,HOU,2002,RB,James Allen,AlleJa00,3/28/1975,26,5,1997,70,215,1
+Green Bay Packers,GNB,2002,RB,Jay Graham,GrahJa00,7/14/1975,26,5,1997,71,215,2
+St. Louis Rams,STL,2002,RB,Justin Watson,WatsJu00,1/7/1975,27,4,1999,72,230,2
+Miami Dolphins,MIA,2002,RB,Robert Edwards,EdwaRo00,10/2/1974,27,4,1998,71,220,1
+Carolina Panthers,CAR,2002,RB,Skip Hicks,HickSk00,10/13/1974,27,4,1998,72,230,1
+Detroit Lions,DET,2002,RB,Autry Denson,DensAu00,12/8/1976,25,3,1999,70,203,1
+New York Giants,NYG,2002,RB,Damon Washington,WashDa00,2/20/1977,24,3,2000,71,205,1
+Arizona Cardinals,ARI,2002,RB,Dennis McKinley,McKiDe00,11/3/1976,25,3,1999,74,247,1
+Minnesota Vikings,MIN,2002,RB,Jimmy Kleinsasser,KleiJi00,1/31/1977,24,3,1999,75,274,1
+Carolina Panthers,CAR,2002,RB,Joe Montgomery,MontJo00,6/8/1976,25,3,1999,70,230,2
+Arizona Cardinals,ARI,2002,RB,Joel Makovicka,MakoJo00,10/6/1975,26,3,1999,71,251,1
+New York Giants,NYG,2002,RB,Sean Bennett,BennSe00,3/17/1977,24,3,1999,73,230,1
+New Orleans Saints,NOR,2002,RB,Curtis Keaton,KeatCu00,10/18/1976,25,2,2000,70,222,1
+Miami Dolphins,MIA,2002,RB,Deon Dyer,DyerDe00,10/2/1977,24,2,2000,71,255,3
+Denver Broncos,DEN,2002,RB,KaRon Coleman,ColeKa00,5/22/1978,23,2,2000,67,198,1
+Atlanta Falcons,ATL,2002,RB,Maurice Smith,SmitMa00,9/7/1976,25,2,2000,72,235,2
+Tennessee Titans,TEN,2002,RB,Mike Green,GreeMi00,9/2/1976,25,2,2000,72,250,1
+Detroit Lions,DET,2002,RB,Rafael Cooper,CoopRa00,1/8/1975,27,2,2002,71,205,1
+Green Bay Packers,GNB,2002,RB,Rondell Mealey,MealRo00,2/24/1977,24,2,2000,72,224,1
+Indianapolis Colts,IND,2002,RB,Shyrone Stith,StitSh00,4/2/1978,23,2,2000,68,205,3
+Arizona Cardinals,ARI,2002,RB,Travis Prentice,PrenTr00,12/8/1976,25,2,2000,71,221,2
+Jacksonville Jaguars,JAX,2002,RB,Elvis Joseph,JoseEl00,8/30/1978,23,1,2001,73,219,1
+Jacksonville Jaguars,JAX,2002,RB,Patrick Washington,WashPa00,3/4/1978,23,1,2001,74,244,3
+New York Giants,NYG,2003,RB,Brian Mitchell,MitcBr00,8/18/1968,34,13,1990,71,221,1
+New England Patriots,NWE,2003,RB,Larry Centers,CentLa00,6/1/1968,34,13,1990,72,225,1
+Dallas Cowboys,DAL,2003,RB,Michael Bates,BateMi00,12/19/1969,33,11,2000,70,215,1
+Buffalo Bills,BUF,2003,RB,Sam Gash,GashSa00,3/7/1969,33,11,1992,72,242,2
+Dallas Cowboys,DAL,2003,RB,Adrian Murrell,MurrAd00,10/16/1970,32,10,1993,71,210,1
+New Orleans Saints,NOR,2003,RB,Lamar Smith,SmitLa00,11/29/1970,32,9,1994,71,224,1
+Atlanta Falcons,ATL,2003,RB,Travis Jervey,JervTr00,5/5/1972,30,8,1996,72,222,2
+Indianapolis Colts,IND,2003,RB,Detron Smith,SmitDe00,2/25/1974,28,7,1996,70,229,1
+San Diego Chargers,SDG,2003,RB,Leon Johnson,JohnLe00,7/13/1974,28,6,1997,72,222,2
+Minnesota Vikings,MIN,2003,RB,John Avery,AverJo00,1/11/1976,26,5,1998,69,190,2
+Cleveland Browns,CLE,2003,RB,Kevin McLeod,McLeKe00,10/17/1974,28,5,1999,72,252,3
+Tampa Bay Buccaneers,TAM,2003,RB,Cecil Martin,MartCe00,7/8/1975,27,4,1999,72,235,1
+Miami Dolphins,MIA,2003,RB,Charlie Rogers,RogeCh00,6/19/1976,26,4,2000,69,180,3
+Detroit Lions,DET,2003,RB,Olandis Gary,GaryOl00,5/18/1975,27,4,1999,71,218,1
+Houston Texans,HOU,2003,RB,Stacey Mack,MackSt00,6/26/1975,27,4,1999,73,241,1
+Minnesota Vikings,MIN,2003,RB,Doug Chapman,ChapDo00,8/22/1977,25,3,2000,70,213,1
+Buffalo Bills,BUF,2003,RB,Phillip Crosby,CrosPh00,11/5/1976,26,3,2001,72,242,3
+Oakland Raiders,OAK,2003,RB,Ronney Jenkins,JenkRo00,5/25/1977,25,3,2000,71,190,1
+Washington Redskins,WAS,2003,RB,Trung Canidate,CaniTr00,3/3/1977,25,3,2000,71,205,2
+New Orleans Saints,NOR,2003,RB,James Fenderson,FendJa00,10/24/1976,26,2,2001,69,200,1
+Cleveland Browns,CLE,2003,RB,RJ Bowers,BoweRJ00,2/10/1974,28,2,2001,72,250,1
+Minnesota Vikings,MIN,2003,RB,Charles Stackhouse,StacCh00,4/11/1980,22,1,2002,74,252,1
+New York Giants,NYG,2003,RB,Delvin Joyce,JoycDe00,9/21/1978,24,1,2002,67,181,1
+Washington Redskins,WAS,2003,RB,John Simon,SimoJo00,12/11/1978,24,1,2002,71,202,1
+Atlanta Falcons,ATL,2003,RB,Woodrow Dantzler,DantWo00,10/4/1979,23,1,2002,70,209,3
+Detroit Lions,DET,2003,RB,Avon Cobourne,CoboAv00,3/6/1979,23,0,2003,68,205,1
+Dallas Cowboys,DAL,2003,RB,Erik Bickerstaff,BickEr00,7/25/1980,22,0,2003,72,230,3
+St. Louis Rams,STL,2003,RB,Spencer Nead,NeadSp00,11/3/1977,25,0,2003,76,259,3
+Washington Redskins,WAS,2003,RB,Sultan McCullough,McCuSu00,2/20/1980,22,0,2003,72,197,1
+Arizona Cardinals,ARI,2004,RB,Emmitt Smith,SmitEm00,5/15/1969,34,14,1990,69,216,1
+Washington Redskins,WAS,2004,RB,Brian Kozlowski,KozlBr00,10/4/1970,33,11,2004,75,250,3
+Denver Broncos,DEN,2004,RB,Garrison Hearst,HearGa00,1/4/1971,33,11,1993,71,215,1
+Dallas Cowboys,DAL,2004,RB,Richie Anderson,AndeRi00,9/13/1971,32,11,1993,74,215,1
+Tampa Bay Buccaneers,TAM,2004,RB,Charlie Garner,GarnCh00,2/13/1972,31,10,1994,70,190,1
+Philadelphia Eagles,PHI,2004,RB,Dorsey Levens,LeveDo00,5/21/1970,33,10,1994,73,230,1
+Carolina Panthers,CAR,2004,RB,Brandon Bennett,BennBr00,2/3/1973,30,9,1996,71,220,1
+New Orleans Saints,NOR,2004,RB,KiJana Carter,CartKi00,9/12/1973,30,9,1996,70,226,1
+Oakland Raiders,OAK,2004,RB,Tyrone Wheatley,WheaTy00,1/19/1972,31,9,1996,72,235,1
+Dallas Cowboys,DAL,2004,RB,Eddie George,GeorEd00,9/24/1973,30,8,1996,75,235,1
+Atlanta Falcons,ATL,2004,RB,Stanley Pritchett,PritSt00,12/22/1973,30,8,1996,74,250,2
+Jacksonville Jaguars,JAX,2004,RB,Chris FuamatuMaafala,FuamCh00,3/4/1977,26,6,1998,72,252,2
+Tampa Bay Buccaneers,TAM,2004,RB,Greg Comella,ComeGr00,7/29/1975,28,6,1998,73,240,1
+Philadelphia Eagles,PHI,2004,RB,Jon Ritchie,RitcJo00,9/4/1974,29,6,1998,74,250,1
+New England Patriots,NWE,2004,RB,Rabih Abdullah,AbduRa00,4/27/1975,28,6,1998,72,235,1
+Tennessee Titans,TEN,2004,RB,Robert Holcombe,HolcRo00,12/11/1975,28,6,1998,71,220,1
+Miami Dolphins,MIA,2004,RB,Rob Konrad,KonrRo00,11/12/1976,27,5,1999,75,255,1
+Oakland Raiders,OAK,2004,RB,JR Redmond,RedmJ.00,9/28/1977,26,4,2000,71,215,2
+St. Louis Rams,STL,2004,RB,Joey Goodspeed,GoodJo00,2/22/1978,25,4,2002,73,247,1
+Arizona Cardinals,ARI,2004,RB,Troy Hambrick,HambTr00,11/6/1976,27,4,2000,73,233,1
+San Francisco 49ers,SFO,2004,RB,Jasen Isom,IsomJa00,1/7/1977,27,3,2003,72,240,1
+Philadelphia Eagles,PHI,2004,RB,Eric McCoo,McCoEr00,9/6/1980,23,2,2004,70,209,1
+Miami Dolphins,MIA,2004,RB,Brock Forsey,ForsBr00,2/11/1980,23,1,2003,71,208,1
+Tampa Bay Buccaneers,TAM,2004,RB,Ian Smart,SmarIa00,2/28/1980,23,1,2004,68,192,1
+Minnesota Vikings,MIN,2004,RB,Onterrio Smith,SmitOn00,12/8/1980,23,1,2003,70,214,2
+Arizona Cardinals,ARI,2004,RB,Larry Croom,CrooLa00,10/29/1981,22,0,2004,70,205,1
+Miami Dolphins,MIA,2004,RB,Vick King,KingVi00,2/4/1980,23,0,2004,70,215,1
+Pittsburgh Steelers,PIT,2005,RB,Jerome Bettis,BettJe00,2/16/1972,32,12,1993,71,255,1
+St. Louis Rams,STL,2005,RB,Marshall Faulk,FaulMa00,2/26/1973,31,11,1994,70,211,1
+New York Jets,NYJ,2005,RB,Curtis Martin,MartCu00,5/1/1973,31,10,1996,71,210,1
+Arizona Cardinals,ARI,2005,RB,Harold Morrow,MorrHa00,2/24/1973,31,9,1996,71,232,1
+Minnesota Vikings,MIN,2005,RB,Moe Williams,WillMo00,7/26/1974,30,9,1996,73,205,1
+New Orleans Saints,NOR,2005,RB,Antowain Smith,SmitAn00,3/14/1972,32,8,1997,74,232,1
+Chicago Bears,CHI,2005,RB,Marc Edwards,EdwaMa00,11/17/1974,30,8,1997,72,249,2
+San Francisco 49ers,SFO,2005,RB,Steve Bush,BushSt00,7/4/1974,30,8,1998,75,267,3
+San Francisco 49ers,SFO,2005,RB,Fred Beasley,BeasFr00,9/18/1974,30,7,1998,72,246,2
+Baltimore Ravens,BAL,2005,RB,Alan Ricard,RicaAl00,1/17/1977,27,6,2001,71,237,1
+New England Patriots,NWE,2005,RB,Amos Zereoue,ZereAm00,10/8/1976,28,6,1999,68,205,1
+New England Patriots,NWE,2005,RB,Michael Cloud,ClouMi00,7/1/1975,29,6,2002,70,205,2
+San Francisco 49ers,SFO,2005,RB,Terry Jackson,JackTe00,1/10/1976,28,6,1999,72,232,1
+Chicago Bears,CHI,2005,RB,Bryan Johnson,JohnBr01,1/18/1978,26,5,2000,73,242,1
+New York Giants,NYG,2005,RB,Chad Morton,MortCh00,4/4/1977,27,5,2000,68,203,1
+Baltimore Ravens,BAL,2005,RB,Jamel White,WhitJa00,2/11/1978,26,5,2000,69,222,1
+Carolina Panthers,CAR,2005,RB,Rod Smart,SmarRo00,1/9/1977,27,5,2001,71,201,1
+St. Louis Rams,STL,2005,RB,David Allen,AlleDa00,2/5/1978,26,4,2003,69,195,1
+Arizona Cardinals,ARI,2005,RB,James Jackson,JackJa00,8/4/1976,28,4,2001,70,215,1
+Arizona Cardinals,ARI,2005,RB,Damien Anderson,AndeDa00,7/17/1979,25,3,2002,71,202,1
+Indianapolis Colts,IND,2005,RB,James Mungro,MungJa00,2/13/1978,26,3,2002,69,214,2
+Arizona Cardinals,ARI,2005,RB,Jarrod Baxter,BaxtJa00,3/9/1979,25,3,2002,73,243,1
+Buffalo Bills,BUF,2005,RB,Joe Burns,BurnJo00,9/15/1979,25,3,2002,69,215,1
+Houston Texans,HOU,2005,RB,Jonathan Wells,WellJo00,7/21/1979,25,3,2002,73,252,1
+Oakland Raiders,OAK,2005,RB,Omar Easy,EasyOm00,10/29/1977,27,3,2002,74,245,1
+Cleveland Browns,CLE,2005,RB,William Green,GreeWi01,12/17/1979,25,3,2002,72,214,1
+Houston Texans,HOU,2005,RB,Domanick Williams,DaviDo01,10/1/1980,24,2,2003,69,221,1
+Denver Broncos,DEN,2005,RB,Quentin Griffin,GrifQu00,1/12/1981,23,2,2003,67,195,2
+Houston Texans,HOU,2005,RB,Tony Hollings,HollTo00,12/1/1981,23,2,2003,70,218,1
+Washington Redskins,WAS,2005,RB,Chris Cooley,CoolCh00,7/11/1982,22,1,2004,75,250,1
+Tennessee Titans,TEN,2005,RB,Jarrett Payton,PaytJa00,12/26/1980,24,1,2005,72,218,1
+Tennessee Titans,TEN,2005,RB,Troy Fleming,FlemTr00,10/1/1980,24,1,2004,72,245,1
+Atlanta Falcons,ATL,2005,RB,DeAndra Cobb,CobbDe00,5/18/1981,23,0,2005,70,196,3
+New Orleans Saints,NOR,2006,RB,Fred McAfee,McAfFr00,6/20/1968,37,15,1995,70,197,1
+Detroit Lions,DET,2006,RB,Cory Schlesinger,SchlCo00,6/23/1972,33,11,1995,72,247,2
+Green Bay Packers,GNB,2006,RB,William Henderson,HendWi00,2/19/1971,34,11,1995,73,252,2
+San Francisco 49ers,SFO,2006,RB,Chris Hetherington,HethCh00,11/27/1972,33,10,2006,75,245,1
+Tampa Bay Buccaneers,TAM,2006,RB,Mike Alstott,AlstMi00,12/21/1973,32,10,2006,73,248,1
+St. Louis Rams,STL,2006,RB,Stephen Davis,DaviSt00,3/1/1974,31,10,2006,72,230,1
+New England Patriots,NWE,2006,RB,Corey Dillon,DillCo00,10/24/1974,31,9,2006,73,225,1
+Buffalo Bills,BUF,2006,RB,Daimon Shelton,ShelDa00,9/15/1972,33,9,2006,72,262,1
+Pittsburgh Steelers,PIT,2006,RB,Duce Staley,StalDu00,2/27/1975,30,9,2006,71,242,1
+Tampa Bay Buccaneers,TAM,2006,RB,Jerald Sowell,SoweJe00,1/21/1974,31,9,2006,72,237,1
+Arizona Cardinals,ARI,2006,RB,Obafemi Ayanbadejo,AyanOb00,3/5/1975,30,9,2006,74,230,2
+New York Giants,NYG,2006,RB,Tiki Barber,BarbTi00,4/7/1975,30,9,2006,70,205,1
+New York Jets,NYJ,2006,RB,James Hodgins,HodgJa00,4/30/1977,28,7,2006,73,275,1
+New York Giants,NYG,2006,RB,Jim Finn,FinnJi00,12/9/1976,29,7,2006,72,245,1
+Detroit Lions,DET,2006,RB,Shawn Bryson,BrysSh00,11/30/1976,29,7,2006,73,230,1
+Kansas City Chiefs,KAN,2006,RB,Dee Brown,BrowDe02,5/12/1978,27,5,2006,70,210,2
+New York Jets,NYJ,2006,RB,Derrick Blaylock,BlayDe00,8/23/1979,26,5,2006,69,210,2
+Seattle Seahawks,SEA,2006,RB,Josh Parry,ParrJo00,4/5/1978,27,5,2006,74,250,3
+New York Jets,NYJ,2006,RB,Kevan Barlow,BarlKe00,1/7/1979,27,5,2006,73,234,1
+Atlanta Falcons,ATL,2006,RB,Jamal Robertson,RobeJa00,1/10/1977,28,4,2006,70,210,1
+Detroit Lions,DET,2006,RB,Lamar Gordon,GordLa00,1/7/1980,26,4,2006,73,223,2
+St. Louis Rams,STL,2006,RB,Tony Fisher,FishTo00,10/12/1979,26,4,2006,73,222,2
+Detroit Lions,DET,2006,RB,Arlen Harris,HarrAr00,4/22/1980,25,3,2006,70,212,2
+Miami Dolphins,MIA,2006,RB,Lee Suggs,SuggLe00,8/11/1980,25,3,2006,72,213,1
+Oakland Raiders,OAK,2006,RB,Reshard Lee,LeexRe00,10/12/1980,25,3,2006,70,220,1
+Green Bay Packers,GNB,2006,RB,Brandon Miree,MireBr00,4/14/1981,24,2,2006,71,237,3
+Denver Broncos,DEN,2006,RB,Cedric Cobbs,CobbCe00,1/9/1981,24,2,2006,72,227,3
+Dallas Cowboys,DAL,2006,RB,Keylon Kincade,KincKe00,8/20/1982,23,2,2006,71,204,3
+Indianapolis Colts,IND,2006,RB,Ran Carthon,CartRa00,2/10/1981,24,2,2006,72,218,1
+Kansas City Chiefs,KAN,2006,RB,Ronnie Cruz,CruzRo00,6/11/1981,24,2,2006,72,237,1
+New York Jets,NYJ,2006,RB,Cedric Houston,HousCe00,6/28/1982,23,1,2006,72,220,2
+Minnesota Vikings,MIN,2006,RB,Ciatrick Fason,FasoCi00,10/29/1982,23,1,2006,72,207,1
+Denver Broncos,DEN,2006,RB,Damien Nash,NashDa00,4/14/1982,23,1,2006,70,220,1
+Jacksonville Jaguars,JAX,2006,RB,Derrick Wimbush,WimbDe00,8/26/1980,25,1,2006,73,233,1
+Arizona Cardinals,ARI,2006,RB,Diamond Ferri,FerrDi00,8/6/1981,24,1,2006,70,223,3
+Carolina Panthers,CAR,2006,RB,Eric Shelton,ShelEr00,6/23/1983,22,1,2006,73,246,1
+St. Louis Rams,STL,2006,RB,KayJay Harris,HarrKa00,3/27/1979,26,1,2006,72,235,1
+New Orleans Saints,NOR,2006,RB,Keith Joseph,JoseKe00,12/9/1981,24,1,2006,74,249,3
+Seattle Seahawks,SEA,2006,RB,Marquis Weeks,WeekMa00,10/2/1980,25,1,2006,70,216,3
+Kansas City Chiefs,KAN,2006,RB,Derrick Ross,RossDe00,12/29/1983,22,0,2006,70,226,3
+New York Giants,NYG,2006,RB,James Sims,SimsJa00,2/14/1983,22,0,2006,72,211,3
+Houston Texans,HOU,2006,RB,Wali Lundy,LundWa00,9/8/1983,22,0,2006,70,214,2
+Seattle Seahawks,SEA,2007,RB,Mack Strong,StroMa00,9/11/1971,35,14,1994,72,253,2
+Seattle Seahawks,SEA,2007,RB,Fred McCrary,McCrFr00,9/19/1972,34,12,1997,72,247,1
+Dallas Cowboys,DAL,2007,RB,Zack Crockett,CrocZa00,12/2/1972,34,12,1996,74,240,1
+Kansas City Chiefs,KAN,2007,RB,Priest Holmes,HolmPr00,10/7/1973,33,10,1997,69,213,1
+Buffalo Bills,BUF,2007,RB,Ryan Neufeld,NeufRy00,11/22/1975,31,8,2007,76,245,1
+Baltimore Ravens,BAL,2007,RB,Mike Anderson,AndeMi00,9/21/1973,33,7,2000,72,230,1
+New York Giants,NYG,2007,RB,Patrick Pass,PassPa00,12/31/1977,29,7,2000,70,217,2
+Denver Broncos,DEN,2007,RB,Paul Smith,SmitPa00,1/31/1978,28,7,2000,71,242,1
+Houston Texans,HOU,2007,RB,Ron Dayne,DaynRo00,3/14/1978,28,7,2000,70,245,1
+Buffalo Bills,BUF,2007,RB,Anthony Thomas,ThomAn01,11/7/1977,29,6,2001,74,221,1
+Arizona Cardinals,ARI,2007,RB,Marcel Shipp,ShipMa00,8/8/1978,28,6,2001,71,224,1
+Denver Broncos,DEN,2007,RB,Travis Henry,HenrTr00,10/29/1978,28,6,2001,69,230,1
+Indianapolis Colts,IND,2007,RB,Bryan Fletcher,FletBr00,3/23/1979,27,5,2007,77,230,3
+Buffalo Bills,BUF,2007,RB,Josh Scobey,ScobJo00,12/11/1979,27,5,2003,72,220,1
+Denver Broncos,DEN,2007,RB,Kyle Johnson,JohnKy00,12/15/1978,28,5,2002,72,242,1
+Atlanta Falcons,ATL,2007,RB,Artose Pinner,PinnAr00,1/5/1978,29,4,2003,70,232,2
+Detroit Lions,DET,2007,RB,Casey Fitzsimmons,FitzCa00,10/10/1980,26,4,2005,76,258,3
+Jacksonville Jaguars,JAX,2007,RB,LaBrandon Toefield,ToefLa00,9/24/1980,26,4,2003,71,235,2
+Baltimore Ravens,BAL,2007,RB,Musa Smith,SmitMu00,5/31/1982,24,4,2003,72,232,2
+Philadelphia Eagles,PHI,2007,RB,Reno Mahe,MaheRe00,6/3/1980,26,4,2003,70,212,1
+Houston Texans,HOU,2007,RB,Adimchinobi Echemandu,EcheAd00,11/21/1980,26,3,2004,70,225,1
+Indianapolis Colts,IND,2007,RB,Kenton Keith,KeitKe00,7/14/1980,26,3,2007,71,198,2
+Cincinnati Bengals,CIN,2007,RB,Quincy Wilson,WilsQu00,4/26/1981,25,3,2004,69,220,3
+St. Louis Rams,STL,2007,RB,Rich Alexis,AlexRi00,3/6/1981,25,3,2005,72,234,3
+Buffalo Bills,BUF,2007,RB,Shaud Williams,WillSh01,10/2/1980,26,3,2004,67,193,1
+New Orleans Saints,NOR,2007,RB,Jamaal Branch,BranJa00,1/30/1981,25,2,2007,71,230,1
+Baltimore Ravens,BAL,2007,RB,Justin Green,GreeJu00,4/30/1982,24,2,2005,71,251,1
+Dallas Cowboys,DAL,2007,RB,Tyson Thompson,ThomTy00,5/21/1981,25,2,2005,73,225,1
+Green Bay Packers,GNB,2007,RB,Vernand Morency,MoreVe00,2/4/1980,26,2,2005,70,212,2
+Detroit Lions,DET,2007,RB,Brian Calhoun,CalhBr00,5/8/1984,22,1,2007,70,208,1
+New Orleans Saints,NOR,2007,RB,Chris Barclay,BarcCh00,10/15/1983,23,1,2007,70,180,1
+Baltimore Ravens,BAL,2007,RB,Cory Ross,RossCo00,9/22/1982,24,1,2007,66,201,1
+New York Jets,NYJ,2007,RB,Stacy Tutt,TuttSt00,8/8/1982,24,1,2007,73,233,3
+Kansas City Chiefs,KAN,2007,RB,Gilbert Harris,HarrGi00,6/18/1984,22,0,2007,73,223,1
+Baltimore Ravens,BAL,2008,RB,Lorenzo Neal,NealLo00,12/27/1970,37,15,1993,71,255,2
+Tampa Bay Buccaneers,TAM,2008,RB,Warrick Dunn,DunnWa00,1/5/1975,33,11,1997,69,187,1
+Denver Broncos,DEN,2008,RB,Michael Pittman,PittMi00,8/14/1975,32,10,1998,72,225,1
+New York Giants,NYG,2008,RB,Reuben Droughns,DrouRe00,8/21/1978,29,8,2000,71,220,1
+Washington Redskins,WAS,2008,RB,Shaun Alexander,AlexSh00,8/30/1977,30,8,2000,71,228,1
+Detroit Lions,DET,2008,RB,Aveion Cason,CasoAv00,7/12/1979,28,7,2001,70,204,2
+Cincinnati Bengals,CIN,2008,RB,Kenny Watson,WatsKe00,3/13/1978,29,7,2001,72,220,1
+Carolina Panthers,CAR,2008,RB,Nick Goings,GoinNi00,1/26/1978,29,7,2001,72,225,1
+Detroit Lions,DET,2008,RB,Rudi Johnson,JohnRu00,10/1/1979,28,7,2001,70,225,1
+St. Louis Rams,STL,2008,RB,Travis Minor,MinoTr00,6/30/1979,28,7,2001,70,203,1
+San Francisco 49ers,SFO,2008,RB,DeShaun Foster,FostDe00,1/10/1980,27,6,2002,72,222,1
+New York Jets,NYJ,2008,RB,Jesse Chatman,ChatJe00,9/22/1979,28,6,2002,68,225,2
+Minnesota Vikings,MIN,2008,RB,Maurice Hicks,HickMa00,7/22/1978,29,6,2004,71,205,2
+Indianapolis Colts,IND,2008,RB,Najeh Davenport,DaveNa00,2/8/1979,28,6,2002,73,247,1
+Seattle Seahawks,SEA,2008,RB,TJ Duckett,DuckT.00,2/17/1981,26,6,2002,72,254,1
+Houston Texans,HOU,2008,RB,Cecil Sapp,SappCe00,12/23/1978,29,5,2003,71,236,1
+Miami Dolphins,MIA,2008,RB,Casey Cramer,CramCa00,1/5/1982,26,4,2004,74,250,3
+Cincinnati Bengals,CIN,2008,RB,Chris Perry,PerrCh00,12/27/1981,26,4,2004,72,224,2
+Minnesota Vikings,MIN,2008,RB,Jeff Dugan,DugaJe00,4/8/1981,26,4,2007,76,258,1
+Chicago Bears,CHI,2008,RB,Kevin Jones,JoneKe02,8/21/1982,25,4,2004,72,228,1
+Denver Broncos,DEN,2008,RB,Tatum Bell,BellTa00,3/2/1981,26,4,2004,71,213,1
+Minnesota Vikings,MIN,2008,RB,Thomas Tapeh,TapeTh00,3/28/1980,27,4,2004,73,243,1
+Arizona Cardinals,ARI,2008,RB,JJ Arrington,ArriJ.00,1/23/1983,24,3,2005,69,212,2
+Tampa Bay Buccaneers,TAM,2008,RB,Noah Herron,HerrNo00,4/3/1982,25,3,2005,71,218,1
+Denver Broncos,DEN,2008,RB,Andre Hall,HallAn01,8/20/1982,25,2,2007,70,212,1
+Chicago Bears,CHI,2008,RB,Jason Davis,DaviJa00,11/2/1983,24,2,2008,70,245,1
+St. Louis Rams,STL,2008,RB,Antonio Pittman,PittAn00,12/19/1985,22,1,2007,71,207,2
+Tampa Bay Buccaneers,TAM,2008,RB,Byron Storer,StorBy00,5/1/1984,23,1,2007,73,219,3
+Indianapolis Colts,IND,2008,RB,Clifton Dawson,DawsCl00,10/8/1983,24,1,2007,70,212,1
+Houston Texans,HOU,2008,RB,Darius Walker,WalkDa00,10/21/1985,22,1,2007,71,205,1
+Denver Broncos,DEN,2008,RB,Selvin Young,YounSe00,10/1/1983,24,1,2007,71,215,2
+New Orleans Saints,NOR,2008,RB,Olaniyi Sobomehin,SoboOl00,10/11/1984,23,0,2008,73,230,3
+Green Bay Packers,GNB,2009,RB,Ahman Green,GreeAh00,2/16/1977,31,11,1998,72,218,1
+Atlanta Falcons,ATL,2009,RB,Aaron Stecker,StecAa00,11/13/1975,33,10,2000,70,213,1
+Seattle Seahawks,SEA,2009,RB,Edgerrin James,JameEd00,8/1/1978,30,10,1999,72,219,1
+Carolina Panthers,CAR,2009,RB,Brad Hoover,HoovBr00,11/11/1976,32,9,2000,72,245,1
+Arizona Cardinals,ARI,2009,RB,Dan Kreider,KreiDa00,3/11/1977,31,9,2000,71,250,1
+Cleveland Browns,CLE,2009,RB,Jamal Lewis,LewiJa00,8/26/1979,29,9,2000,71,245,1
+Detroit Lions,DET,2009,RB,Terrelle Smith,SmitTe00,3/12/1978,30,9,2000,72,246,1
+New Orleans Saints,NOR,2009,RB,Deuce McAllister,McAlDe00,12/27/1978,30,8,2001,73,232,1
+Denver Broncos,DEN,2009,RB,LaMont Jordan,JordLa00,11/11/1978,30,8,2001,70,230,1
+Atlanta Falcons,ATL,2009,RB,Verron Haynes,HaynVe00,2/17/1979,29,7,2002,69,233,2
+Houston Texans,HOU,2009,RB,Chris Brown,BrowCh03,4/17/1981,27,6,2003,75,234,1
+Cincinnati Bengals,CIN,2009,RB,Jeremi Johnson,JohnJe00,9/4/1980,28,6,2003,71,275,1
+Oakland Raiders,OAK,2009,RB,Justin Fargas,FargJu00,1/25/1980,28,6,2003,73,220,1
+Seattle Seahawks,SEA,2009,RB,Justin Griffith,GrifJu00,7/21/1980,28,6,2003,72,230,1
+Pittsburgh Steelers,PIT,2009,RB,Carey Davis,DaviCa00,3/27/1981,27,5,2004,70,225,1
+Oakland Raiders,OAK,2009,RB,Luke Lawton,LawtLu00,8/26/1980,28,5,2005,72,240,1
+Pittsburgh Steelers,PIT,2009,RB,Willie Parker,ParkWi00,11/11/1980,28,5,2004,70,209,1
+Tennessee Titans,TEN,2009,RB,Alvin Pearman,PearAl00,8/10/1982,26,4,2005,70,204,1
+New Orleans Saints,NOR,2009,RB,Kyle Eckel,EckeKy00,12/30/1981,27,4,2007,71,237,1
+Houston Texans,HOU,2009,RB,Ryan Moats,MoatRy00,12/17/1982,26,4,2005,68,208,2
+St. Louis Rams,STL,2009,RB,Sam Gado,GadoSa00,11/13/1982,26,4,2005,70,226,2
+Cincinnati Bengals,CIN,2009,RB,De De Dorsey,DorsDe00,8/1/1984,24,3,2007,71,210,1
+Tennessee Titans,TEN,2009,RB,LenDale White,WhitLe01,12/20/1984,24,3,2007,73,235,1
+Oakland Raiders,OAK,2009,RB,Gary Russell,RussGa00,9/6/1986,22,2,2007,71,215,1
+Kansas City Chiefs,KAN,2009,RB,Kolby Smith,SmitKo00,12/15/1984,24,2,2007,71,219,2
+Washington Redskins,WAS,2009,RB,Marcus Mason,MasoMa00,6/23/1984,24,2,2007,69,215,1
+Oakland Raiders,OAK,2009,RB,Oren ONeal,ONeaOr00,9/8/1983,25,2,2007,71,245,1
+Baltimore Ravens,BAL,2009,RB,Matt Lawrence,LawrMa00,5/5/1985,23,1,2009,73,209,1
+Buffalo Bills,BUF,2009,RB,Xavier Omon,OmonXa00,2/15/1985,23,1,2008,71,227,1
+Cleveland Browns,CLE,2009,RB,Chris Jennings,JennCh00,12/12/1985,23,0,2009,70,219,1
+San Francisco 49ers,SFO,2009,RB,Glen Coffee,CoffGl00,5/1/1987,21,0,2009,72,209,1
+Miami Dolphins,MIA,2009,RB,Kory Sheets,SheeKo00,3/31/1985,23,0,2009,71,208,3
+New Orleans Saints,NOR,2009,RB,Marcus Mailei,MailMa00,10/30/1986,22,0,2009,72,255,3
+New York Jets,NYJ,2010,RB,Tony Richardson,RichTo00,12/17/1971,38,16,1996,73,240,1
+New England Patriots,NWE,2010,RB,Fred Taylor,TaylFr00,1/27/1976,33,12,1998,73,228,1
+Chicago Bears,CHI,2010,RB,Brandon Manumaleuna,ManuBr00,1/4/1980,30,9,2005,74,295,1
+Denver Broncos,DEN,2010,RB,Correll Buckhalter,BuckCo00,10/6/1978,31,9,2001,72,223,1
+Indianapolis Colts,IND,2010,RB,Dominic Rhodes,RhodDo00,1/17/1979,30,9,2001,69,203,1
+New Orleans Saints,NOR,2010,RB,Heath Evans,EvanHe00,12/30/1978,31,9,2001,72,250,2
+Oakland Raiders,OAK,2010,RB,Michael Bennett,BennMi00,8/13/1978,31,9,2001,69,205,1
+San Francisco 49ers,SFO,2010,RB,Brian Westbrook,WestBr00,9/2/1979,30,8,2002,70,203,1
+Washington Redskins,WAS,2010,RB,Clinton Portis,PortCl00,9/1/1981,28,8,2002,71,219,1
+New Orleans Saints,NOR,2010,RB,Ladell Betts,BettLa00,8/27/1979,30,8,2002,71,224,1
+Arizona Cardinals,ARI,2010,RB,Jason Wright,WrigJa01,7/12/1982,27,6,2004,70,212,2
+New Orleans Saints,NOR,2010,RB,Julius Jones,JoneJu01,8/14/1981,28,6,2004,70,208,1
+St. Louis Rams,STL,2010,RB,Mike Karney,KarnMi00,7/6/1981,28,6,2004,71,260,1
+Philadelphia Eagles,PHI,2010,RB,Leonard Weaver,WeavLe00,9/23/1982,27,5,2005,72,250,2
+New York Giants,NYG,2010,RB,Madison Hedgecock,HedgMa00,8/27/1981,28,5,2005,75,266,1
+Denver Broncos,DEN,2010,RB,Laurence Maroney,MaroLa00,2/5/1985,24,4,2007,71,220,1
+Cleveland Browns,CLE,2010,RB,Mike Bell,BellMi00,4/23/1983,26,4,2007,72,225,1
+Minnesota Vikings,MIN,2010,RB,Naufahu Tahi,TahiNa00,10/30/1981,28,4,2007,72,254,1
+Miami Dolphins,MIA,2010,RB,Patrick Cobbs,CobbPa00,1/31/1983,26,4,2007,68,205,1
+Buffalo Bills,BUF,2010,RB,Quinton Ganther,GantQu00,7/15/1984,25,4,2007,69,220,1
+San Diego Chargers,SDG,2010,RB,Billy Latsko,LatsBi00,2/16/1984,25,3,2008,70,233,3
+New Orleans Saints,NOR,2010,RB,DeShawn Wynn,WynnDe00,10/9/1983,26,3,2007,70,232,1
+Chicago Bears,CHI,2010,RB,Garrett Wolfe,WolfGa00,8/17/1984,25,3,2007,67,185,1
+St. Louis Rams,STL,2010,RB,Kenneth Darby,DarbKe00,12/26/1982,27,3,2007,70,219,1
+Washington Redskins,WAS,2010,RB,Chad Simpson,SimpCh00,8/22/1985,24,2,2008,69,216,1
+Buffalo Bills,BUF,2010,RB,Jehuu Caulcrick,CaulJe00,8/6/1983,26,2,2010,72,250,3
+Indianapolis Colts,IND,2010,RB,Mike Hart,HartMi00,4/9/1986,23,2,2008,69,206,1
+Tampa Bay Buccaneers,TAM,2010,RB,Kareem Huggins,HuggKa00,5/24/1986,23,1,2009,69,198,1
+Carolina Panthers,CAR,2010,RB,Tyrell Sutton,SuttTy00,12/19/1986,23,1,2009,68,213,1
+Indianapolis Colts,IND,2010,RB,Brody Eldridge,EldrBr00,3/31/1987,22,0,2010,77,265,3
+Green Bay Packers,GNB,2010,RB,Dimitri Nance,NancDi00,2/18/1988,21,0,2010,70,219,1
+Indianapolis Colts,IND,2010,RB,Javarris James,JameJa00,9/18/1987,22,0,2010,72,215,1
+Dallas Cowboys,DAL,2010,RB,Lonyae Miller,MillLo00,4/29/1988,21,0,2010,72,221,3
+Washington Redskins,WAS,2011,RB,Mike Sellers,SellMi00,7/21/1975,35,13,2006,75,272,1
+New England Patriots,NWE,2011,RB,Kevin Faulk,FaulKe00,6/5/1976,34,12,2006,68,202,1
+Baltimore Ravens,BAL,2011,RB,Ricky Williams,WillRi00,5/21/1977,33,12,2006,70,230,1
+Dallas Cowboys,DAL,2011,RB,Sammy Morris,MorrSa00,3/23/1977,33,11,2006,72,220,1
+Kansas City Chiefs,KAN,2011,RB,Thomas Jones,JoneTh00,8/19/1978,32,11,2006,70,212,1
+New York Jets,NYJ,2011,RB,LaDainian Tomlinson,TomlLa00,6/23/1979,31,10,2006,70,215,1
+Arizona Cardinals,ARI,2011,RB,Chester Taylor,TaylCh01,9/22/1979,31,9,2006,71,213,1
+Detroit Lions,DET,2011,RB,Maurice Morris,MorrMa00,12/1/1979,31,9,2006,71,216,1
+Oakland Raiders,OAK,2011,RB,Rock Cartwright,CartRo01,12/3/1979,31,9,2006,68,215,2
+Tampa Bay Buccaneers,TAM,2011,RB,Earnest Graham,GrahEa00,1/15/1980,30,8,2006,69,225,1
+Miami Dolphins,MIA,2011,RB,Larry Johnson,JohnLa00,11/19/1979,31,8,2006,73,235,1
+Atlanta Falcons,ATL,2011,RB,Ovie Mughelli,MughOv00,6/10/1980,30,8,2006,73,250,1
+Houston Texans,HOU,2011,RB,Derrick Ward,WardDe01,8/30/1980,30,7,2006,71,240,1
+St. Louis Rams,STL,2011,RB,Carnell Williams,WillCa02,4/21/1982,28,6,2006,71,218,1
+Chicago Bears,CHI,2011,RB,Marion Barber,BarbMa01,6/10/1983,27,6,2006,71,218,1
+Tennessee Titans,TEN,2011,RB,Ahmard Hall,HallAh00,11/13/1979,31,5,2006,71,241,1
+St. Louis Rams,STL,2011,RB,Jerious Norwood,NorwJe00,7/29/1983,27,5,2006,71,205,1
+Detroit Lions,DET,2011,RB,Jerome Harrison,HarrJe00,2/26/1983,27,5,2006,69,205,1
+Indianapolis Colts,IND,2011,RB,Joseph Addai,AddaJo00,5/3/1983,27,5,2006,71,214,1
+Detroit Lions,DET,2011,RB,Eldra Buckley,BuckEl00,6/23/1985,25,4,2011,69,207,1
+Minnesota Vikings,MIN,2011,RB,Lorenzo Booker,BookLo00,6/14/1984,26,4,2011,70,201,1
+Houston Texans,HOU,2011,RB,Steve Slaton,SlatSt00,1/4/1986,25,3,2011,69,209,1
+Detroit Lions,DET,2011,RB,Aaron Brown,BrowAa00,10/10/1985,25,2,2011,73,205,1
+Jacksonville Jaguars,JAX,2011,RB,Brock Bolen,BoleBr00,3/24/1985,25,2,2011,72,233,1
+Cleveland Browns,CLE,2011,RB,Eddie Williams,WillEd00,8/22/1987,23,2,2011,73,242,1
+Dallas Cowboys,DAL,2011,RB,John Phillips,PhilJo00,6/11/1987,23,2,2011,77,261,3
+Detroit Lions,DET,2011,RB,Jahvid Best,BestJa00,1/30/1989,21,1,2011,70,199,2
+Oakland Raiders,OAK,2011,RB,Manase Tonga,TongMa00,2/28/1984,26,1,2011,71,245,1
+St. Louis Rams,STL,2011,RB,Quinn Porter,PortQu00,2/2/1986,24,1,2011,72,205,3
+Minnesota Vikings,MIN,2011,RB,Ryan DImperio,DImpRy00,8/15/1987,23,1,2011,74,241,3
+Miami Dolphins,MIA,2011,RB,Charles Clay,ClayCh00,2/13/1989,21,0,2011,75,239,1
+Pittsburgh Steelers,PIT,2011,RB,John Clay,ClayJo00,1/4/1988,23,0,2011,73,248,3
+Tampa Bay Buccaneers,TAM,2011,RB,Mossis Madu,MaduMo00,11/4/1987,23,0,2011,72,197,1
+Buffalo Bills,BUF,2012,RB,Corey McIntyre,McInCo00,1/25/1979,32,10,2006,72,245,1
+Atlanta Falcons,ATL,2012,RB,Lousaka Polite,PoliLo00,9/14/1981,30,8,2006,72,245,1
+Indianapolis Colts,IND,2012,RB,Mewelde Moore,MoorMe00,7/24/1982,29,8,2006,71,209,1
+Atlanta Falcons,ATL,2012,RB,Michael Turner,TurnMi00,2/13/1982,29,8,2006,70,247,1
+Green Bay Packers,GNB,2012,RB,Cedric Benson,BensCe00,12/28/1982,29,7,2006,71,227,1
+Green Bay Packers,GNB,2012,RB,Ryan Grant,GranRy00,12/9/1982,29,7,2011,73,222,1
+Dallas Cowboys,DAL,2012,RB,Lawrence Vickers,VickLa00,5/8/1983,28,6,2006,72,250,1
+Cleveland Browns,CLE,2012,RB,Brandon Jackson,JackBr00,10/2/1985,26,5,2012,70,216,1
+Tampa Bay Buccaneers,TAM,2012,RB,Danny Ware,WareDa00,2/18/1985,26,5,2011,72,225,1
+Arizona Cardinals,ARI,2012,RB,Reagan Mauia,MauiRe00,7/6/1984,27,5,2011,72,265,1
+Detroit Lions,DET,2012,RB,Stefan Logan,LogaSt00,6/2/1981,30,5,2012,66,180,1
+Denver Broncos,DEN,2012,RB,Jacob Hester,HestJa00,5/8/1985,26,4,2011,71,235,2
+Detroit Lions,DET,2012,RB,Kevin Smith,SmitKe02,12/17/1986,25,4,2011,73,217,1
+New York Giants,NYG,2012,RB,Kregg Lumpkin,LumpKr00,5/15/1984,27,4,2011,71,228,1
+Denver Broncos,DEN,2012,RB,Lance Ball,BallLa00,6/19/1985,26,4,2011,69,215,2
+Oakland Raiders,OAK,2012,RB,Owen Schmitt,SchmOw00,2/13/1985,26,4,2011,74,250,1
+New York Giants,NYG,2012,RB,Ryan Torain,ToraRy00,8/10/1986,25,4,2011,73,218,2
+Cincinnati Bengals,CIN,2012,RB,Chris Pressley,PresCh00,8/8/1986,25,3,2011,71,260,1
+Arizona Cardinals,ARI,2012,RB,Chris Wells,WellCh00,8/7/1988,23,3,2011,74,229,1
+San Diego Chargers,SDG,2012,RB,Curtis Brinkley,BrinCu00,9/20/1985,26,3,2011,69,208,1
+Tennessee Titans,TEN,2012,RB,Javon Ringer,RingJa00,2/2/1987,24,3,2011,69,213,2
+Denver Broncos,DEN,2012,RB,Chris Gronkowski,GronCh00,12/26/1986,25,2,2011,74,245,1
+Pittsburgh Steelers,PIT,2012,RB,Jamie McCoy,McCoJa00,7/21/1987,24,2,2012,75,240,3
+Detroit Lions,DET,2012,RB,Keiland Williams,WillKe03,8/14/1986,25,2,2011,71,230,2
+Jacksonville Jaguars,JAX,2012,RB,Keith Toston,TostKe00,5/6/1987,24,2,2012,71,214,1
+Cleveland Browns,CLE,2012,RB,Montario Hardesty,HardMo00,2/1/1987,24,2,2011,72,225,2
+Carolina Panthers,CAR,2012,RB,Richie Brockel,BrocRi00,7/24/1986,25,2,2012,73,255,1
+Baltimore Ravens,BAL,2012,RB,Anthony Allen,AlleAn01,8/6/1988,23,1,2011,73,223,1
+Chicago Bears,CHI,2012,RB,Armando Allen,AlleAr00,4/30/1989,22,1,2011,70,190,1
+Pittsburgh Steelers,PIT,2012,RB,Baron Batch,BatcBa00,12/21/1987,24,1,2012,69,210,1
+Green Bay Packers,GNB,2012,RB,Brandon Saine,SainBr00,12/14/1988,23,1,2011,71,220,1
+Tennessee Titans,TEN,2012,RB,Darren Evans,EvanDa00,11/9/1988,23,1,2011,72,232,3
+Tennessee Titans,TEN,2012,RB,Jamie Harper,HarpJa01,9/11/1989,22,1,2011,71,233,1
+New York Jets,NYJ,2012,RB,John Griffin,GrifJo00,12/17/1988,23,1,2012,70,208,3
+Jacksonville Jaguars,JAX,2012,RB,Richard Murphy,MurpRi00,9/18/1986,25,1,2012,73,215,1
+Detroit Lions,DET,2012,RB,Shaun Chapas,ChapSh00,5/2/1988,23,1,2011,74,244,3
+Arizona Cardinals,ARI,2012,RB,William Powell,PoweWi00,3/9/1988,23,1,2012,69,207,1
+Tampa Bay Buccaneers,TAM,2012,RB,Michael Smith,SmitMi01,8/9/1988,23,0,2012,69,205,3
+Kansas City Chiefs,KAN,2012,RB,Nate Eachus,EachNa00,6/15/1990,21,0,2012,70,212,1
+St. Louis Rams,STL,2012,RB,Terrance Ganaway,GanaTe00,10/7/1988,23,0,2012,72,240,3
+Cleveland Browns,CLE,2013,RB,Willis McGahee,McGaWi00,10/21/1981,31,10,2006,72,235,1
+Houston Texans,HOU,2013,RB,Greg Jones,JoneGr01,5/9/1981,31,9,2011,73,251,1
+Baltimore Ravens,BAL,2013,RB,Vonta Leach,LeacVo00,11/6/1981,31,9,2006,72,260,1
+New York Giants,NYG,2013,RB,Brandon Jacobs,JacoBr00,7/6/1982,30,8,2006,76,264,1
+Seattle Seahawks,SEA,2013,RB,Michael Robinson,RobiMi00,2/6/1983,29,7,2006,73,240,2
+Tennessee Titans,TEN,2013,RB,Jackie Battle,BattJa00,10/1/1983,29,6,2011,74,240,1
+Atlanta Falcons,ATL,2013,RB,Jason Snelling,SnelJa00,12/29/1983,29,6,2011,71,234,1
+San Diego Chargers,SDG,2013,RB,LeRon McClain,McClLe00,12/27/1984,28,6,2011,72,260,1
+Cincinnati Bengals,CIN,2013,RB,BenJarvus GreenEllis,GreeBe00,7/2/1985,27,5,2011,71,220,1
+New York Jets,NYJ,2013,RB,Darius Reynaud,ReynDa00,12/29/1984,28,5,2012,69,208,1
+Pittsburgh Steelers,PIT,2013,RB,Felix Jones,JoneFe00,5/8/1987,25,5,2011,70,215,1
+Arizona Cardinals,ARI,2013,RB,Rashard Mendenhall,MendRa00,6/19/1987,25,5,2011,70,225,1
+Baltimore Ravens,BAL,2013,RB,Ray Rice,RiceRa00,1/22/1987,25,5,2011,68,212,1
+Buffalo Bills,BUF,2013,RB,Tashard Choice,ChoiTa00,11/20/1984,28,5,2011,70,210,1
+New York Giants,NYG,2013,RB,Andre Brown,BrowAn03,12/15/1986,26,4,2012,72,227,2
+Baltimore Ravens,BAL,2013,RB,Bernard Scott,ScotBe00,2/10/1984,28,4,2011,70,195,2
+Pittsburgh Steelers,PIT,2013,RB,Isaac Redman,RedmIs20,11/10/1984,28,4,2011,72,230,1
+Green Bay Packers,GNB,2013,RB,Kahlil Bell,BellKa00,12/10/1986,26,4,2011,71,219,2
+Pittsburgh Steelers,PIT,2013,RB,LaRod StephensHowling,StepLa00,4/26/1987,25,4,2011,67,185,2
+New York Jets,NYJ,2013,RB,Mike Goodson,GoodMi00,5/23/1987,25,4,2011,72,210,2
+Tennessee Titans,TEN,2013,RB,Quinn Johnson,JohnQu00,9/30/1986,26,4,2011,73,255,1
+Houston Texans,HOU,2013,RB,Deji Karim,KariDe00,11/18/1986,26,3,2011,68,209,2
+New York Jets,NYJ,2013,RB,Alex Green,GreeAl00,6/23/1988,24,2,2011,72,220,2
+Carolina Panthers,CAR,2013,RB,Armond Smith,SmitAr00,5/7/1986,26,2,2011,69,195,1
+Houston Texans,HOU,2013,RB,Chad Spann,SpanCh00,8/4/1988,24,2,2011,69,198,3
+New York Giants,NYG,2013,RB,DaRel Scott,ScotDa01,5/26/1988,24,2,2011,71,210,1
+Jacksonville Jaguars,JAX,2013,RB,Delone Carter,CartDe01,6/22/1987,25,2,2011,69,232,2
+Washington Redskins,WAS,2013,RB,Evan Royster,RoysEv00,11/26/1987,25,2,2011,73,216,1
+Detroit Lions,DET,2013,RB,Mikel Leshoure,LeshMi00,3/30/1990,22,2,2012,72,233,2
+Arizona Cardinals,ARI,2013,RB,Ryan Williams,WillRy00,4/9/1990,22,2,2012,69,207,1
+Indianapolis Colts,IND,2013,RB,Stanley Havili,HaviSt00,11/14/1987,25,2,2012,72,243,1
+Houston Texans,HOU,2013,RB,Brad Smelley,SmelBr00,4/20/1989,23,1,2012,74,235,3
+Atlanta Falcons,ATL,2013,RB,Bradie Ewing,EwinBr00,12/26/1989,23,1,2013,71,243,3
+Indianapolis Colts,IND,2013,RB,Chris Rainey,RainCh00,3/2/1988,24,1,2012,69,180,1
+Tennessee Titans,TEN,2013,RB,Collin Mooney,MoonCo00,4/3/1986,26,1,2012,70,247,1
+New York Giants,NYG,2013,RB,David Wilson,WilsDa01,6/15/1991,21,1,2012,69,205,2
+Tampa Bay Buccaneers,TAM,2013,RB,Jeff Demps,DempJe00,1/8/1990,22,1,2013,67,191,1
+Green Bay Packers,GNB,2013,RB,Johnathan Franklin,FranJo01,10/23/1989,23,0,2013,70,205,1
+Philadelphia Eagles,PHI,2013,RB,Matthew Tucker,TuckMa00,5/24/1991,21,0,2013,73,227,3
+Chicago Bears,CHI,2013,RB,Michael Ford,FordMi00,5/27/1990,22,0,2013,70,216,3
+Houston Texans,HOU,2013,RB,Ray Graham,GrahRa00,9/18/1990,22,0,2013,69,193,1
+Buffalo Bills,BUF,2013,RB,Ronnie Wingo,WingRo00,2/18/1991,21,0,2013,74,231,1
+Houston Texans,HOU,2014,RB,Ronnie Brown,BrowRo05,12/12/1981,32,9,2006,72,223,1
+Tennessee Titans,TEN,2014,RB,Leon Washington,WashLe00,8/29/1982,31,8,2006,68,192,1
+Oakland Raiders,OAK,2014,RB,Maurice JonesDrew,DrewMa00,3/23/1985,28,8,2006,67,210,1
+Chicago Bears,CHI,2014,RB,Montell Owens,OwenMo01,5/4/1984,29,8,2006,70,225,1
+New Orleans Saints,NOR,2014,RB,Brian Leonard,LeonBr00,2/3/1984,29,7,2011,73,225,2
+Arizona Cardinals,ARI,2014,RB,Michael Bush,BushMi00,6/16/1984,29,7,2011,73,245,1
+Arizona Cardinals,ARI,2014,RB,Jalen Parmele,ParmJa00,12/30/1985,28,6,2012,71,225,1
+New York Giants,NYG,2014,RB,Peyton Hillis,HillPe00,1/21/1986,27,6,2011,74,250,1
+Carolina Panthers,CAR,2014,RB,Chris Ogbonnaya,OgboCh00,5/20/1986,27,5,2011,72,225,2
+Buffalo Bills,BUF,2014,RB,Frank Summers,SummFr00,9/6/1985,28,5,2013,69,248,1
+Miami Dolphins,MIA,2014,RB,Knowshon Moreno,MoreKn00,7/16/1987,26,5,2011,71,218,1
+Tennessee Titans,TEN,2014,RB,Shonn Greene,GreeSh00,8/21/1985,28,5,2011,71,233,1
+Chicago Bears,CHI,2014,RB,Tony Fiammetta,FiamTo00,8/22/1986,27,5,2011,72,250,1
+Jacksonville Jaguars,JAX,2014,RB,Will Taufoou,TaufWi00,6/19/1986,27,5,2012,71,247,1
+San Francisco 49ers,SFO,2014,RB,Alfonso Smith,SmitAl22,1/23/1987,26,4,2011,73,209,1
+Cleveland Browns,CLE,2014,RB,Ben Tate,TateBe00,8/21/1988,25,4,2011,70,220,1
+Kansas City Chiefs,KAN,2014,RB,Joe McKnight,McKnJo00,4/16/1988,25,4,2011,71,205,2
+Arizona Cardinals,ARI,2014,RB,Jonathan Dwyer,DwyeJo00,7/26/1989,24,4,2011,71,229,2
+Miami Dolphins,MIA,2014,RB,Daniel Thomas,ThomDa03,10/29/1987,26,3,2011,73,235,1
+Indianapolis Colts,IND,2014,RB,Mario Harvey,HarvMa00,8/10/1987,26,3,2014,72,264,3
+Buffalo Bills,BUF,2014,RB,Phillip Tanner,TannPh00,8/8/1988,25,3,2011,70,208,1
+Arizona Cardinals,ARI,2014,RB,Robert Hughes,HughRo00,6/21/1989,24,3,2012,71,235,1
+Kansas City Chiefs,KAN,2014,RB,Cyrus Gray,GrayCy00,11/18/1989,24,2,2012,70,206,1
+New Orleans Saints,NOR,2014,RB,Edwin Baker,BakeEd01,6/1/1991,22,2,2012,68,210,1
+Tampa Bay Buccaneers,TAM,2014,RB,Evan Rodriguez,RodrEv00,9/21/1988,25,2,2012,74,239,3
+Denver Broncos,DEN,2014,RB,Jeremy Stewart,StewJe00,2/17/1989,24,2,2012,71,215,1
+Carolina Panthers,CAR,2014,RB,Tauren Poole,PoolTa00,10/19/1989,24,2,2014,70,210,3
+Indianapolis Colts,IND,2014,RB,Trent Richardson,RichTr00,7/10/1990,23,2,2012,69,225,1
+New York Giants,NYG,2014,RB,Michael Cox,CoxxMi00,11/14/1988,25,1,2013,73,222,1
+Denver Broncos,DEN,2014,RB,Montee Ball,BallMo00,12/5/1990,23,1,2013,70,215,2
+Kansas City Chiefs,KAN,2014,RB,DeAnthony Thomas,ThomDe05,1/5/1993,21,0,2014,68,176,1
+Cleveland Browns,CLE,2014,RB,Kiero Small,SmalKi00,5/1/1989,24,0,2014,68,244,3
+Arizona Cardinals,ARI,2014,RB,Marion Grice,GricMa00,4/10/1991,22,0,2014,72,207,1
+Cleveland Browns,CLE,2014,RB,Ray Agnew,AgneRa00,2/26/1991,22,0,2014,70,247,1
+New England Patriots,NWE,2015,RB,Steven Jackson,JackSt00,7/22/1983,31,11,2006,74,240,1
+Seattle Seahawks,SEA,2015,RB,Fred Jackson,JackFr02,2/20/1981,33,10,2011,73,215,1
+Indianapolis Colts,IND,2015,RB,Ahmad Bradshaw,BradAh00,3/19/1986,28,8,2011,70,217,1
+San Francisco 49ers,SFO,2015,RB,Pierre Thomas,ThomPi00,12/18/1984,30,8,2011,71,215,1
+Dallas Cowboys,DAL,2015,RB,Tyler Clutts,ClutTy00,11/9/1984,30,7,2011,74,250,3
+Washington Redskins,WAS,2015,RB,Darrel Young,YounDa01,4/8/1987,27,6,2011,71,251,1
+San Diego Chargers,SDG,2015,RB,Donald Brown,BrowDo00,4/11/1987,27,6,2011,70,207,1
+Denver Broncos,DEN,2015,RB,James Casey,CaseJa00,9/22/1984,30,6,2011,75,240,1
+Buffalo Bills,BUF,2015,RB,Anthony Dixon,DixoAn00,9/24/1987,27,5,2011,73,233,1
+Jacksonville Jaguars,JAX,2015,RB,Toby Gerhart,GerhTo00,3/28/1987,27,5,2011,72,235,1
+New Orleans Saints,NOR,2015,RB,Kendall Hunter,HuntKe00,9/16/1988,26,4,2011,67,199,1
+Oakland Raiders,OAK,2015,RB,Roy Helu,HeluRo00,12/7/1988,26,4,2011,71,220,1
+Jacksonville Jaguars,JAX,2015,RB,Bernard Pierce,PierBe00,5/10/1991,23,3,2012,72,222,1
+Buffalo Bills,BUF,2015,RB,Bryce Brown,BrowBr02,5/14/1991,23,3,2012,72,220,2
+Houston Texans,HOU,2015,RB,Chris Polk,PolkCh00,12/16/1989,25,3,2012,71,222,2
+Buffalo Bills,BUF,2015,RB,Dan Herron,HerrDa00,3/21/1989,25,3,2012,70,212,2
+Jacksonville Jaguars,JAX,2015,RB,Jonas Gray,GrayJo00,6/27/1990,24,3,2014,70,225,2
+Tampa Bay Buccaneers,TAM,2015,RB,Jorvorskie Lane,LaneJo00,2/4/1987,27,3,2012,71,258,1
+Miami Dolphins,MIA,2015,RB,LaMichael James,JameLa00,10/22/1989,25,3,2012,69,200,1
+Indianapolis Colts,IND,2015,RB,Vick Ballard,BallVi00,7/16/1990,24,3,2012,70,224,2
+Buffalo Bills,BUF,2015,RB,Cierre Wood,WoodCi00,2/21/1991,23,2,2013,71,226,1
+Dallas Cowboys,DAL,2015,RB,Joseph Randle,RandJo01,12/29/1991,23,2,2013,72,210,2
+San Francisco 49ers,SFO,2015,RB,Kendall Gaskins,GaskKe00,11/4/1990,24,2,2015,73,238,1
+New Orleans Saints,NOR,2015,RB,Toben Opurum,OpurTo00,11/18/1990,24,2,2013,73,250,3
+New York Jets,NYJ,2015,RB,Zac Stacy,StacZa00,4/9/1991,23,2,2013,69,224,1
+San Francisco 49ers,SFO,2015,RB,Jarryd Hayne,HaynJa00,2/15/1988,26,1,2015,74,220,1
+St. Louis Rams,STL,2015,RB,Trey Watts,WattTr00,2/13/1991,23,1,2014,69,208,1
+Green Bay Packers,GNB,2015,RB,Alonzo Harris,HarrAl00,11/9/1992,22,0,2015,73,237,1
+Carolina Panthers,CAR,2015,RB,Brandon Wegher,WeghBr00,12/9/1990,24,0,2015,70,215,3
+New England Patriots,NWE,2015,RB,Joey Iosefa,IoseJo00,6/19/1991,23,0,2015,72,245,3
+Indianapolis Colts,IND,2015,RB,Josh Robinson,RobiJo02,8/24/1992,22,0,2015,68,221,1
+Indianapolis Colts,IND,2015,RB,Tyler Varga,VargTy00,9/24/1993,21,0,2015,70,225,1
+Pittsburgh Steelers,PIT,2016,RB,DeAngelo Williams,WillDe02,4/25/1983,32,10,2006,69,207,1
+Buffalo Bills,BUF,2016,RB,Reggie Bush,BushRe00,3/2/1985,30,10,2006,72,205,1
+Denver Broncos,DEN,2016,RB,Justin Forsett,ForsJu00,10/14/1985,30,8,2011,68,197,1
+Seattle Seahawks,SEA,2016,RB,Marcel Reece,ReecMa00,6/23/1985,30,8,2011,73,250,2
+New Orleans Saints,NOR,2016,RB,Tim Hightower,HighTi00,5/23/1986,29,8,2011,72,220,1
+San Diego Chargers,SDG,2016,RB,Dexter McCluster,McClDe00,8/25/1988,27,6,2011,68,170,2
+Philadelphia Eagles,PHI,2016,RB,Ryan Mathews,MathRy00,10/10/1987,28,6,2011,72,220,1
+Miami Dolphins,MIA,2016,RB,Arian Foster,FostAr00,8/24/1986,29,5,2011,73,227,1
+Los Angeles Rams,LAR,2016,RB,Chase Reynolds,ReynCh00,10/22/1987,28,5,2013,72,205,3
+San Francisco 49ers,SFO,2016,RB,DuJuan Harris,HarrDu01,9/3/1988,27,5,2011,67,206,2
+Green Bay Packers,GNB,2016,RB,James Starks,StarJa00,2/25/1986,29,5,2011,74,218,1
+Buffalo Bills,BUF,2016,RB,Jerome Felton,FeltJe00,7/3/1986,29,5,2011,72,248,1
+Detroit Lions,DET,2016,RB,Joique Bell,BellJo01,8/4/1986,29,5,2011,71,231,1
+Minnesota Vikings,MIN,2016,RB,Matt Asiata,AsiaMa00,7/24/1987,28,5,2012,72,219,1
+San Francisco 49ers,SFO,2016,RB,Shaun Draughn,DrauSh00,12/7/1987,28,5,2011,71,205,2
+Jacksonville Jaguars,JAX,2016,RB,Daryl Richardson,RichDa00,4/12/1990,25,4,2012,71,196,2
+Miami Dolphins,MIA,2016,RB,Isaiah Pead,PeadIs00,12/14/1989,26,4,2012,70,206,1
+Houston Texans,HOU,2016,RB,Jonathan Grimes,GrimJo01,12/21/1989,26,4,2012,70,210,2
+New York Giants,NYG,2016,RB,Rashad Jennings,JennRa00,3/26/1985,30,4,2012,73,231,1
+San Diego Chargers,SDG,2016,RB,Ronnie Hillman,HillRo00,9/14/1991,24,4,2012,70,195,1
+New York Giants,NYG,2016,RB,Will Johnson,JohnWi00,11/14/1988,27,4,2012,74,240,1
+New York Jets,NYJ,2016,RB,Khiry Robinson,RobiKh00,12/28/1989,26,3,2013,72,220,2
+Kansas City Chiefs,KAN,2016,RB,Knile Davis,DaviKn00,10/5/1991,24,3,2013,70,227,1
+Arizona Cardinals,ARI,2016,RB,Stepfan Taylor,TaylSt00,6/9/1991,24,3,2013,69,216,2
+Seattle Seahawks,SEA,2016,RB,Will Tukuafu,TukuWi00,1/3/1984,32,3,2013,74,280,1
+Tennessee Titans,TEN,2016,RB,Antonio Andrews,AndrAn00,8/17/1992,23,2,2014,70,225,2
+Jacksonville Jaguars,JAX,2016,RB,Denard Robinson,RobiDe00,9/22/1990,25,2,2014,72,213,2
+Buffalo Bills,BUF,2016,RB,Dri Archer,ArchDr00,8/9/1991,24,2,2014,68,173,1
+Cleveland Browns,CLE,2016,RB,Glenn Winston,WinsGl00,4/29/1989,26,2,2014,74,220,3
+Denver Broncos,DEN,2016,RB,Juwan Thompson,ThomJu01,5/13/1992,23,2,2014,71,225,1
+Chicago Bears,CHI,2016,RB,KaDeem Carey,CareKa00,10/30/1992,23,2,2014,70,215,2
+Baltimore Ravens,BAL,2016,RB,Lorenzo Taliaferro,TaliLo00,12/23/1991,24,2,2014,72,225,1
+Washington Redskins,WAS,2016,RB,Silas Redd,ReddSi00,3/1/1992,23,2,2014,70,200,1
+Miami Dolphins,MIA,2016,RB,Storm Johnson,JohnSt03,7/10/1992,23,2,2014,72,216,1
+Los Angeles Rams,LAR,2016,RB,Tre Mason,MasoTr00,8/6/1993,22,2,2014,68,207,2
+Tennessee Titans,TEN,2016,RB,David Cobb,CobbDa00,6/3/1993,22,1,2015,71,229,1
+Pittsburgh Steelers,PIT,2016,RB,Karlos Williams,WillKa01,5/4/1993,22,1,2015,73,230,1
+Tampa Bay Buccaneers,TAM,2016,RB,Alan Cross,CrosAl00,7/2/1993,22,0,2016,73,245,3
+New York Jets,NYJ,2016,RB,Brandon Burks,BurkBr00,11/1/1993,22,0,2016,69,207,3
+Chicago Bears,CHI,2016,RB,Paul Lasike,LasiPa00,6/18/1990,25,0,2016,70,258,1
+New Orleans Saints,NOR,2017,RB,John Kuhn,KuhnJo00,9/9/1982,34,12,2006,72,250,2
+Arizona Cardinals,ARI,2017,RB,Chris Johnson,JohnCh04,9/23/1985,31,9,2011,71,203,1
+Baltimore Ravens,BAL,2017,RB,Danny Woodhead,WoodDa02,1/25/1985,31,9,2011,68,200,1
+Dallas Cowboys,DAL,2017,RB,Darren McFadden,McFaDa00,8/27/1987,29,9,2011,73,222,1
+New York Jets,NYJ,2017,RB,Matt Forte,FortMa00,12/10/1985,31,9,2011,74,218,1
+Buffalo Bills,BUF,2017,RB,Mike Tolbert,TolbMi00,11/23/1985,31,9,2011,69,250,1
+Cincinnati Bengals,CIN,2017,RB,Cedric Peerman,PeerCe00,10/10/1986,30,8,2011,70,212,1
+Kansas City Chiefs,KAN,2017,RB,CJ Spiller,SpilC.00,8/5/1987,29,7,2011,71,200,1
+Tennessee Titans,TEN,2017,RB,DeMarco Murray,MurrDe00,2/12/1988,28,6,2011,73,220,1
+Houston Texans,HOU,2017,RB,Jordan Todman,TodmJo00,2/24/1990,26,6,2011,70,200,2
+New York Giants,NYG,2017,RB,Shane Vereen,VereSh00,3/2/1989,27,6,2011,70,205,1
+Tampa Bay Buccaneers,TAM,2017,RB,Austin Johnson,JohnAu00,6/16/1989,27,5,2014,74,240,1
+Baltimore Ravens,BAL,2017,RB,Bobby Rainey,RainBo00,10/16/1987,29,5,2012,68,212,2
+Buffalo Bills,BUF,2017,RB,Joe Banyard,BanyJo00,11/12/1988,28,5,2013,70,221,1
+Los Angeles Rams,LAR,2017,RB,Lance Dunbar,DunbLa00,1/25/1990,26,5,2012,68,187,2
+Houston Texans,HOU,2017,RB,Andre Ellington,ElliAn00,2/3/1989,27,4,2013,69,199,1
+Seattle Seahawks,SEA,2017,RB,Eddie Lacy,LacyEd00,6/2/1990,26,4,2013,71,250,1
+Arizona Cardinals,ARI,2017,RB,Kerwynn Williams,WillKe05,6/9/1991,25,4,2013,68,198,2
+Detroit Lions,DET,2017,RB,Mike James,JameMi00,4/13/1991,25,4,2013,70,223,1
+Los Angeles Chargers,LAC,2017,RB,Andre Williams,WillAn00,8/28/1992,24,3,2014,72,220,1
+Minnesota Vikings,MIN,2017,RB,Bishop Sankey,SankBi00,9/15/1992,24,3,2014,70,213,2
+Los Angeles Chargers,LAC,2017,RB,Branden Oliver,OlivBr01,5/7/1991,25,3,2014,68,208,2
+Tampa Bay Buccaneers,TAM,2017,RB,Charles Sims,SimsCh00,9/19/1990,26,3,2014,72,211,2
+Pittsburgh Steelers,PIT,2017,RB,Fitzgerald Toussaint,TousFi00,5/4/1990,26,3,2014,69,204,1
+Houston Texans,HOU,2017,RB,Jay Prosch,ProsJa00,8/21/1992,24,3,2014,73,255,1
+New York Giants,NYG,2017,RB,Orleans Darkwa,DarkOr00,2/28/1992,24,3,2014,71,215,2
+Baltimore Ravens,BAL,2017,RB,Terrance West,WestTe00,1/28/1991,25,3,2014,70,225,1
+Green Bay Packers,GNB,2017,RB,Aaron Ripkowski,RipkAa00,12/20/1992,24,2,2015,73,246,1
+Washington Redskins,WAS,2017,RB,Kenny Hilliard,HillKe01,10/3/1991,25,2,2016,71,226,3
+Indianapolis Colts,IND,2017,RB,Matt Jones,JoneMa04,3/7/1993,23,2,2015,74,239,2
+Pittsburgh Steelers,PIT,2017,RB,Terrell Watson,WatsTe00,8/22/1993,23,2,2016,73,240,1
+Atlanta Falcons,ATL,2017,RB,Terrence Magee,MageTe00,3/16/1993,23,2,2015,69,220,1
+Atlanta Falcons,ATL,2017,RB,Terron Ward,WardTe00,2/15/1992,24,2,2015,67,201,1
+Washington Redskins,WAS,2017,RB,LeShun Daniels,DaniLe00,6/4/1995,21,0,2017,71,225,3
+Detroit Lions,DET,2017,RB,Tion Green,GreeTi00,12/14/1993,23,0,2017,72,220,1
+Jacksonville Jaguars,JAX,2018,RB,Jamaal Charles,CharJa00,12/27/1986,31,10,2011,71,199,1
+New York Giants,NYG,2018,RB,Jonathan Stewart,StewJo00,3/21/1987,30,10,2011,70,245,1
+Buffalo Bills,BUF,2018,RB,Chris Ivory,IvorCh00,3/22/1988,29,8,2011,72,223,1
+Detroit Lions,DET,2018,RB,LeGarrette Blount,BlouLe00,12/5/1986,31,8,2011,72,250,1
+Tampa Bay Buccaneers,TAM,2018,RB,Jacquizz Rodgers,RodgJa00,2/6/1990,27,7,2011,66,190,1
+Pittsburgh Steelers,PIT,2018,RB,Stevan Ridley,RidlSt00,1/27/1989,28,7,2011,71,220,1
+Arizona Cardinals,ARI,2018,RB,Derrick Coleman,ColeDe00,10/18/1990,27,6,2013,72,233,1
+Oakland Raiders,OAK,2018,RB,Doug Martin,MartDo00,1/13/1989,28,6,2012,69,223,1
+Carolina Panthers,CAR,2018,RB,Fozzy Whittaker,WhitFo00,2/2/1989,28,6,2013,70,205,2
+Carolina Panthers,CAR,2018,RB,Travaris Cadet,CadeTr00,2/1/1989,28,6,2012,73,210,1
+Chicago Bears,CHI,2018,RB,Benny Cunningham,CunnBe01,7/7/1990,27,5,2013,70,218,2
+Indianapolis Colts,IND,2018,RB,Christine Michael,MichCh00,11/9/1990,27,5,2013,70,220,1
+New Orleans Saints,NOR,2018,RB,Mike Gillislee,GillMi00,11/1/1990,27,5,2013,71,210,1
+Kansas City Chiefs,KAN,2018,RB,Charcandrick West,WestCh01,6/2/1991,26,4,2014,70,205,1
+Green Bay Packers,GNB,2018,RB,Kapri Bibbs,BibbKa00,1/10/1993,24,4,2014,70,203,1
+Carolina Panthers,CAR,2018,RB,Cameron ArtisPayne,ArtiCa00,6/23/1990,27,3,2015,70,215,2
+Jacksonville Jaguars,JAX,2018,RB,Corey Grant,GranCo00,12/19/1991,26,3,2015,71,203,1
+Tennessee Titans,TEN,2018,RB,Jalston Fowler,FowlJa00,7/26/1990,27,3,2015,71,261,1
+Atlanta Falcons,ATL,2018,RB,Jeremy Langford,LangJe00,12/6/1991,26,3,2015,72,211,2
+Cincinnati Bengals,CIN,2018,RB,Thomas Rawls,RawlTh00,8/3/1993,24,3,2015,69,215,1
+New Orleans Saints,NOR,2018,RB,Daniel Lasco,LascDa00,10/9/1992,25,2,2016,73,205,1
+New England Patriots,NWE,2018,RB,Kenneth Farrow,FarrKe02,3/7/1993,24,2,2016,69,219,1
+Washington Redskins,WAS,2018,RB,Rob Kelley,KellRo00,10/3/1992,25,2,2016,72,229,2
+Cincinnati Bengals,CIN,2018,RB,Cethan Carter,CartCe00,9/5/1995,22,1,2018,75,245,3
+Philadelphia Eagles,PHI,2018,RB,DJ Pumphrey,PumpDo00,12/6/1994,23,1,2017,69,176,3
+Carolina Panthers,CAR,2018,RB,Elijah Hood,HoodEl00,4/22/1996,21,1,2017,71,230,3
+Buffalo Bills,BUF,2018,RB,Keith Ford,FordKe00,4/18/1994,23,0,2018,70,215,1
+New England Patriots,NWE,2019,RB,James Develin,DeveJa00,7/23/1988,30,9,2012,75,255,1
+Detroit Lions,DET,2019,RB,CJ Anderson,AndeC.00,2/10/1991,27,6,2013,68,225,1
+Jacksonville Jaguars,JAX,2019,RB,Alfred Blue,BlueAl00,4/27/1991,27,5,2014,74,225,1
+Philadelphia Eagles,PHI,2019,RB,Jay Ajayi,AjayJa00,6/15/1993,25,4,2015,72,223,1
+Miami Dolphins,MIA,2019,RB,Zach Zenner,ZennZa00,9/13/1991,27,4,2015,71,224,2
+Green Bay Packers,GNB,2019,RB,Danny Vitale,VitaDa00,10/26/1993,25,3,2016,72,239,1
+Philadelphia Eagles,PHI,2019,RB,DeAngelo Henderson Sr,HendDe01,11/24/1992,26,2,2017,67,208,1
+Jacksonville Jaguars,JAX,2019,RB,Devante Mays,MaysDe00,5/26/1994,24,2,2017,70,230,1
+New Orleans Saints,NOR,2019,RB,Matt Dayes,DayeMa00,9/3/1994,24,2,2017,69,205,1
+New Orleans Saints,NOR,2019,RB,Ricky Ortiz,OrtiRi00,4/15/1994,24,2,2017,72,233,3
+Washington Redskins,WAS,2019,RB,Derrius Guice,GuicDe00,6/21/1997,21,1,2018,71,225,1
+Los Angeles Chargers,LAC,2019,RB,Detrez Newsome,NewsDe00,3/6/1994,24,1,2018,70,210,1
+Dallas Cowboys,DAL,2019,RB,Jordan Chunn,ChunJo00,1/2/1995,24,1,2018,72,230,3
+Miami Dolphins,MIA,2019,RB,Mark Walton,WaltMa00,3/29/1997,21,1,2018,70,200,1
+Philadelphia Eagles,PHI,2020,RB,Darren Sproles,SproDa00,6/20/1983,36,15,2011,66,190,1
+Seattle Seahawks,SEA,2020,RB,Marshawn Lynch,LyncMa00,4/22/1986,33,13,2011,71,215,1
+Tampa Bay Buccaneers,TAM,2020,RB,LeSean McCoy,McCoLe01,7/12/1988,31,11,2011,71,210,1
+Kansas City Chiefs,KAN,2020,RB,Anthony Sherman,SherAn00,12/11/1988,31,9,2011,70,242,1
+Jacksonville Jaguars,JAX,2020,RB,Bruce Miller,MillBr02,8/6/1987,32,9,2011,74,248,1
+New York Giants,NYG,2020,RB,Dion Lewis,LewiDi00,9/27/1990,29,9,2011,68,195,1
+Buffalo Bills,BUF,2020,RB,Patrick DiMarco,DiMaPa00,4/30/1989,30,9,2012,73,234,1
+New York Giants,NYG,2020,RB,Alfred Morris,MorrAl00,12/12/1988,31,8,2012,70,224,1
+Dallas Cowboys,DAL,2020,RB,Jamize Olawale,OlawJa00,4/17/1989,30,8,2012,73,240,1
+Seattle Seahawks,SEA,2020,RB,Robert Turbin,TurbRo00,12/2/1989,30,8,2012,70,225,1
+Chicago Bears,CHI,2020,RB,Spencer Ware,WareSp00,11/23/1991,28,7,2013,70,224,1
+Baltimore Ravens,BAL,2020,RB,Tommy Bohanon,BohaTo00,9/10/1990,29,7,2013,73,246,1
+Tennessee Titans,TEN,2020,RB,David Fluellen,FlueDa00,1/28/1992,27,6,2016,71,224,1
+Las Vegas Raiders,LVR,2020,RB,Isaiah Crowell,CrowIs00,1/8/1993,26,6,2014,71,225,1
+New England Patriots,NWE,2020,RB,Jeremy Hill,HillJe01,10/20/1992,27,6,2014,73,230,1
+Tennessee Titans,TEN,2020,RB,Senorise Perry,PerrSe00,9/19/1991,28,6,2014,72,210,1
+San Francisco 49ers,SFO,2020,RB,Tyler Gaffney,GaffTy00,4/20/1991,28,6,2016,72,220,3
+New York Giants,NYG,2020,RB,Javorius Allen,AlleJa01,8/27/1991,28,5,2015,72,218,1
+Green Bay Packers,GNB,2020,RB,Malcolm Johnson,JohnMa06,8/11/1992,27,5,2015,73,231,1
+Buffalo Bills,BUF,2020,RB,Marcus Murphy,MurpMa03,10/3/1991,28,5,2015,69,195,1
+New York Giants,NYG,2020,RB,Rod Smith,SmitRo06,1/10/1992,27,5,2015,75,236,2
+Buffalo Bills,BUF,2020,RB,TJ Yeldon,YeldT.00,10/2/1993,26,5,2015,73,223,1
+Atlanta Falcons,ATL,2020,RB,Todd Gurley,GurlTo01,8/3/1994,25,5,2015,73,224,1
+New Orleans Saints,NOR,2020,RB,Ty Montgomery,MontTy01,1/22/1993,26,5,2016,72,216,1
+Miami Dolphins,MIA,2020,RB,DeAndre Washington,WashDe00,2/22/1993,26,4,2016,68,210,1
+New York Jets,NYJ,2020,RB,Kenneth Dixon,DixoKe00,1/21/1994,25,4,2016,70,228,2
+Indianapolis Colts,IND,2020,RB,Paul Perkins,PerkPa00,11/16/1994,25,4,2016,71,213,2
+Green Bay Packers,GNB,2020,RB,Tyler Ervin,ErviTy00,10/7/1993,26,4,2016,70,185,1
+Minnesota Vikings,MIN,2020,RB,Khalfani Muhammad,MuhaKh00,9/26/1994,25,3,2017,67,174,3
+Tampa Bay Buccaneers,TAM,2020,RB,TJ Logan,LogaT.00,9/3/1994,25,3,2017,71,195,1
+Seattle Seahawks,SEA,2020,RB,Bo Scarbrough,ScarBo01,9/29/1996,23,2,2018,73,235,1
+Washington Football Team,WAS,2020,RB,Bryce Love,LoveBr00,7/8/1997,22,1,2019,69,205,3
+Miami Dolphins,MIA,2020,RB,Chandler Cox,CoxxCh01,7/29/1996,23,1,2019,73,242,3
+Green Bay Packers,GNB,2020,RB,Mike Weber,WebeMi00,8/27/1997,22,1,2019,70,212,3
+Cincinnati Bengals,CIN,2020,RB,Rodney Anderson,AndeRo02,9/12/1996,23,1,2019,72,224,3
+Detroit Lions,DET,2020,RB,Wes Hills,HillWe00,6/5/1995,24,1,2019,72,218,1
+Seattle Seahawks,SEA,2021,RB,Adrian Peterson,PeteAd01,3/21/1985,35,14,2011,73,220,1
+New Orleans Saints,NOR,2021,RB,Lamar Miller,MillLa01,4/25/1991,29,9,2012,70,220,1
+Chicago Bears,CHI,2021,RB,Chris Thompson,ThomCh03,10/20/1990,30,8,2013,68,195,2
+Tampa Bay Buccaneers,TAM,2021,RB,LeVeon Bell,BellLe00,2/18/1992,28,8,2013,73,225,1
+Las Vegas Raiders,LVR,2021,RB,Theo Riddick,RiddTh00,5/4/1991,29,8,2013,69,201,1
+Jacksonville Jaguars,JAX,2021,RB,Carlos Hyde,HydeCa00,9/20/1990,30,7,2014,72,229,1
+Baltimore Ravens,BAL,2021,RB,Devonta Freeman,FreeDe00,3/15/1992,28,7,2014,68,206,1
+Seattle Seahawks,SEA,2021,RB,Alex Collins,CollAl00,8/26/1994,26,5,2016,70,210,1
+Tampa Bay Buccaneers,TAM,2021,RB,CJ Prosise,ProsC.00,5/20/1994,26,5,2016,73,225,1
+Houston Texans,HOU,2021,RB,Darius Jackson,JackDa01,12/1/1993,27,5,2016,72,220,1
+New York Giants,NYG,2021,RB,Devontae Booker,BookDe00,5/27/1992,28,5,2016,71,219,1
+New York Giants,NYG,2021,RB,Elijhaa Penny,PennEl00,8/17/1993,27,5,2016,73,234,1
+Las Vegas Raiders,LVR,2021,RB,Jalen Richard,RichJa01,10/15/1993,27,5,2016,68,207,2
+Las Vegas Raiders,LVR,2021,RB,Peyton Barber,BarbPe01,2/27/1994,26,5,2016,71,225,1
+Washington Football Team,WAS,2021,RB,Wendell Smallwood,SmalWe00,1/20/1994,26,5,2016,70,208,2
+Kansas City Chiefs,KAN,2021,RB,Elijah McGuire,McGuEl00,6/1/1994,26,4,2017,70,214,2
+Dallas Cowboys,DAL,2021,RB,Ito Smith,SmitIt00,9/11/1995,25,3,2018,69,195,2
+Houston Texans,HOU,2021,RB,Jaylen Samuels,SamuJa00,7/20/1996,24,3,2018,72,225,2
+New Orleans Saints,NOR,2021,RB,Josh Adams,AdamJo03,10/29/1996,24,3,2018,74,225,2
+Pittsburgh Steelers,PIT,2021,RB,Kalen Ballage,BallKa00,12/22/1995,25,3,2018,74,230,2
+Philadelphia Eagles,PHI,2021,RB,Kerryon Johnson,JohnKe06,6/30/1997,23,3,2018,71,212,1
+Miami Dolphins,MIA,2021,RB,Jordan Scarlett,ScarJo00,7/8/1995,25,2,2019,71,210,3
+Green Bay Packers,GNB,2021,RB,Kerrith Whyte,WhytKe00,10/31/1996,24,2,2019,70,204,1
+Las Vegas Raiders,LVR,2021,RB,Sutton Smith,SmitSu00,3/22/1996,24,2,2021,72,232,3
+Carolina Panthers,CAR,2021,RB,Giovanni Ricci,RiccGi00,10/16/1996,24,1,2021,75,240,3
+Dallas Cowboys,DAL,2021,RB,Nick Ralston,RalsNi00,11/10/1996,24,0,2021,72,240,3
+San Francisco 49ers,SFO,2022,RB,Frank Gore,GoreFr00,5/14/1983,38,17,2006,69,212,1
+New York Jets,NYJ,2022,RB,Bilal Powell,PoweBi00,10/27/1988,33,11,2011,70,204,1
+New Orleans Saints,NOR,2022,RB,Mark Ingram II,IngrMa01,12/21/1989,32,11,2011,69,215,1
+Tampa Bay Buccaneers,TAM,2022,RB,Giovani Bernard,BernGi00,11/22/1991,30,9,2013,69,205,1
+Tampa Bay Buccaneers,TAM,2022,RB,Kenjon Barner,BarnKe00,4/28/1989,32,9,2013,69,195,2
+Houston Texans,HOU,2022,RB,Rex Burkhead,BurkRe00,7/2/1990,31,9,2013,70,215,1
+New England Patriots,NWE,2022,RB,James White,WhitJa02,2/3/1992,29,8,2014,70,205,1
+New Orleans Saints,NOR,2022,RB,David Johnson,JohnDa08,12/16/1991,30,7,2015,73,224,1
+Buffalo Bills,BUF,2022,RB,Duke Johnson,JohnDu00,9/23/1993,28,7,2015,69,210,1
+Los Angeles Rams,LAR,2022,RB,Malcolm Brown,BrowMa03,5/15/1993,28,7,2015,71,222,1
+Baltimore Ravens,BAL,2022,RB,Mike Davis,DaviMi01,2/19/1993,28,7,2015,69,221,1
+San Francisco 49ers,SFO,2022,RB,Tevin Coleman,ColeTe01,4/16/1993,28,7,2015,73,210,1
+Houston Texans,HOU,2022,RB,Andy Janovich,JanoAn00,5/23/1993,28,6,2016,73,238,1
+Pittsburgh Steelers,PIT,2022,RB,Derek Watt,WattDe00,11/7/1992,29,6,2016,74,234,1
+Washington Commanders,WAS,2022,RB,JD McKissic,McKiJ.00,8/15/1993,28,6,2016,70,195,2
+New Orleans Saints,NOR,2022,RB,Jordan Howard,HowaJo00,11/2/1994,27,6,2016,72,224,1
+Seattle Seahawks,SEA,2022,RB,Chris Carson,CarsCh00,9/16/1994,27,5,2017,71,222,1
+Pittsburgh Steelers,PIT,2022,RB,Trey Edmunds,EdmuTr00,12/30/1994,27,5,2017,74,223,1
+Seattle Seahawks,SEA,2022,RB,Wayne Gallman,GallWa00,10/1/1994,27,5,2017,72,210,1
+Tennessee Titans,TEN,2022,RB,Dontrell Hilliard,HillDo00,2/26/1995,26,4,2018,71,202,1
+Indianapolis Colts,IND,2022,RB,Phillip Lindsay,LindPh00,7/24/1994,27,4,2018,68,190,1
+Washington Commanders,WAS,2022,RB,Reggie Bonnafon,BonnRe00,1/4/1996,26,4,2018,72,215,1
+Tennessee Titans,TEN,2022,RB,Trenton Cannon,CannTr00,7/23/1994,27,4,2018,71,185,1
+Seattle Seahawks,SEA,2022,RB,Cullen Gillaspia,GillCu00,5/12/1995,26,3,2019,74,235,3
+Denver Broncos,DEN,2022,RB,Damarea Crockett,CrocDa01,12/22/1997,24,3,2019,71,225,3
+Green Bay Packers,GNB,2022,RB,Dexter Williams,WillDe07,1/6/1997,25,3,2019,71,212,3
+Jacksonville Jaguars,JAX,2022,RB,Ryquell Armstead,ArmsRy00,10/30/1996,25,3,2019,71,220,1
+Los Angeles Chargers,LAC,2022,RB,Gabe Nabers,NabeGa00,11/5/1997,24,2,2020,75,243,1
+New England Patriots,NWE,2022,RB,Lynn Bowden,BowdLy00,10/14/1997,24,2,2021,71,201,1
+New England Patriots,NWE,2022,RB,Malcolm Perry,PerrMa00,4/19/1997,24,2,2020,69,190,1
+Jacksonville Jaguars,JAX,2022,RB,Nathan Cottrell,CottNa00,8/2/1996,25,2,2020,71,193,3
+Houston Texans,HOU,2022,RB,Paul Quessenberry,QuesPa00,1/8/1992,30,2,2022,74,251,3
+Los Angeles Rams,LAR,2022,RB,Raymond Calais,CalaRa00,4/2/1998,23,2,2020,69,185,3
+Arizona Cardinals,ARI,2022,RB,TySon Williams,WillTy01,9/4/1996,25,2,2020,72,220,1
+Atlanta Falcons,ATL,2022,RB,Caleb Huntley,HuntCa02,9/15/1998,23,1,2021,70,229,1
+Green Bay Packers,GNB,2022,RB,Kylin Hill,HillKy00,8/18/1998,23,1,2021,70,215,1
+Jacksonville Jaguars,JAX,2022,RB,Mekhi Sargent,SargMe00,10/8/1997,24,1,2021,68,209,1
+Indianapolis Colts,IND,2022,RB,Dvonte Price,PricDv00,6/2/1999,22,0,2022,73,215,3
+Chicago Bears,CHI,2022,RB,Trestan Ebner,EbneTr00,1/2/1999,23,0,2022,71,205,1
+New York Jets,NYJ,2022,RB,Zonovan Knight,KnigZo00,4/11/2001,20,0,2022,71,210,1
+New York Giants,NYG,2023,RB,Taiwan Jones,JoneTa00,7/26/1988,34,12,2023,72,195,1
+Las Vegas Raiders,LVR,2023,RB,Brandon Bolden,BoldBr00,1/26/1990,32,11,2023,71,220,1
+Buffalo Bills,BUF,2023,RB,Latavius Murray,MurrLa00,1/18/1990,32,10,2023,75,230,1
+Arizona Cardinals,ARI,2023,RB,Damien Williams,WillDa05,4/3/1992,30,9,2023,71,224,1
+Kansas City Chiefs,KAN,2023,RB,Jerick McKinnon,McKiJe00,5/3/1992,30,9,2023,69,205,1
+Baltimore Ravens,BAL,2023,RB,Melvin Gordon,GordMe00,4/13/1993,29,8,2023,73,215,1
+Denver Broncos,DEN,2023,RB,Dwayne Washington,WashDw00,4/24/1994,28,7,2023,73,223,2
+Washington Commanders,WAS,2023,RB,Jonathan Williams,WillJo07,2/2/1994,28,7,2023,72,217,2
+Green Bay Packers,GNB,2023,RB,Kenyan Drake,DrakKe00,1/26/1994,28,7,2023,73,211,1
+Washington Commanders,WAS,2023,RB,Alex Armah,ArmaAl00,5/17/1994,28,6,2023,74,255,1
+San Francisco 49ers,SFO,2023,RB,Brian Hill,HillBr02,11/9/1995,27,6,2023,73,219,2
+Arizona Cardinals,ARI,2023,RB,Corey Clement,ClemCo00,11/2/1994,28,6,2023,70,220,2
+Buffalo Bills,BUF,2023,RB,Leonard Fournette,FourLe00,1/18/1995,27,6,2023,72,228,1
+Arizona Cardinals,ARI,2023,RB,Marlon Mack,MackMa00,3/7/1996,26,6,2023,71,210,1
+New Orleans Saints,NOR,2023,RB,Darrel Williams,WillDa10,4/15/1995,27,5,2023,71,224,1
+Pittsburgh Steelers,PIT,2023,RB,Godwin Igwebuike,IgweGo00,9/10/1994,28,5,2023,72,212,1
+Detroit Lions,DET,2023,RB,Jason Cabinda,CabiJa00,3/17/1996,26,5,2023,73,235,1
+Cleveland Browns,CLE,2023,RB,Jordan Wilkins,WilkJo01,7/18/1994,28,5,2023,72,217,2
+Detroit Lions,DET,2023,RB,Justin Jackson,JackJu01,4/22/1996,26,5,2023,72,200,2
+Dallas Cowboys,DAL,2023,RB,Ronald Jones,JoneRo01,8/3/1997,25,5,2023,72,208,1
+Los Angeles Rams,LAR,2023,RB,Sony Michel,MichSo00,2/17/1995,27,5,2023,71,215,1
+Las Vegas Raiders,LVR,2023,RB,Austin Walter,WaltAu00,8/17/1996,26,4,2023,68,202,1
+Detroit Lions,DET,2023,RB,Benny Snell,SnelBe00,2/27/1998,24,4,2023,70,223,1
+Buffalo Bills,BUF,2023,RB,Damien Harris,HarrDa06,2/11/1997,25,4,2023,71,215,1
+Los Angeles Rams,LAR,2023,RB,Darrell Henderson,HendDa00,8/19/1997,25,4,2023,68,200,1
+Las Vegas Raiders,LVR,2023,RB,Darwin Thompson,ThomDa06,2/12/1997,25,4,2023,68,200,1
+Washington Commanders,WAS,2023,RB,Derrick Gore,GoreDe00,12/13/1994,28,4,2023,69,212,1
+Detroit Lions,DET,2023,RB,Devine Ozigbo,OzigDe01,10/2/1996,26,4,2023,74,225,1
+Tampa Bay Buccaneers,TAM,2023,RB,Patrick Laird,LairPa00,8/17/1995,27,4,2023,72,205,1
+Pittsburgh Steelers,PIT,2023,RB,Qadree Ollison,OlliQa00,9/8/1996,26,4,2023,73,232,1
+New Orleans Saints,NOR,2023,RB,Eno Benjamin,BenjEn00,4/13/1999,23,3,2023,69,210,2
+Indianapolis Colts,IND,2023,RB,Jason Huntley,HuntJa01,4/20/1998,24,3,2023,69,193,1
+Houston Texans,HOU,2023,RB,Gerrid Doaks,DoakGe00,6/9/1998,24,2,2023,71,230,3
+Houston Texans,HOU,2023,RB,Larry Rountree,RounLa00,2/13/1999,23,2,2023,70,210,1
+Washington Commanders,WAS,2023,RB,Chris Rodriguez,RodrCh00,9/26/1999,23,0,2023,71,224,1
+Jacksonville Jaguars,JAX,2023,RB,Derek Parish,PariDe00,1/4/1999,24,0,2023,74,245,3
+Philadelphia Eagles,PHI,2023,RB,Lew Nichols,NichLe00,8/16/2001,21,0,2023,70,222,3
+Pittsburgh Steelers,PIT,2024,RB,Cordarrelle Patterson,PattCo00,3/17/1991,32,11,2021,74,238,1
+San Francisco 49ers,SFO,2024,RB,Kyle Juszczyk,JuszKy00,4/23/1991,32,11,2013,74,240,1
+Las Vegas Raiders,LVR,2024,RB,Ameer Abdullah,AbduAm00,6/13/1993,30,9,2015,69,203,1
+Denver Broncos,DEN,2024,RB,Michael Burton,BurtMi00,2/1/1992,31,9,2015,71,240,1
+Miami Dolphins,MIA,2024,RB,Raheem Mostert,MostRa00,4/9/1992,31,9,2015,70,197,1
+Minnesota Vikings,MIN,2024,RB,CJ Ham,HamxC.00,7/22/1993,30,8,2016,71,235,1
+Baltimore Ravens,BAL,2024,RB,Derrick Henry,HenrDe00,1/4/1994,30,8,2016,75,247,1
+Los Angeles Chargers,LAC,2024,RB,Ezekiel Elliott,ElliEz00,7/22/1995,28,8,2016,72,228,1
+Minnesota Vikings,MIN,2024,RB,Aaron Jones,JoneAa00,12/2/1994,29,7,2017,69,208,1
+New Orleans Saints,NOR,2024,RB,Alvin Kamara,KamaAl00,7/25/1995,28,7,2017,70,215,1
+Washington Commanders,WAS,2024,RB,Austin Ekeler,EkelAu00,5/17/1995,28,7,2017,70,200,1
+San Francisco 49ers,SFO,2024,RB,Christian McCaffrey,McCaCh01,6/7/1996,27,7,2017,71,205,1
+Cleveland Browns,CLE,2024,RB,DOnta Foreman,ForeDO00,4/24/1996,27,7,2017,73,233,1
+Dallas Cowboys,DAL,2024,RB,Dalvin Cook,CookDa01,8/10/1995,28,7,2017,70,210,1
+Houston Texans,HOU,2024,RB,Dare Ogunbowale,OgunDa00,5/4/1994,29,7,2017,71,205,2
+New Orleans Saints,NOR,2024,RB,Jamaal Williams,WillJa06,4/3/1995,28,7,2017,72,213,1
+Arizona Cardinals,ARI,2024,RB,James Conner,ConnJa00,5/5/1995,28,7,2017,73,233,1
+Washington Commanders,WAS,2024,RB,Jeremy McNichols,McNiJe00,12/26/1995,28,7,2017,69,205,2
+Houston Texans,HOU,2024,RB,Joe Mixon,MixoJo00,7/24/1996,27,7,2017,73,220,1
+Kansas City Chiefs,KAN,2024,RB,Kareem Hunt,HuntKa00,8/6/1995,28,7,2017,71,216,1
+San Francisco 49ers,SFO,2024,RB,Matt Breida,BreiMa00,2/28/1995,28,7,2017,70,190,1
+Baltimore Ravens,BAL,2024,RB,Patrick Ricard,RicaPa00,5/27/1994,29,7,2017,75,311,1
+Kansas City Chiefs,KAN,2024,RB,Samaje Perine,PeriSa00,9/16/1995,28,7,2017,70,240,1
+New York Jets,NYJ,2024,RB,Tarik Cohen,CoheTa00,7/26/1995,28,7,2017,66,191,2
+Pittsburgh Steelers,PIT,2024,RB,Boston Scott,ScotBo02,4/27/1995,28,6,2018,66,203,1
+Tampa Bay Buccaneers,TAM,2024,RB,Chase Edmonds,EdmoCh00,4/13/1996,27,6,2018,69,210,1
+Los Angeles Chargers,LAC,2024,RB,Gus Edwards,EdwaGu00,4/13/1995,28,6,2018,73,238,3
+Miami Dolphins,MIA,2024,RB,Jeff Wilson,WilsJe01,11/16/1995,28,6,2018,72,194,1
+Cleveland Browns,CLE,2024,RB,John Kelly,KellJo00,10/4/1996,27,6,2018,70,205,1
+Carolina Panthers,CAR,2024,RB,Mike Boone,BoonMi00,7/30/1995,28,6,2018,70,205,2
+Houston Texans,HOU,2024,RB,Nick Bawden,BawdNi00,6/22/1996,27,6,2018,74,245,1
+Cleveland Browns,CLE,2024,RB,Nick Chubb,ChubNi00,12/27/1995,28,6,2018,71,225,1
+Cleveland Browns,CLE,2024,RB,Nyheim Hines,HineNy00,11/12/1996,27,6,2018,69,198,1
+Carolina Panthers,CAR,2024,RB,Rashaad Penny,PennRa00,2/2/1996,27,6,2018,71,220,1
+Los Angeles Rams,LAR,2024,RB,Royce Freeman,FreeRo00,2/24/1996,27,6,2018,72,238,1
+Philadelphia Eagles,PHI,2024,RB,Saquon Barkley,BarkSa00,2/9/1997,26,6,2018,72,233,1
+Miami Dolphins,MIA,2024,RB,Alec Ingold,IngoAl01,7/9/1996,27,5,2019,73,242,1
+Las Vegas Raiders,LVR,2024,RB,Alexander Mattison,MattAl01,6/19/1998,25,5,2019,71,220,1
+Detroit Lions,DET,2024,RB,Craig Reynolds,ReynCr00,6/15/1996,27,5,2019,71,215,2
+Jacksonville Jaguars,JAX,2024,RB,DErnest Johnson,JohnDE04,2/27/1996,27,5,2019,70,208,2
+Detroit Lions,DET,2024,RB,David Montgomery,MontDa01,6/7/1997,26,5,2019,71,222,1
+New York Giants,NYG,2024,RB,Devin Singletary,SingDe00,9/3/1997,26,5,2019,67,203,1
+New York Giants,NYG,2024,RB,Jakob Johnson,JohnJa12,12/15/1994,29,5,2020,75,255,3
+Green Bay Packers,GNB,2024,RB,Josh Jacobs,JacoJo01,2/11/1998,25,5,2019,70,220,1
+Baltimore Ravens,BAL,2024,RB,Justice Hill,HillJu00,11/14/1997,26,5,2019,70,200,1
+Philadelphia Eagles,PHI,2024,RB,Khari Blasingame,BlasKh00,7/1/1996,27,5,2019,72,233,1
+Carolina Panthers,CAR,2024,RB,Miles Sanders,SandMi01,5/1/1997,26,5,2019,71,211,1
+Jacksonville Jaguars,JAX,2024,RB,Myles Gaskin,GaskMy00,2/15/1997,26,5,2019,70,200,1
+Tennessee Titans,TEN,2024,RB,Tony Pollard,PollTo00,4/30/1997,26,5,2019,72,209,1
+Chicago Bears,CHI,2024,RB,Travis Homer,HomeTr00,8/7/1998,25,5,2019,70,202,2
+Cincinnati Bengals,CIN,2024,RB,Trayveon Williams,WillTr06,10/18/1997,26,5,2019,68,206,1
+Buffalo Bills,BUF,2024,RB,Ty Johnson,JohnTy02,9/17/1997,26,5,2019,70,210,1
+Green Bay Packers,GNB,2024,RB,AJ Dillon,DillAJ00,5/2/1998,25,4,2020,72,250,1
+Miami Dolphins,MIA,2024,RB,Anthony McFarland,McFaAn00,3/4/1998,25,4,2024,69,198,1
+New England Patriots,NWE,2024,RB,Antonio Gibson,GibsAn00,6/23/1998,25,4,2020,72,221,1
+Minnesota Vikings,MIN,2024,RB,Cam Akers,AkerCa00,6/22/1999,24,4,2020,70,212,1
+New Orleans Saints,NOR,2024,RB,Clyde EdwardsHelaire,EdwaCl00,4/11/1999,24,4,2020,67,209,1
+Chicago Bears,CHI,2024,RB,DAndre Swift,SwifDA00,1/14/1999,24,4,2020,69,211,1
+Chicago Bears,CHI,2024,RB,Darrynton Evans,EvanDa02,7/9/1998,25,4,2020,70,200,1
+Arizona Cardinals,ARI,2024,RB,DeeJay Dallas,DallDe00,9/16/1998,25,4,2020,70,214,2
+Houston Texans,HOU,2024,RB,JJ Taylor,TaylJJ01,1/4/1998,26,4,2020,66,185,1
+Los Angeles Chargers,LAC,2024,RB,JK Dobbins,DobbJK00,12/17/1998,25,4,2020,70,214,1
+New England Patriots,NWE,2024,RB,JaMycal Hasty,HastJa02,9/12/1996,27,4,2024,68,205,2
+New Orleans Saints,NOR,2024,RB,James Robinson,RobiJa00,8/9/1998,25,4,2020,70,220,1
+Indianapolis Colts,IND,2024,RB,Jonathan Taylor,TaylJo02,1/19/1999,24,4,2020,70,221,1
+Pittsburgh Steelers,PIT,2024,RB,Jonathan Ward,WardJo00,9/30/1997,26,4,2020,72,202,1
+Tennessee Titans,TEN,2024,RB,Joshua Kelley,KellJo01,11/20/1997,26,4,2020,71,219,1
+San Francisco 49ers,SFO,2024,RB,KeShawn Vaughn,VaugKe00,5/4/1997,26,4,2020,70,215,2
+Pittsburgh Steelers,PIT,2024,RB,LaMical Perine,PeriLa00,1/30/1998,25,4,2020,71,220,1
+San Francisco 49ers,SFO,2024,RB,Patrick Taylor,TaylPa01,4/29/1998,25,4,2020,73,223,2
+Buffalo Bills,BUF,2024,RB,Reggie Gilliam,GillRe00,8/20/1997,26,4,2021,72,255,1
+Dallas Cowboys,DAL,2024,RB,Rico Dowdle,DowdRi01,6/14/1998,25,4,2020,72,215,1
+Indianapolis Colts,IND,2024,RB,Salvon Ahmed,AhmeSa01,12/29/1998,25,4,2020,71,196,2
+Arizona Cardinals,ARI,2024,RB,Tony Jones,JoneTo04,11/24/1997,26,4,2020,71,225,1
+Cincinnati Bengals,CIN,2024,RB,Zack Moss,MossZa00,12/15/1997,26,4,2020,70,215,1
+New Orleans Saints,NOR,2024,RB,Adam Prentice,PrenAd00,1/16/1997,26,3,2021,72,245,1
+Atlanta Falcons,ATL,2024,RB,Avery Williams,WillAv02,7/15/1998,25,3,2022,69,195,1
+Cincinnati Bengals,CIN,2024,RB,Chris Evans,EvanCh02,10/5/1997,26,3,2021,71,216,1
+Carolina Panthers,CAR,2024,RB,Chuba Hubbard,HubbCh01,6/11/1999,24,3,2021,73,207,1
+Washington Commanders,WAS,2024,RB,Demetric Felton,FeltDe00,7/16/1998,25,3,2021,69,185,1
+New York Jets,NYJ,2024,RB,Deon Jackson,JackDe02,2/18/1999,24,3,2021,72,220,1
+San Francisco 49ers,SFO,2024,RB,Elijah Mitchell,MitcEl00,5/2/1998,25,3,2021,70,221,1
+Cincinnati Bengals,CIN,2024,RB,Gary Brightwell,BrigGa00,2/28/1998,25,3,2021,73,218,1
+Jacksonville Jaguars,JAX,2024,RB,Jake Funk,FunkJa00,1/11/1998,25,3,2021,70,205,1
+Los Angeles Chargers,LAC,2024,RB,Jaret Patterson,PattJa01,12/23/1999,24,3,2021,68,195,1
+Denver Broncos,DEN,2024,RB,Javonte Williams,WillJa10,4/25/2000,23,3,2021,70,220,1
+Detroit Lions,DET,2024,RB,Jermar Jefferson,JeffJe00,4/15/2000,23,3,2021,70,209,1
+New York Jets,NYJ,2024,RB,Kene Nwangwu,NwanKe00,2/9/1998,25,3,2021,73,205,1
+Philadelphia Eagles,PHI,2024,RB,Kenneth Gainwell,GainKe00,3/14/1999,24,3,2021,69,191,1
+Cincinnati Bengals,CIN,2024,RB,Khalil Herbert,HerbKh00,4/21/1998,25,3,2021,69,212,1
+Arizona Cardinals,ARI,2024,RB,Michael Carter,CartMi03,5/7/1999,24,3,2021,68,200,1
+Pittsburgh Steelers,PIT,2024,RB,Najee Harris,HarrNa00,3/9/1998,25,3,2021,73,230,1
+Green Bay Packers,GNB,2024,RB,Nate McCrary,McCrNa00,4/9/1999,24,3,2021,73,225,3
+New England Patriots,NWE,2024,RB,Rhamondre Stevenson,StevRh00,2/23/1998,25,3,2021,72,246,1
+Atlanta Falcons,ATL,2024,RB,Spencer Brown,BrowSp01,11/13/1998,25,3,2021,72,220,1
+Jacksonville Jaguars,JAX,2024,RB,Travis Etienne,EtieTr00,1/26/1999,24,3,2021,70,200,1
+Indianapolis Colts,IND,2024,RB,Trey Sermon,SermTr00,1/30/1999,24,3,2021,72,215,2
+Pittsburgh Steelers,PIT,2024,RB,Aaron Shampklin,ShamAa00,10/18/1999,24,2,2022,70,194,3
+New York Jets,NYJ,2024,RB,Bam Knight,KnigZo00,4/11/2001,22,2,2024,71,210,1
+New York Jets,NYJ,2024,RB,Breece Hall,HallBr03,5/31/2001,22,2,2022,71,220,1
+Washington Commanders,WAS,2024,RB,Brian Robinson,RobiBr01,3/22/1999,24,2,2022,73,228,1
+Seattle Seahawks,SEA,2024,RB,Brittain Brown,BrowBr06,10/10/1997,26,2,2022,73,205,3
+Houston Texans,HOU,2024,RB,Dameon Pierce,PierDa01,2/19/2000,23,2,2022,70,215,1
+Los Angeles Chargers,LAC,2024,RB,Hassan Haskins,HaskHa00,11/26/1999,24,2,2022,74,220,1
+Las Vegas Raiders,LVR,2024,RB,Isaiah Spiller,SpilIs00,8/9/2001,22,2,2022,73,215,1
+Kansas City Chiefs,KAN,2024,RB,Isiah Pacheco,PachIs00,3/2/1999,24,2,2022,70,215,1
+Buffalo Bills,BUF,2024,RB,James Cook,CookJa01,9/25/1999,24,2,2022,71,190,1
+Pittsburgh Steelers,PIT,2024,RB,Jaylen Warren,WarrJa01,11/1/1998,25,2,2022,68,225,1
+Cleveland Browns,CLE,2024,RB,Jerome Ford,FordJe00,9/12/1999,24,2,2022,70,220,1
+San Francisco 49ers,SFO,2024,RB,Jordan Mason,MasoJo00,5/24/1999,24,2,2022,71,218,2
+Tennessee Titans,TEN,2024,RB,Julius Chestnut,ChesJu00,10/26/2000,23,2,2022,71,215,1
+Kansas City Chiefs,KAN,2024,RB,Keaontay Ingram,IngrKe01,10/26/1999,24,2,2022,72,215,1
+Seattle Seahawks,SEA,2024,RB,Kenneth Walker,WalkKe00,10/20/2000,23,2,2024,69,210,1
+New England Patriots,NWE,2024,RB,Kevin Harris,HarrKe01,11/17/2000,23,2,2022,70,220,1
+Los Angeles Rams,LAR,2024,RB,Kyren Williams,WillKy02,8/26/2000,23,2,2022,69,199,1
+Dallas Cowboys,DAL,2024,RB,Malik Davis,DaviMa02,11/26/1998,25,2,2022,70,207,1
+Cleveland Browns,CLE,2024,RB,Pierre Strong,StroPi00,12/10/1998,25,2,2022,71,205,1
+Tampa Bay Buccaneers,TAM,2024,RB,Rachaad White,WhitRa01,1/12/1999,24,2,2022,72,210,1
+Carolina Panthers,CAR,2024,RB,Raheem Blackshear,BlacRa00,6/5/1998,25,2,2022,69,194,1
+Los Angeles Rams,LAR,2024,RB,Ronnie Rivers,RiveRo01,1/31/1999,24,2,2022,69,190,1
+Las Vegas Raiders,LVR,2024,RB,Sincere McCormick,McCoSi00,9/10/2000,23,2,2022,69,205,1
+Dallas Cowboys,DAL,2024,RB,Snoop Conner,ConnSn00,8/1/2000,23,2,2022,70,220,3
+Houston Texans,HOU,2024,RB,Troy Hairston,HairTr00,12/8/1998,25,2,2022,71,245,3
+Minnesota Vikings,MIN,2024,RB,Ty Chandler,ChanTy01,5/12/1998,25,2,2022,71,210,2
+Atlanta Falcons,ATL,2024,RB,Tyler Allgeier,AllgTy00,4/15/2000,23,2,2022,70,220,1
+Denver Broncos,DEN,2024,RB,Tyler Badie,BadiTy00,2/7/1999,24,2,2022,68,194,1
+Indianapolis Colts,IND,2024,RB,Tyler Goodson,GoodTy00,11/10/2000,23,2,2022,69,199,1
+Las Vegas Raiders,LVR,2024,RB,Tyreik McAllister,McAlTy00,4/7/1998,25,2,2022,70,174,3
+Philadelphia Eagles,PHI,2024,RB,Tyrion DavisPrice,DaviTy03,10/23/2000,23,2,2022,73,223,1
+Carolina Panthers,CAR,2024,RB,Velus Jones Jr,JoneVe00,5/11/1997,26,2,2024,72,200,1
+Las Vegas Raiders,LVR,2024,RB,Zamir White,WhitZa01,9/18/1999,24,2,2022,72,215,2
+Miami Dolphins,MIA,2024,RB,Zander Horvath,HorvZa00,12/10/1998,25,2,2022,75,230,1
+Atlanta Falcons,ATL,2024,RB,Bijan Robinson,RobiBi01,1/30/2002,21,1,2024,71,214,1
+Atlanta Falcons,ATL,2024,RB,Carlos Washington,WashCa00,12/26/1998,25,1,2024,71,220,3
+Cincinnati Bengals,CIN,2024,RB,Chase Brown,BrowCh10,3/21/2000,23,1,2024,70,205,1
+Green Bay Packers,GNB,2024,RB,Chris Brooks,BrooCh00,1/11/2000,23,1,2024,73,230,1
+Washington Commanders,WAS,2024,RB,Chris Rodriguez Jr,RodrCh00,9/26/1999,24,1,2024,71,224,1
+Miami Dolphins,MIA,2024,RB,DeVon Achane,AchaDe00,10/13/2001,22,1,2024,69,185,1
+Minnesota Vikings,MIN,2024,RB,DeWayne McBride,McBrDe00,7/8/2001,22,1,2024,71,210,3
+Dallas Cowboys,DAL,2024,RB,Deuce Vaughn,VaugDe00,11/2/2001,22,1,2024,66,176,1
+Atlanta Falcons,ATL,2024,RB,Elijah Dotson,DotsEl00,1/19/1999,24,1,2024,69,200,1
+Green Bay Packers,GNB,2024,RB,Emanuel Wilson,WilsEm00,5/8/1999,24,1,2024,71,220,2
+Arizona Cardinals,ARI,2024,RB,Emari Demercado,DemeEm00,1/20/1999,24,1,2024,69,210,1
+New York Giants,NYG,2024,RB,Eric Gray,GrayEr01,11/4/1999,24,1,2024,70,210,1
+Indianapolis Colts,IND,2024,RB,Evan Hull,HullEv00,10/26/2000,23,1,2024,70,210,1
+Dallas Cowboys,DAL,2024,RB,Hunter Luepke,LuepHu00,2/28/2000,23,1,2024,73,236,1
+San Francisco 49ers,SFO,2024,RB,Israel Abanikanda,AbanIs00,10/5/2002,21,1,2024,70,215,1
+Detroit Lions,DET,2024,RB,Jahmyr Gibbs,GibbJa01,3/20/2002,21,1,2024,69,200,1
+Denver Broncos,DEN,2024,RB,Jaleel McLaughlin,McLaJa00,9/13/2000,23,1,2024,67,183,2
+New Orleans Saints,NOR,2024,RB,Jordan Mims,MimsJo00,6/16/1999,24,1,2024,72,205,1
+Baltimore Ravens,BAL,2024,RB,Keaton Mitchell,MitcKe01,1/17/2002,21,1,2024,68,184,1
+New Orleans Saints,NOR,2024,RB,Kendre Miller,MillKe01,6/11/2002,21,1,2024,72,220,1
+Seattle Seahawks,SEA,2024,RB,Kenny McIntosh,McInKe00,3/3/2000,23,1,2024,72,210,1
+Philadelphia Eagles,PHI,2024,RB,Lew Nichols III,NichLe00,8/16/2001,22,1,2024,70,222,3
+Minnesota Vikings,MIN,2024,RB,Mohamed Ibrahim,IbraMo00,9/8/1999,24,1,2024,70,210,3
+Baltimore Ravens,BAL,2024,RB,Owen Wright,WrigOw00,2/28/1999,24,1,2024,69,225,3
+Chicago Bears,CHI,2024,RB,Roschon Johnson,JohnRo07,1/31/2001,22,1,2024,72,222,2
+Los Angeles Rams,LAR,2024,RB,SaRodorick Thompson Jr,ThomSa00,10/1/1999,24,1,2024,72,215,3
+Los Angeles Chargers,LAC,2024,RB,Scott Matlock,MatlSc00,6/28/2000,23,1,2024,76,300,3
+Tampa Bay Buccaneers,TAM,2024,RB,Sean Tucker,TuckSe00,10/25/2001,22,1,2024,70,210,1
+Jacksonville Jaguars,JAX,2024,RB,Tank Bigsby,BigsTa00,8/30/2002,21,1,2024,71,213,2
+Tennessee Titans,TEN,2024,RB,Tyjae Spears,SpeaTy00,6/15/2001,22,1,2024,71,195,2
+Seattle Seahawks,SEA,2024,RB,Zach Charbonnet,CharZa00,1/8/2001,22,1,2024,73,220,2
+New York Jets,NYJ,2024,RB,Zach Evans,EvanZa00,5/30/2001,22,1,2024,71,215,3
+Denver Broncos,DEN,2024,RB,Audric Estim,EstiAu00,9/6/2003,20,0,2024,71,227,1
+Los Angeles Rams,LAR,2024,RB,Blake Corum,CoruBl00,11/25/2000,23,0,2024,68,213,1
+Denver Broncos,DEN,2024,RB,Blake Watson,WatsBl00,10/14/1999,24,0,2024,69,195,1
+New York Jets,NYJ,2024,RB,Braelon Allen,AlleBr05,1/20/2004,19,0,2024,73,235,1
+Tampa Bay Buccaneers,TAM,2024,RB,Bucky Irving,IrviBu00,8/19/2002,21,0,2024,70,195,2
+Kansas City Chiefs,KAN,2024,RB,Carson Steele,SteeCa00,10/1/2002,21,0,2024,72,225,1
+Las Vegas Raiders,LVR,2024,RB,Chris Collier,CollCh01,3/24/2000,23,0,2024,71,195,1
+Los Angeles Rams,LAR,2024,RB,Cody Schrader,SchrCo00,9/8/1999,24,0,2024,69,214,1
+Washington Commanders,WAS,2024,RB,Colson Yankoff,YankCo00,3/1/2000,23,0,2024,76,225,3
+Tampa Bay Buccaneers,TAM,2024,RB,DJ Williams,WillDJ00,11/15/1999,24,0,2024,72,225,3
+Las Vegas Raiders,LVR,2024,RB,Dylan Laube,LaubDy00,12/14/1999,24,0,2024,70,208,3
+Seattle Seahawks,SEA,2024,RB,George Holani,HolaGe00,12/16/1999,24,0,2024,70,210,1
+San Francisco 49ers,SFO,2024,RB,Isaac Guerendo,GuerIs00,6/28/2000,23,0,2024,72,225,1
+New York Jets,NYJ,2024,RB,Isaiah Davis,DaviIs00,2/21/2002,21,0,2024,73,220,1
+Cleveland Browns,CLE,2024,RB,Jacob Kibodi,KiboJa00,10/4/1998,25,0,2024,73,225,1
+Atlanta Falcons,ATL,2024,RB,Jase McClellan,McClJa05,6/25/2002,21,0,2024,71,212,3
+Houston Texans,HOU,2024,RB,Jawhar Jordan,JordJa00,8/18/1999,24,0,2024,70,185,3
+Miami Dolphins,MIA,2024,RB,Jaylen Wright,WrigJa04,4/1/2003,20,0,2024,71,210,1
+Carolina Panthers,CAR,2024,RB,Jonathon Brooks,BrooJo02,7/21/2003,20,0,2024,72,207,1
+Jacksonville Jaguars,JAX,2024,RB,Keilan Robinson,RobiKe03,2/16/2000,23,0,2024,68,188,3
+Cincinnati Bengals,CIN,2024,RB,Kendall Milton,MiltKe01,2/10/2002,21,0,2024,74,220,3
+Los Angeles Chargers,LAC,2024,RB,Kimani Vidal,VidaKi00,8/28/2001,22,0,2024,68,215,1
+Green Bay Packers,GNB,2024,RB,MarShawn Lloyd,LloyMa00,1/5/2001,23,0,2024,69,210,1
+Baltimore Ravens,BAL,2024,RB,Rasheen Ali,AlixRa00,2/16/2001,22,0,2024,71,209,1
+Buffalo Bills,BUF,2024,RB,Ray Davis,DaviRa04,11/20/1999,24,0,2024,68,216,2
+Detroit Lions,DET,2024,RB,Sione Vaki,VakiSi00,7/30/2001,22,0,2024,71,208,1
+New England Patriots,NWE,2024,RB,Terrell Jennings,JennTe00,1/3/2001,23,0,2024,72,225,1
+Arizona Cardinals,ARI,2024,RB,Trey Benson,BensTr01,7/23/2002,21,0,2024,73,215,1
+New York Giants,NYG,2024,RB,Tyrone Tracy Jr,TracTy00,11/23/1999,24,0,2024,71,210,2
+Philadelphia Eagles,PHI,2024,RB,Will Shipley,ShipWi00,8/29/2002,21,0,2024,71,210,1

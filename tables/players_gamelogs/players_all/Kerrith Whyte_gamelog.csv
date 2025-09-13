@@ -1,0 +1,18 @@
+CarGm,Team,Player,pfr_id,Date,Season,Week,Season_type,GS,RushAtt,RushYds,RushTD,Tgt,Rec,RecYds,RecTD,OffSnp,STSnp
+0,PIT,Kerrith Whyte,WhytKe00,2019-09-08,2019,1,DNP,0,0,0,0,0,0,0,0,0,0
+0,PIT,Kerrith Whyte,WhytKe00,2019-09-15,2019,2,DNP,0,0,0,0,0,0,0,0,0,0
+0,PIT,Kerrith Whyte,WhytKe00,2019-09-22,2019,3,DNP,0,0,0,0,0,0,0,0,0,0
+0,PIT,Kerrith Whyte,WhytKe00,2019-09-30,2019,4,DNP,0,0,0,0,0,0,0,0,0,0
+0,PIT,Kerrith Whyte,WhytKe00,2019-10-06,2019,5,DNP,0,0,0,0,0,0,0,0,0,0
+0,PIT,Kerrith Whyte,WhytKe00,2019-10-13,2019,6,DNP,0,0,0,0,0,0,0,0,0,0
+0,PIT,Kerrith Whyte,WhytKe00,1970-01-01,2019,7,BYE,0,0,0,0,0,0,0,0,0,0
+0,PIT,Kerrith Whyte,WhytKe00,2019-10-28,2019,8,DNP,0,0,0,0,0,0,0,0,0,0
+0,PIT,Kerrith Whyte,WhytKe00,2019-11-03,2019,9,DNP,0,0,0,0,0,0,0,0,0,0
+0,PIT,Kerrith Whyte,WhytKe00,2019-11-10,2019,10,DNP,0,0,0,0,0,0,0,0,0,0
+0,PIT,Kerrith Whyte,WhytKe00,2019-11-14,2019,11,DNP,0,0,0,0,0,0,0,0,0,0
+1,PIT,Kerrith Whyte,WhytKe00,2019-11-24,2019,12,REG,0,6,43,0,0,0,0,0,7,3
+2,PIT,Kerrith Whyte,WhytKe00,2019-12-01,2019,13,REG,0,3,10,0,0,0,0,0,8,4
+3,PIT,Kerrith Whyte,WhytKe00,2019-12-08,2019,14,REG,0,5,41,0,1,1,9,0,8,4
+4,PIT,Kerrith Whyte,WhytKe00,2019-12-15,2019,15,REG,0,1,5,0,0,0,0,0,6,4
+5,PIT,Kerrith Whyte,WhytKe00,2019-12-22,2019,16,REG,0,6,22,0,0,0,0,0,7,5
+6,PIT,Kerrith Whyte,WhytKe00,2019-12-29,2019,17,REG,0,3,1,0,0,0,0,0,4,7

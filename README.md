@@ -20,8 +20,7 @@ I am using github for version controlling and my linkedin to communicate signifi
   - No fullbacks
 - Regular season and playoffs game will be included in the data
 - Players need to have at least 100 rushing attempts in their career
-  - I have to be careful with data biases (young injury prone vs healthy veterans)
-  - **Still trying to figure out rushing attempt minimum**
+  - This number was decided on the collection of all available RB players gamelogs that have played since 1990 and filtered out the guys with less than 100 rushing attempts. I then took the 33rd percentile of the distribution of the data to come up with this rushing attempt number.
 
 # Known flaws
 - When updating players_ref.csv gm_log_rtrvd column from create_player_gmlogs notebook, the value will be updated to 1 at the end of **each individual player run** and not **notebook run** as pandas save to csv does not support the option to update individual rows. This way is more computationally expensive but it allows easier maintainability in case of an error

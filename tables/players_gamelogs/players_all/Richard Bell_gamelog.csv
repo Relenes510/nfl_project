@@ -1,0 +1,18 @@
+CarGm,Team,Player,pfr_id,Date,Season,Week,Season_type,GS,RushAtt,RushYds,RushTD,Tgt,Rec,RecYds,RecTD,OffSnp,STSnp
+1,PIT,Richard Bell,BellRi00,1990-09-09,1990,1,REG,1,1,4,0,5,1,13,0,0,0
+2,PIT,Richard Bell,BellRi00,1990-09-16,1990,2,REG,0,0,0,0,1,0,0,0,0,0
+3,PIT,Richard Bell,BellRi00,1990-09-23,1990,3,REG,0,1,12,0,4,1,2,0,0,0
+4,PIT,Richard Bell,BellRi00,1990-09-30,1990,4,REG,0,0,0,0,2,1,10,0,0,0
+5,PIT,Richard Bell,BellRi00,1990-10-07,1990,5,REG,0,0,0,0,2,2,35,0,0,0
+6,PIT,Richard Bell,BellRi00,1990-10-14,1990,6,REG,0,2,1,0,0,0,0,0,0,0
+7,PIT,Richard Bell,BellRi00,1990-10-21,1990,7,REG,0,0,0,0,1,1,2,1,0,0
+8,PIT,Richard Bell,BellRi00,1990-10-29,1990,8,REG,0,0,0,0,1,1,8,0,0,0
+9,PIT,Richard Bell,BellRi00,1990-11-04,1990,9,REG,0,0,0,0,2,1,43,0,0,0
+0,PIT,Richard Bell,BellRi00,,1990,10,BYE,0,0,0,0,0,0,0,0,0,0
+10,PIT,Richard Bell,BellRi00,1990-11-18,1990,11,REG,0,0,0,0,3,2,9,0,0,0
+11,PIT,Richard Bell,BellRi00,1990-11-25,1990,12,REG,0,0,0,0,2,1,7,0,0,0
+12,PIT,Richard Bell,BellRi00,1990-12-02,1990,13,REG,0,0,0,0,1,0,0,0,0,0
+13,PIT,Richard Bell,BellRi00,1990-12-09,1990,14,REG,0,0,0,0,1,1,8,0,0,0
+14,PIT,Richard Bell,BellRi00,1990-12-16,1990,15,REG,0,0,0,0,0,0,0,0,0,0
+15,PIT,Richard Bell,BellRi00,1990-12-23,1990,16,REG,0,1,1,0,1,0,0,0,0,0
+16,PIT,Richard Bell,BellRi00,1990-12-30,1990,17,REG,0,0,0,0,1,0,0,0,0,0

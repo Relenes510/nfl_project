@@ -1,0 +1,21 @@
+CarGm,Team,Player,pfr_id,Date,Season,Week,Season_type,GS,RushAtt,RushYds,RushTD,Tgt,Rec,RecYds,RecTD,OffSnp,STSnp
+1,TEN,Mekhi Sargent,SargMe00,2021-09-12,2021,1,REG,0,1,2,0,0,0,0,0,1,1
+2,TEN,Mekhi Sargent,SargMe00,2021-09-19,2021,2,REG,0,0,0,0,0,0,0,0,0,6
+3,TEN,Mekhi Sargent,SargMe00,2021-09-26,2021,3,REG,0,1,2,0,0,0,0,0,1,6
+0,TEN,Mekhi Sargent,SargMe00,2021-10-03,2021,4,DNP,0,0,0,0,0,0,0,0,0,0
+0,TEN,Mekhi Sargent,SargMe00,2021-10-10,2021,5,DNP,0,0,0,0,0,0,0,0,0,0
+0,TEN,Mekhi Sargent,SargMe00,2021-10-18,2021,6,DNP,0,0,0,0,0,0,0,0,0,0
+0,TEN,Mekhi Sargent,SargMe00,2021-10-24,2021,7,DNP,0,0,0,0,0,0,0,0,0,0
+0,TEN,Mekhi Sargent,SargMe00,2021-10-31,2021,8,DNP,0,0,0,0,0,0,0,0,0,0
+0,TEN,Mekhi Sargent,SargMe00,2021-11-07,2021,9,DNP,0,0,0,0,0,0,0,0,0,0
+0,TEN,Mekhi Sargent,SargMe00,2021-11-14,2021,10,DNP,0,0,0,0,0,0,0,0,0,0
+0,TEN,Mekhi Sargent,SargMe00,2021-11-21,2021,11,DNP,0,0,0,0,0,0,0,0,0,0
+0,TEN,Mekhi Sargent,SargMe00,2021-11-28,2021,12,DNP,0,0,0,0,0,0,0,0,0,0
+4,LAR,Mekhi Sargent,SargMe00,2021-12-05,2021,13,REG,0,2,5,0,0,0,0,0,2,4
+5,LAR,Mekhi Sargent,SargMe00,2021-12-13,2021,14,REG,0,0,0,0,0,0,0,0,0,12
+6,LAR,Mekhi Sargent,SargMe00,2021-12-21,2021,15,REG,0,0,0,0,0,0,0,0,0,5
+0,LAR,Mekhi Sargent,SargMe00,2021-12-26,2021,16,DNP,0,0,0,0,0,0,0,0,0,0
+0,LAR,Mekhi Sargent,SargMe00,2021-12-26,2021,16,DNP,0,0,0,0,0,0,0,0,0,0
+0,LAR,Mekhi Sargent,SargMe00,2022-01-02,2021,17,DNP,0,0,0,0,0,0,0,0,0,0
+0,LAR,Mekhi Sargent,SargMe00,2022-01-02,2021,17,DNP,0,0,0,0,0,0,0,0,0,0
+7,JAX,Mekhi Sargent,SargMe00,2022-01-09,2021,18,REG,0,1,2,0,1,0,0,0,2,0
