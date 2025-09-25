@@ -1,8 +1,9 @@
 Season,Week,Date,Team,Player,Susp_len
-1990,0,1990-08-30,Indianapolis Colts,Eric Dickerson,6 games
+1989,0,1989-08-31,Cleveland Browns,Kevin Mack,3 games
+1990,0,1990-08-30,Indianapolis Colts,Eric Dickerson,5 games
 1990,4,1990-10-05,Green Bay Packers,Herman Fontenot,1 games
 1991,9,1991-10-31,Pittsburgh Steelers,Tim Worley,6 games
-1991,10,1991-11-08,Indianapolis Colts,Eric Dickerson,4 games
+1991,10,1991-11-08,Indianapolis Colts,Eric Dickerson,3 games
 1992,0,1992-04-30,Pittsburgh Steelers,Tim Worley,Entire 1992 season
 1994,13,1994-11-30,Washington Redskins,Frank Wycheck,4 games
 1995,0,1995-08-25,Arizona Cardinals,Chuck Levy,Entire 1995 season
@@ -42,7 +43,6 @@ Season,Week,Date,Team,Player,Susp_len
 2010,0,2010-07-01,Free agent,LenDale White,4 games
 2011,0,2011-09-02,Free agent,Dominic Rhodes,Entire 2011 season
 2011,0,2011-09-03,Tennessee Titans,Ahmard Hall,4 games
-2011,0,2011-09-03,Arizona Cardinals,Reagan Maui'a,3 games
 2011,6,2011-10-18,Cincinnati Bengals,Cedric Benson,1 games
 2011,13,2011-12-06,Seattle Seahawks,Vai Taua,4 games
 2012,0,2012-06-13,Detroit Lions,Mikel Leshoure,2 games
@@ -79,7 +79,6 @@ Season,Week,Date,Team,Player,Susp_len
 2016,11,2016-11-23,Pittsburgh Steelers,Karlos Williams,10 games
 2016,16,2016-12-29,Tampa Bay Buccaneers,Doug Martin,4 games
 2017,0,2017-03-09,Baltimore Ravens,Kenneth Dixon,4 games
-2017,0,2017-08-11,Dallas Cowboys,Ezekiel Elliott,6 games
 2017,2,2017-09-15,Baltimore Ravens,Kenneth Dixon,2 games
 2017,6,2017-10-12,Dallas Cowboys,Ezekiel Elliott,6 games
 2017,7,2017-10-20,Oakland Raiders,Marshawn Lynch,1 games
@@ -89,7 +88,6 @@ Season,Week,Date,Team,Player,Susp_len
 2018,12,2018-11-26,Jacksonville Jaguars,Leonard Fournette,1 games
 2019,0,2019-03-15,Cleveland Browns,Kareem Hunt,8 games
 2019,0,2019-07-16,Minnesota Vikings,Roc Thomas,3 games
-2019,0,2019-08-31,Kansas City Chiefs,De'Anthony Thomas,1 games
 2019,9,2019-11-04,Miami Dolphins,Mark Walton,4 games
 2020,4,2020-10-06,Tampa Bay Buccaneers,Kenjon Barner,4 games
 2022,4,2022-10-03,Kansas City Chiefs,Jerrion Ealy,6 games

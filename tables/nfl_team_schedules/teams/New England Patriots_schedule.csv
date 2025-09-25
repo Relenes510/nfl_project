@@ -1,0 +1,805 @@
+Team,Season,Week,Date,Opp
+New England Patriots,1978,1,1978-09-03,Washington Redskins
+New England Patriots,1978,2,1978-09-10,St. Louis Cardinals
+New England Patriots,1978,3,1978-09-18,Baltimore Colts
+New England Patriots,1978,4,1978-09-24,Oakland Raiders
+New England Patriots,1978,5,1978-10-01,San Diego Chargers
+New England Patriots,1978,6,1978-10-08,Philadelphia Eagles
+New England Patriots,1978,7,1978-10-15,Cincinnati Bengals
+New England Patriots,1978,8,1978-10-22,Miami Dolphins
+New England Patriots,1978,9,1978-10-29,New York Jets
+New England Patriots,1978,10,1978-11-05,Buffalo Bills
+New England Patriots,1978,11,1978-11-12,Houston Oilers
+New England Patriots,1978,12,1978-11-19,New York Jets
+New England Patriots,1978,13,1978-11-26,Baltimore Colts
+New England Patriots,1978,14,1978-12-03,Dallas Cowboys
+New England Patriots,1978,15,1978-12-10,Buffalo Bills
+New England Patriots,1978,16,1978-12-18,Miami Dolphins
+New England Patriots,1978,17,1978-12-31,Houston Oilers
+New England Patriots,1979,1,1979-09-03,Pittsburgh Steelers
+New England Patriots,1979,2,1979-09-09,New York Jets
+New England Patriots,1979,3,1979-09-16,Cincinnati Bengals
+New England Patriots,1979,4,1979-09-23,San Diego Chargers
+New England Patriots,1979,5,1979-10-01,Green Bay Packers
+New England Patriots,1979,6,1979-10-07,Detroit Lions
+New England Patriots,1979,7,1979-10-14,Chicago Bears
+New England Patriots,1979,8,1979-10-21,Miami Dolphins
+New England Patriots,1979,9,1979-10-28,Baltimore Colts
+New England Patriots,1979,10,1979-11-04,Buffalo Bills
+New England Patriots,1979,11,1979-11-11,Denver Broncos
+New England Patriots,1979,12,1979-11-18,Baltimore Colts
+New England Patriots,1979,13,1979-11-25,Buffalo Bills
+New England Patriots,1979,14,1979-11-29,Miami Dolphins
+New England Patriots,1979,15,1979-12-09,New York Jets
+New England Patriots,1979,16,1979-12-16,Minnesota Vikings
+New England Patriots,1980,1,1980-09-07,Cleveland Browns
+New England Patriots,1980,2,1980-09-14,Atlanta Falcons
+New England Patriots,1980,3,1980-09-21,Seattle Seahawks
+New England Patriots,1980,4,1980-09-29,Denver Broncos
+New England Patriots,1980,5,1980-10-05,New York Jets
+New England Patriots,1980,6,1980-10-12,Miami Dolphins
+New England Patriots,1980,7,1980-10-19,Baltimore Colts
+New England Patriots,1980,8,1980-10-26,Buffalo Bills
+New England Patriots,1980,9,1980-11-02,New York Jets
+New England Patriots,1980,10,1980-11-10,Houston Oilers
+New England Patriots,1980,11,1980-11-16,Los Angeles Rams
+New England Patriots,1980,12,1980-11-23,Baltimore Colts
+New England Patriots,1980,13,1980-11-30,San Francisco 49ers
+New England Patriots,1980,14,1980-12-08,Miami Dolphins
+New England Patriots,1980,15,1980-12-14,Buffalo Bills
+New England Patriots,1980,16,1980-12-21,New Orleans Saints
+New England Patriots,1981,1,1981-09-06,Baltimore Colts
+New England Patriots,1981,2,1981-09-13,Philadelphia Eagles
+New England Patriots,1981,3,1981-09-21,Dallas Cowboys
+New England Patriots,1981,4,1981-09-27,Pittsburgh Steelers
+New England Patriots,1981,5,1981-10-04,Kansas City Chiefs
+New England Patriots,1981,6,1981-10-11,New York Jets
+New England Patriots,1981,7,1981-10-18,Houston Oilers
+New England Patriots,1981,8,1981-10-25,Washington Redskins
+New England Patriots,1981,9,1981-11-01,Oakland Raiders
+New England Patriots,1981,10,1981-11-08,Miami Dolphins
+New England Patriots,1981,11,1981-11-15,New York Jets
+New England Patriots,1981,12,1981-11-22,Buffalo Bills
+New England Patriots,1981,13,1981-11-29,St. Louis Cardinals
+New England Patriots,1981,14,1981-12-06,Miami Dolphins
+New England Patriots,1981,15,1981-12-13,Buffalo Bills
+New England Patriots,1981,16,1981-12-20,Baltimore Colts
+New England Patriots,1982,1,1982-09-12,Baltimore Colts
+New England Patriots,1982,2,1982-09-19,New York Jets
+New England Patriots,1982,11,1982-11-21,Cleveland Browns
+New England Patriots,1982,12,1982-11-28,Houston Oilers
+New England Patriots,1982,13,1982-12-05,Chicago Bears
+New England Patriots,1982,14,1982-12-12,Miami Dolphins
+New England Patriots,1982,15,1982-12-19,Seattle Seahawks
+New England Patriots,1982,16,1982-12-26,Pittsburgh Steelers
+New England Patriots,1982,17,1983-01-02,Buffalo Bills
+New England Patriots,1982,18,1983-01-08,Miami Dolphins
+New England Patriots,1983,1,1983-09-04,Baltimore Colts
+New England Patriots,1983,2,1983-09-11,Miami Dolphins
+New England Patriots,1983,3,1983-09-18,New York Jets
+New England Patriots,1983,4,1983-09-25,Pittsburgh Steelers
+New England Patriots,1983,5,1983-10-02,San Francisco 49ers
+New England Patriots,1983,6,1983-10-09,Baltimore Colts
+New England Patriots,1983,7,1983-10-16,San Diego Chargers
+New England Patriots,1983,8,1983-10-23,Buffalo Bills
+New England Patriots,1983,9,1983-10-30,Atlanta Falcons
+New England Patriots,1983,10,1983-11-06,Buffalo Bills
+New England Patriots,1983,11,1983-11-13,Miami Dolphins
+New England Patriots,1983,12,1983-11-20,Cleveland Browns
+New England Patriots,1983,13,1983-11-27,New York Jets
+New England Patriots,1983,14,1983-12-04,New Orleans Saints
+New England Patriots,1983,15,1983-12-11,Los Angeles Rams
+New England Patriots,1983,16,1983-12-18,Seattle Seahawks
+New England Patriots,1984,1,1984-09-02,Buffalo Bills
+New England Patriots,1984,2,1984-09-09,Miami Dolphins
+New England Patriots,1984,3,1984-09-16,Seattle Seahawks
+New England Patriots,1984,4,1984-09-23,Washington Redskins
+New England Patriots,1984,5,1984-09-30,New York Jets
+New England Patriots,1984,6,1984-10-07,Cleveland Browns
+New England Patriots,1984,7,1984-10-14,Cincinnati Bengals
+New England Patriots,1984,8,1984-10-21,Miami Dolphins
+New England Patriots,1984,9,1984-10-28,New York Jets
+New England Patriots,1984,10,1984-11-04,Denver Broncos
+New England Patriots,1984,11,1984-11-11,Buffalo Bills
+New England Patriots,1984,12,1984-11-18,Indianapolis Colts
+New England Patriots,1984,13,1984-11-22,Dallas Cowboys
+New England Patriots,1984,14,1984-12-02,St. Louis Cardinals
+New England Patriots,1984,15,1984-12-09,Philadelphia Eagles
+New England Patriots,1984,16,1984-12-16,Indianapolis Colts
+New England Patriots,1985,1,1985-09-08,Green Bay Packers
+New England Patriots,1985,2,1985-09-15,Chicago Bears
+New England Patriots,1985,3,1985-09-22,Buffalo Bills
+New England Patriots,1985,4,1985-09-29,Los Angeles Raiders
+New England Patriots,1985,5,1985-10-06,Cleveland Browns
+New England Patriots,1985,6,1985-10-13,Buffalo Bills
+New England Patriots,1985,7,1985-10-20,New York Jets
+New England Patriots,1985,8,1985-10-27,Tampa Bay Buccaneers
+New England Patriots,1985,9,1985-11-03,Miami Dolphins
+New England Patriots,1985,10,1985-11-10,Indianapolis Colts
+New England Patriots,1985,11,1985-11-17,Seattle Seahawks
+New England Patriots,1985,12,1985-11-24,New York Jets
+New England Patriots,1985,13,1985-12-01,Indianapolis Colts
+New England Patriots,1985,14,1985-12-08,Detroit Lions
+New England Patriots,1985,15,1985-12-16,Miami Dolphins
+New England Patriots,1985,16,1985-12-22,Cincinnati Bengals
+New England Patriots,1985,17,1985-12-28,New York Jets
+New England Patriots,1985,18,1986-01-05,Los Angeles Raiders
+New England Patriots,1985,19,1986-01-12,Miami Dolphins
+New England Patriots,1985,20,1986-01-26,Chicago Bears
+New England Patriots,1986,1,1986-09-07,Indianapolis Colts
+New England Patriots,1986,2,1986-09-11,New York Jets
+New England Patriots,1986,3,1986-09-21,Seattle Seahawks
+New England Patriots,1986,4,1986-09-28,Denver Broncos
+New England Patriots,1986,5,1986-10-05,Miami Dolphins
+New England Patriots,1986,6,1986-10-12,New York Jets
+New England Patriots,1986,7,1986-10-19,Pittsburgh Steelers
+New England Patriots,1986,8,1986-10-26,Buffalo Bills
+New England Patriots,1986,9,1986-11-02,Atlanta Falcons
+New England Patriots,1986,10,1986-11-09,Indianapolis Colts
+New England Patriots,1986,11,1986-11-16,Los Angeles Rams
+New England Patriots,1986,12,1986-11-23,Buffalo Bills
+New England Patriots,1986,13,1986-11-30,New Orleans Saints
+New England Patriots,1986,14,1986-12-07,Cincinnati Bengals
+New England Patriots,1986,15,1986-12-14,San Francisco 49ers
+New England Patriots,1986,16,1986-12-22,Miami Dolphins
+New England Patriots,1986,17,1987-01-04,Denver Broncos
+New England Patriots,1987,1,1987-09-13,Miami Dolphins
+New England Patriots,1987,2,1987-09-21,New York Jets
+New England Patriots,1987,4,1987-10-04,Cleveland Browns
+New England Patriots,1987,5,1987-10-11,Buffalo Bills
+New England Patriots,1987,6,1987-10-18,Houston Oilers
+New England Patriots,1987,7,1987-10-25,Indianapolis Colts
+New England Patriots,1987,8,1987-11-01,Los Angeles Raiders
+New England Patriots,1987,9,1987-11-08,New York Giants
+New England Patriots,1987,10,1987-11-15,Dallas Cowboys
+New England Patriots,1987,11,1987-11-22,Indianapolis Colts
+New England Patriots,1987,12,1987-11-29,Philadelphia Eagles
+New England Patriots,1987,13,1987-12-06,Denver Broncos
+New England Patriots,1987,14,1987-12-13,New York Jets
+New England Patriots,1987,15,1987-12-20,Buffalo Bills
+New England Patriots,1987,16,1987-12-28,Miami Dolphins
+New England Patriots,1988,1,1988-09-04,New York Jets
+New England Patriots,1988,2,1988-09-11,Minnesota Vikings
+New England Patriots,1988,3,1988-09-18,Buffalo Bills
+New England Patriots,1988,4,1988-09-25,Houston Oilers
+New England Patriots,1988,5,1988-10-02,Indianapolis Colts
+New England Patriots,1988,6,1988-10-09,Green Bay Packers
+New England Patriots,1988,7,1988-10-16,Cincinnati Bengals
+New England Patriots,1988,8,1988-10-23,Buffalo Bills
+New England Patriots,1988,9,1988-10-30,Chicago Bears
+New England Patriots,1988,10,1988-11-06,Miami Dolphins
+New England Patriots,1988,11,1988-11-13,New York Jets
+New England Patriots,1988,12,1988-11-20,Miami Dolphins
+New England Patriots,1988,13,1988-11-27,Indianapolis Colts
+New England Patriots,1988,14,1988-12-04,Seattle Seahawks
+New England Patriots,1988,15,1988-12-11,Tampa Bay Buccaneers
+New England Patriots,1988,16,1988-12-17,Denver Broncos
+New England Patriots,1989,1,1989-09-10,New York Jets
+New England Patriots,1989,2,1989-09-17,Miami Dolphins
+New England Patriots,1989,3,1989-09-24,Seattle Seahawks
+New England Patriots,1989,4,1989-10-01,Buffalo Bills
+New England Patriots,1989,5,1989-10-08,Houston Oilers
+New England Patriots,1989,6,1989-10-15,Atlanta Falcons
+New England Patriots,1989,7,1989-10-22,San Francisco 49ers
+New England Patriots,1989,8,1989-10-29,Indianapolis Colts
+New England Patriots,1989,9,1989-11-05,New York Jets
+New England Patriots,1989,10,1989-11-12,New Orleans Saints
+New England Patriots,1989,11,1989-11-19,Buffalo Bills
+New England Patriots,1989,12,1989-11-26,Los Angeles Raiders
+New England Patriots,1989,13,1989-12-03,Indianapolis Colts
+New England Patriots,1989,14,1989-12-10,Miami Dolphins
+New England Patriots,1989,15,1989-12-17,Pittsburgh Steelers
+New England Patriots,1989,16,1989-12-24,Los Angeles Rams
+New England Patriots,1990,1,1990-09-09,Miami Dolphins
+New England Patriots,1990,2,1990-09-16,Indianapolis Colts
+New England Patriots,1990,3,1990-09-23,Cincinnati Bengals
+New England Patriots,1990,4,1990-09-30,New York Jets
+New England Patriots,1990,5,1990-10-07,Seattle Seahawks
+New England Patriots,1990,7,1990-10-18,Miami Dolphins
+New England Patriots,1990,8,1990-10-28,Buffalo Bills
+New England Patriots,1990,9,1990-11-04,Philadelphia Eagles
+New England Patriots,1990,10,1990-11-11,Indianapolis Colts
+New England Patriots,1990,11,1990-11-18,Buffalo Bills
+New England Patriots,1990,12,1990-11-25,Phoenix Cardinals
+New England Patriots,1990,13,1990-12-02,Kansas City Chiefs
+New England Patriots,1990,14,1990-12-09,Pittsburgh Steelers
+New England Patriots,1990,15,1990-12-15,Washington Redskins
+New England Patriots,1990,16,1990-12-23,New York Jets
+New England Patriots,1990,17,1990-12-30,New York Giants
+New England Patriots,1991,1,1991-09-01,Indianapolis Colts
+New England Patriots,1991,2,1991-09-08,Cleveland Browns
+New England Patriots,1991,3,1991-09-15,Pittsburgh Steelers
+New England Patriots,1991,4,1991-09-22,Houston Oilers
+New England Patriots,1991,5,1991-09-29,Phoenix Cardinals
+New England Patriots,1991,6,1991-10-06,Miami Dolphins
+New England Patriots,1991,8,1991-10-20,Minnesota Vikings
+New England Patriots,1991,9,1991-10-27,Denver Broncos
+New England Patriots,1991,10,1991-11-03,Buffalo Bills
+New England Patriots,1991,11,1991-11-10,Miami Dolphins
+New England Patriots,1991,12,1991-11-17,New York Jets
+New England Patriots,1991,13,1991-11-24,Buffalo Bills
+New England Patriots,1991,14,1991-12-01,Denver Broncos
+New England Patriots,1991,15,1991-12-08,Indianapolis Colts
+New England Patriots,1991,16,1991-12-15,New York Jets
+New England Patriots,1991,17,1991-12-22,Cincinnati Bengals
+New England Patriots,1992,2,1992-09-13,Los Angeles Rams
+New England Patriots,1992,3,1992-09-20,Seattle Seahawks
+New England Patriots,1992,4,1992-09-27,Buffalo Bills
+New England Patriots,1992,5,1992-10-04,New York Jets
+New England Patriots,1992,6,1992-10-11,San Francisco 49ers
+New England Patriots,1992,7,1992-10-18,Miami Dolphins
+New England Patriots,1992,8,1992-10-25,Cleveland Browns
+New England Patriots,1992,9,1992-11-01,Buffalo Bills
+New England Patriots,1992,10,1992-11-08,New Orleans Saints
+New England Patriots,1992,11,1992-11-15,Indianapolis Colts
+New England Patriots,1992,12,1992-11-22,New York Jets
+New England Patriots,1992,13,1992-11-29,Atlanta Falcons
+New England Patriots,1992,14,1992-12-06,Indianapolis Colts
+New England Patriots,1992,15,1992-12-13,Kansas City Chiefs
+New England Patriots,1992,16,1992-12-20,Cincinnati Bengals
+New England Patriots,1992,17,1992-12-27,Miami Dolphins
+New England Patriots,1993,1,1993-09-05,Buffalo Bills
+New England Patriots,1993,2,1993-09-12,Detroit Lions
+New England Patriots,1993,3,1993-09-19,Seattle Seahawks
+New England Patriots,1993,4,1993-09-26,New York Jets
+New England Patriots,1993,6,1993-10-10,Phoenix Cardinals
+New England Patriots,1993,7,1993-10-17,Houston Oilers
+New England Patriots,1993,8,1993-10-24,Seattle Seahawks
+New England Patriots,1993,9,1993-10-31,Indianapolis Colts
+New England Patriots,1993,10,1993-11-07,Buffalo Bills
+New England Patriots,1993,12,1993-11-21,Miami Dolphins
+New England Patriots,1993,13,1993-11-28,New York Jets
+New England Patriots,1993,14,1993-12-05,Pittsburgh Steelers
+New England Patriots,1993,15,1993-12-12,Cincinnati Bengals
+New England Patriots,1993,16,1993-12-19,Cleveland Browns
+New England Patriots,1993,17,1993-12-26,Indianapolis Colts
+New England Patriots,1993,18,1994-01-02,Miami Dolphins
+New England Patriots,1994,1,1994-09-04,Miami Dolphins
+New England Patriots,1994,2,1994-09-11,Buffalo Bills
+New England Patriots,1994,3,1994-09-18,Cincinnati Bengals
+New England Patriots,1994,4,1994-09-25,Detroit Lions
+New England Patriots,1994,5,1994-10-02,Green Bay Packers
+New England Patriots,1994,6,1994-10-09,Los Angeles Raiders
+New England Patriots,1994,7,1994-10-16,New York Jets
+New England Patriots,1994,9,1994-10-30,Miami Dolphins
+New England Patriots,1994,10,1994-11-06,Cleveland Browns
+New England Patriots,1994,11,1994-11-13,Minnesota Vikings
+New England Patriots,1994,12,1994-11-20,San Diego Chargers
+New England Patriots,1994,13,1994-11-27,Indianapolis Colts
+New England Patriots,1994,14,1994-12-04,New York Jets
+New England Patriots,1994,15,1994-12-11,Indianapolis Colts
+New England Patriots,1994,16,1994-12-18,Buffalo Bills
+New England Patriots,1994,17,1994-12-24,Chicago Bears
+New England Patriots,1994,18,1995-01-01,Cleveland Browns
+New England Patriots,1995,1,1995-09-03,Cleveland Browns
+New England Patriots,1995,2,1995-09-10,Miami Dolphins
+New England Patriots,1995,3,1995-09-17,San Francisco 49ers
+New England Patriots,1995,5,1995-10-01,Atlanta Falcons
+New England Patriots,1995,6,1995-10-08,Denver Broncos
+New England Patriots,1995,7,1995-10-15,Kansas City Chiefs
+New England Patriots,1995,8,1995-10-23,Buffalo Bills
+New England Patriots,1995,9,1995-10-29,Carolina Panthers
+New England Patriots,1995,10,1995-11-05,New York Jets
+New England Patriots,1995,11,1995-11-12,Miami Dolphins
+New England Patriots,1995,12,1995-11-19,Indianapolis Colts
+New England Patriots,1995,13,1995-11-26,Buffalo Bills
+New England Patriots,1995,14,1995-12-03,New Orleans Saints
+New England Patriots,1995,15,1995-12-10,New York Jets
+New England Patriots,1995,16,1995-12-16,Pittsburgh Steelers
+New England Patriots,1995,17,1995-12-23,Indianapolis Colts
+New England Patriots,1996,1,1996-09-01,Miami Dolphins
+New England Patriots,1996,2,1996-09-08,Buffalo Bills
+New England Patriots,1996,3,1996-09-15,Arizona Cardinals
+New England Patriots,1996,4,1996-09-22,Jacksonville Jaguars
+New England Patriots,1996,6,1996-10-06,Baltimore Ravens
+New England Patriots,1996,7,1996-10-13,Washington Redskins
+New England Patriots,1996,8,1996-10-20,Indianapolis Colts
+New England Patriots,1996,9,1996-10-27,Buffalo Bills
+New England Patriots,1996,10,1996-11-03,Miami Dolphins
+New England Patriots,1996,11,1996-11-10,New York Jets
+New England Patriots,1996,12,1996-11-17,Denver Broncos
+New England Patriots,1996,13,1996-11-24,Indianapolis Colts
+New England Patriots,1996,14,1996-12-01,San Diego Chargers
+New England Patriots,1996,15,1996-12-08,New York Jets
+New England Patriots,1996,16,1996-12-15,Dallas Cowboys
+New England Patriots,1996,17,1996-12-21,New York Giants
+New England Patriots,1996,18,1997-01-05,Pittsburgh Steelers
+New England Patriots,1996,19,1997-01-12,Jacksonville Jaguars
+New England Patriots,1996,20,1997-01-26,Green Bay Packers
+New England Patriots,1997,1,1997-08-31,San Diego Chargers
+New England Patriots,1997,2,1997-09-07,Indianapolis Colts
+New England Patriots,1997,3,1997-09-14,New York Jets
+New England Patriots,1997,4,1997-09-21,Chicago Bears
+New England Patriots,1997,6,1997-10-06,Denver Broncos
+New England Patriots,1997,7,1997-10-12,Buffalo Bills
+New England Patriots,1997,8,1997-10-19,New York Jets
+New England Patriots,1997,9,1997-10-27,Green Bay Packers
+New England Patriots,1997,10,1997-11-02,Minnesota Vikings
+New England Patriots,1997,11,1997-11-09,Buffalo Bills
+New England Patriots,1997,12,1997-11-16,Tampa Bay Buccaneers
+New England Patriots,1997,13,1997-11-23,Miami Dolphins
+New England Patriots,1997,14,1997-11-30,Indianapolis Colts
+New England Patriots,1997,15,1997-12-07,Jacksonville Jaguars
+New England Patriots,1997,16,1997-12-13,Pittsburgh Steelers
+New England Patriots,1997,17,1997-12-22,Miami Dolphins
+New England Patriots,1997,18,1997-12-28,Miami Dolphins
+New England Patriots,1997,19,1998-01-03,Pittsburgh Steelers
+New England Patriots,1998,1,1998-09-07,Denver Broncos
+New England Patriots,1998,2,1998-09-13,Indianapolis Colts
+New England Patriots,1998,3,1998-09-20,Tennessee Oilers
+New England Patriots,1998,5,1998-10-04,New Orleans Saints
+New England Patriots,1998,6,1998-10-11,Kansas City Chiefs
+New England Patriots,1998,7,1998-10-19,New York Jets
+New England Patriots,1998,8,1998-10-25,Miami Dolphins
+New England Patriots,1998,9,1998-11-01,Indianapolis Colts
+New England Patriots,1998,10,1998-11-08,Atlanta Falcons
+New England Patriots,1998,11,1998-11-15,Buffalo Bills
+New England Patriots,1998,12,1998-11-23,Miami Dolphins
+New England Patriots,1998,13,1998-11-29,Buffalo Bills
+New England Patriots,1998,14,1998-12-06,Pittsburgh Steelers
+New England Patriots,1998,15,1998-12-13,St. Louis Rams
+New England Patriots,1998,16,1998-12-20,San Francisco 49ers
+New England Patriots,1998,17,1998-12-27,New York Jets
+New England Patriots,1998,18,1999-01-03,Jacksonville Jaguars
+New England Patriots,1999,1,1999-09-12,New York Jets
+New England Patriots,1999,2,1999-09-19,Indianapolis Colts
+New England Patriots,1999,3,1999-09-26,New York Giants
+New England Patriots,1999,4,1999-10-03,Cleveland Browns
+New England Patriots,1999,5,1999-10-10,Kansas City Chiefs
+New England Patriots,1999,6,1999-10-17,Miami Dolphins
+New England Patriots,1999,7,1999-10-24,Denver Broncos
+New England Patriots,1999,8,1999-10-31,Arizona Cardinals
+New England Patriots,1999,10,1999-11-15,New York Jets
+New England Patriots,1999,11,1999-11-21,Miami Dolphins
+New England Patriots,1999,12,1999-11-28,Buffalo Bills
+New England Patriots,1999,13,1999-12-05,Dallas Cowboys
+New England Patriots,1999,14,1999-12-12,Indianapolis Colts
+New England Patriots,1999,15,1999-12-19,Philadelphia Eagles
+New England Patriots,1999,16,1999-12-26,Buffalo Bills
+New England Patriots,1999,17,2000-01-02,Baltimore Ravens
+New England Patriots,2000,1,2000-09-03,Tampa Bay Buccaneers
+New England Patriots,2000,2,2000-09-11,New York Jets
+New England Patriots,2000,3,2000-09-17,Minnesota Vikings
+New England Patriots,2000,4,2000-09-24,Miami Dolphins
+New England Patriots,2000,5,2000-10-01,Denver Broncos
+New England Patriots,2000,6,2000-10-08,Indianapolis Colts
+New England Patriots,2000,7,2000-10-15,New York Jets
+New England Patriots,2000,8,2000-10-22,Indianapolis Colts
+New England Patriots,2000,10,2000-11-05,Buffalo Bills
+New England Patriots,2000,11,2000-11-12,Cleveland Browns
+New England Patriots,2000,12,2000-11-19,Cincinnati Bengals
+New England Patriots,2000,13,2000-11-23,Detroit Lions
+New England Patriots,2000,14,2000-12-04,Kansas City Chiefs
+New England Patriots,2000,15,2000-12-10,Chicago Bears
+New England Patriots,2000,16,2000-12-17,Buffalo Bills
+New England Patriots,2000,17,2000-12-24,Miami Dolphins
+New England Patriots,2001,1,2001-09-09,Cincinnati Bengals
+New England Patriots,2001,2,2001-09-23,New York Jets
+New England Patriots,2001,3,2001-09-30,Indianapolis Colts
+New England Patriots,2001,4,2001-10-07,Miami Dolphins
+New England Patriots,2001,5,2001-10-14,San Diego Chargers
+New England Patriots,2001,6,2001-10-21,Indianapolis Colts
+New England Patriots,2001,7,2001-10-28,Denver Broncos
+New England Patriots,2001,8,2001-11-04,Atlanta Falcons
+New England Patriots,2001,9,2001-11-11,Buffalo Bills
+New England Patriots,2001,10,2001-11-18,St. Louis Rams
+New England Patriots,2001,11,2001-11-25,New Orleans Saints
+New England Patriots,2001,12,2001-12-02,New York Jets
+New England Patriots,2001,13,2001-12-09,Cleveland Browns
+New England Patriots,2001,14,2001-12-16,Buffalo Bills
+New England Patriots,2001,15,2001-12-22,Miami Dolphins
+New England Patriots,2001,17,2002-01-06,Carolina Panthers
+New England Patriots,2001,18,2002-01-19,Oakland Raiders
+New England Patriots,2001,19,2002-01-27,Pittsburgh Steelers
+New England Patriots,2001,20,2002-02-03,St. Louis Rams
+New England Patriots,2002,1,2002-09-09,Pittsburgh Steelers
+New England Patriots,2002,2,2002-09-15,New York Jets
+New England Patriots,2002,3,2002-09-22,Kansas City Chiefs
+New England Patriots,2002,4,2002-09-29,San Diego Chargers
+New England Patriots,2002,5,2002-10-06,Miami Dolphins
+New England Patriots,2002,6,2002-10-13,Green Bay Packers
+New England Patriots,2002,8,2002-10-27,Denver Broncos
+New England Patriots,2002,9,2002-11-03,Buffalo Bills
+New England Patriots,2002,10,2002-11-10,Chicago Bears
+New England Patriots,2002,11,2002-11-17,Oakland Raiders
+New England Patriots,2002,12,2002-11-24,Minnesota Vikings
+New England Patriots,2002,13,2002-11-28,Detroit Lions
+New England Patriots,2002,14,2002-12-08,Buffalo Bills
+New England Patriots,2002,15,2002-12-16,Tennessee Titans
+New England Patriots,2002,16,2002-12-22,New York Jets
+New England Patriots,2002,17,2002-12-29,Miami Dolphins
+New England Patriots,2003,1,2003-09-07,Buffalo Bills
+New England Patriots,2003,2,2003-09-14,Philadelphia Eagles
+New England Patriots,2003,3,2003-09-21,New York Jets
+New England Patriots,2003,4,2003-09-28,Washington Redskins
+New England Patriots,2003,5,2003-10-05,Tennessee Titans
+New England Patriots,2003,6,2003-10-12,New York Giants
+New England Patriots,2003,7,2003-10-19,Miami Dolphins
+New England Patriots,2003,8,2003-10-26,Cleveland Browns
+New England Patriots,2003,9,2003-11-03,Denver Broncos
+New England Patriots,2003,11,2003-11-16,Dallas Cowboys
+New England Patriots,2003,12,2003-11-23,Houston Texans
+New England Patriots,2003,13,2003-11-30,Indianapolis Colts
+New England Patriots,2003,14,2003-12-07,Miami Dolphins
+New England Patriots,2003,15,2003-12-14,Jacksonville Jaguars
+New England Patriots,2003,16,2003-12-20,New York Jets
+New England Patriots,2003,17,2003-12-27,Buffalo Bills
+New England Patriots,2003,18,2004-01-10,Tennessee Titans
+New England Patriots,2003,19,2004-01-18,Indianapolis Colts
+New England Patriots,2003,20,2004-02-01,Carolina Panthers
+New England Patriots,2004,1,2004-09-09,Indianapolis Colts
+New England Patriots,2004,2,2004-09-19,Arizona Cardinals
+New England Patriots,2004,4,2004-10-03,Buffalo Bills
+New England Patriots,2004,5,2004-10-10,Miami Dolphins
+New England Patriots,2004,6,2004-10-17,Seattle Seahawks
+New England Patriots,2004,7,2004-10-24,New York Jets
+New England Patriots,2004,8,2004-10-31,Pittsburgh Steelers
+New England Patriots,2004,9,2004-11-07,St. Louis Rams
+New England Patriots,2004,10,2004-11-14,Buffalo Bills
+New England Patriots,2004,11,2004-11-22,Kansas City Chiefs
+New England Patriots,2004,12,2004-11-28,Baltimore Ravens
+New England Patriots,2004,13,2004-12-05,Cleveland Browns
+New England Patriots,2004,14,2004-12-12,Cincinnati Bengals
+New England Patriots,2004,15,2004-12-20,Miami Dolphins
+New England Patriots,2004,16,2004-12-26,New York Jets
+New England Patriots,2004,17,2005-01-02,San Francisco 49ers
+New England Patriots,2004,18,2005-01-16,Indianapolis Colts
+New England Patriots,2004,19,2005-01-23,Pittsburgh Steelers
+New England Patriots,2004,20,2005-02-06,Philadelphia Eagles
+New England Patriots,2005,1,2005-09-08,Oakland Raiders
+New England Patriots,2005,2,2005-09-18,Carolina Panthers
+New England Patriots,2005,3,2005-09-25,Pittsburgh Steelers
+New England Patriots,2005,4,2005-10-02,San Diego Chargers
+New England Patriots,2005,5,2005-10-09,Atlanta Falcons
+New England Patriots,2005,6,2005-10-16,Denver Broncos
+New England Patriots,2005,8,2005-10-30,Buffalo Bills
+New England Patriots,2005,9,2005-11-07,Indianapolis Colts
+New England Patriots,2005,10,2005-11-13,Miami Dolphins
+New England Patriots,2005,11,2005-11-20,New Orleans Saints
+New England Patriots,2005,12,2005-11-27,Kansas City Chiefs
+New England Patriots,2005,13,2005-12-04,New York Jets
+New England Patriots,2005,14,2005-12-11,Buffalo Bills
+New England Patriots,2005,15,2005-12-17,Tampa Bay Buccaneers
+New England Patriots,2005,16,2005-12-26,New York Jets
+New England Patriots,2005,17,2006-01-01,Miami Dolphins
+New England Patriots,2005,18,2006-01-07,Jacksonville Jaguars
+New England Patriots,2005,19,2006-01-14,Denver Broncos
+New England Patriots,2006,1,2006-09-10,Buffalo Bills
+New England Patriots,2006,2,2006-09-17,New York Jets
+New England Patriots,2006,3,2006-09-24,Denver Broncos
+New England Patriots,2006,4,2006-10-01,Cincinnati Bengals
+New England Patriots,2006,5,2006-10-08,Miami Dolphins
+New England Patriots,2006,7,2006-10-22,Buffalo Bills
+New England Patriots,2006,8,2006-10-30,Minnesota Vikings
+New England Patriots,2006,9,2006-11-05,Indianapolis Colts
+New England Patriots,2006,10,2006-11-12,New York Jets
+New England Patriots,2006,11,2006-11-19,Green Bay Packers
+New England Patriots,2006,12,2006-11-26,Chicago Bears
+New England Patriots,2006,13,2006-12-03,Detroit Lions
+New England Patriots,2006,14,2006-12-10,Miami Dolphins
+New England Patriots,2006,15,2006-12-17,Houston Texans
+New England Patriots,2006,16,2006-12-24,Jacksonville Jaguars
+New England Patriots,2006,17,2006-12-31,Tennessee Titans
+New England Patriots,2006,18,2007-01-07,New York Jets
+New England Patriots,2006,19,2007-01-14,San Diego Chargers
+New England Patriots,2006,20,2007-01-21,Indianapolis Colts
+New England Patriots,2007,1,2007-09-09,New York Jets
+New England Patriots,2007,2,2007-09-16,San Diego Chargers
+New England Patriots,2007,3,2007-09-23,Buffalo Bills
+New England Patriots,2007,4,2007-10-01,Cincinnati Bengals
+New England Patriots,2007,5,2007-10-07,Cleveland Browns
+New England Patriots,2007,6,2007-10-14,Dallas Cowboys
+New England Patriots,2007,7,2007-10-21,Miami Dolphins
+New England Patriots,2007,8,2007-10-28,Washington Redskins
+New England Patriots,2007,9,2007-11-04,Indianapolis Colts
+New England Patriots,2007,11,2007-11-18,Buffalo Bills
+New England Patriots,2007,12,2007-11-25,Philadelphia Eagles
+New England Patriots,2007,13,2007-12-03,Baltimore Ravens
+New England Patriots,2007,14,2007-12-09,Pittsburgh Steelers
+New England Patriots,2007,15,2007-12-16,New York Jets
+New England Patriots,2007,16,2007-12-23,Miami Dolphins
+New England Patriots,2007,17,2007-12-29,New York Giants
+New England Patriots,2007,18,2008-01-12,Jacksonville Jaguars
+New England Patriots,2007,19,2008-01-20,San Diego Chargers
+New England Patriots,2007,20,2008-02-03,New York Giants
+New England Patriots,2008,1,2008-09-07,Kansas City Chiefs
+New England Patriots,2008,2,2008-09-14,New York Jets
+New England Patriots,2008,3,2008-09-21,Miami Dolphins
+New England Patriots,2008,5,2008-10-05,San Francisco 49ers
+New England Patriots,2008,6,2008-10-12,San Diego Chargers
+New England Patriots,2008,7,2008-10-20,Denver Broncos
+New England Patriots,2008,8,2008-10-26,St. Louis Rams
+New England Patriots,2008,9,2008-11-02,Indianapolis Colts
+New England Patriots,2008,10,2008-11-09,Buffalo Bills
+New England Patriots,2008,11,2008-11-13,New York Jets
+New England Patriots,2008,12,2008-11-23,Miami Dolphins
+New England Patriots,2008,13,2008-11-30,Pittsburgh Steelers
+New England Patriots,2008,14,2008-12-07,Seattle Seahawks
+New England Patriots,2008,15,2008-12-14,Oakland Raiders
+New England Patriots,2008,16,2008-12-21,Arizona Cardinals
+New England Patriots,2008,17,2008-12-28,Buffalo Bills
+New England Patriots,2009,1,2009-09-14,Buffalo Bills
+New England Patriots,2009,2,2009-09-20,New York Jets
+New England Patriots,2009,3,2009-09-27,Atlanta Falcons
+New England Patriots,2009,4,2009-10-04,Baltimore Ravens
+New England Patriots,2009,5,2009-10-11,Denver Broncos
+New England Patriots,2009,6,2009-10-18,Tennessee Titans
+New England Patriots,2009,7,2009-10-25,Tampa Bay Buccaneers
+New England Patriots,2009,9,2009-11-08,Miami Dolphins
+New England Patriots,2009,10,2009-11-15,Indianapolis Colts
+New England Patriots,2009,11,2009-11-22,New York Jets
+New England Patriots,2009,12,2009-11-30,New Orleans Saints
+New England Patriots,2009,13,2009-12-06,Miami Dolphins
+New England Patriots,2009,14,2009-12-13,Carolina Panthers
+New England Patriots,2009,15,2009-12-20,Buffalo Bills
+New England Patriots,2009,16,2009-12-27,Jacksonville Jaguars
+New England Patriots,2009,17,2010-01-03,Houston Texans
+New England Patriots,2009,18,2010-01-10,Baltimore Ravens
+New England Patriots,2010,1,2010-09-12,Cincinnati Bengals
+New England Patriots,2010,2,2010-09-19,New York Jets
+New England Patriots,2010,3,2010-09-26,Buffalo Bills
+New England Patriots,2010,4,2010-10-04,Miami Dolphins
+New England Patriots,2010,6,2010-10-17,Baltimore Ravens
+New England Patriots,2010,7,2010-10-24,San Diego Chargers
+New England Patriots,2010,8,2010-10-31,Minnesota Vikings
+New England Patriots,2010,9,2010-11-07,Cleveland Browns
+New England Patriots,2010,10,2010-11-14,Pittsburgh Steelers
+New England Patriots,2010,11,2010-11-21,Indianapolis Colts
+New England Patriots,2010,12,2010-11-25,Detroit Lions
+New England Patriots,2010,13,2010-12-06,New York Jets
+New England Patriots,2010,14,2010-12-12,Chicago Bears
+New England Patriots,2010,15,2010-12-19,Green Bay Packers
+New England Patriots,2010,16,2010-12-26,Buffalo Bills
+New England Patriots,2010,17,2011-01-02,Miami Dolphins
+New England Patriots,2010,18,2011-01-16,New York Jets
+New England Patriots,2011,1,2011-09-12,Miami Dolphins
+New England Patriots,2011,2,2011-09-18,San Diego Chargers
+New England Patriots,2011,3,2011-09-25,Buffalo Bills
+New England Patriots,2011,4,2011-10-02,Oakland Raiders
+New England Patriots,2011,5,2011-10-09,New York Jets
+New England Patriots,2011,6,2011-10-16,Dallas Cowboys
+New England Patriots,2011,8,2011-10-30,Pittsburgh Steelers
+New England Patriots,2011,9,2011-11-06,New York Giants
+New England Patriots,2011,10,2011-11-13,New York Jets
+New England Patriots,2011,11,2011-11-21,Kansas City Chiefs
+New England Patriots,2011,12,2011-11-27,Philadelphia Eagles
+New England Patriots,2011,13,2011-12-04,Indianapolis Colts
+New England Patriots,2011,14,2011-12-11,Washington Redskins
+New England Patriots,2011,15,2011-12-18,Denver Broncos
+New England Patriots,2011,16,2011-12-24,Miami Dolphins
+New England Patriots,2011,17,2012-01-01,Buffalo Bills
+New England Patriots,2011,18,2012-01-14,Denver Broncos
+New England Patriots,2011,19,2012-01-22,Baltimore Ravens
+New England Patriots,2011,20,2012-02-05,New York Giants
+New England Patriots,2012,1,2012-09-09,Tennessee Titans
+New England Patriots,2012,2,2012-09-16,Arizona Cardinals
+New England Patriots,2012,3,2012-09-23,Baltimore Ravens
+New England Patriots,2012,4,2012-09-30,Buffalo Bills
+New England Patriots,2012,5,2012-10-07,Denver Broncos
+New England Patriots,2012,6,2012-10-14,Seattle Seahawks
+New England Patriots,2012,7,2012-10-21,New York Jets
+New England Patriots,2012,8,2012-10-28,St. Louis Rams
+New England Patriots,2012,10,2012-11-11,Buffalo Bills
+New England Patriots,2012,11,2012-11-18,Indianapolis Colts
+New England Patriots,2012,12,2012-11-22,New York Jets
+New England Patriots,2012,13,2012-12-02,Miami Dolphins
+New England Patriots,2012,14,2012-12-10,Houston Texans
+New England Patriots,2012,15,2012-12-16,San Francisco 49ers
+New England Patriots,2012,16,2012-12-23,Jacksonville Jaguars
+New England Patriots,2012,17,2012-12-30,Miami Dolphins
+New England Patriots,2012,18,2013-01-13,Houston Texans
+New England Patriots,2012,19,2013-01-20,Baltimore Ravens
+New England Patriots,2013,1,2013-09-08,Buffalo Bills
+New England Patriots,2013,2,2013-09-12,New York Jets
+New England Patriots,2013,3,2013-09-22,Tampa Bay Buccaneers
+New England Patriots,2013,4,2013-09-29,Atlanta Falcons
+New England Patriots,2013,5,2013-10-06,Cincinnati Bengals
+New England Patriots,2013,6,2013-10-13,New Orleans Saints
+New England Patriots,2013,7,2013-10-20,New York Jets
+New England Patriots,2013,8,2013-10-27,Miami Dolphins
+New England Patriots,2013,9,2013-11-03,Pittsburgh Steelers
+New England Patriots,2013,11,2013-11-18,Carolina Panthers
+New England Patriots,2013,12,2013-11-24,Denver Broncos
+New England Patriots,2013,13,2013-12-01,Houston Texans
+New England Patriots,2013,14,2013-12-08,Cleveland Browns
+New England Patriots,2013,15,2013-12-15,Miami Dolphins
+New England Patriots,2013,16,2013-12-22,Baltimore Ravens
+New England Patriots,2013,17,2013-12-29,Buffalo Bills
+New England Patriots,2013,18,2014-01-11,Indianapolis Colts
+New England Patriots,2013,19,2014-01-19,Denver Broncos
+New England Patriots,2014,1,2014-09-07,Miami Dolphins
+New England Patriots,2014,2,2014-09-14,Minnesota Vikings
+New England Patriots,2014,3,2014-09-21,Oakland Raiders
+New England Patriots,2014,4,2014-09-29,Kansas City Chiefs
+New England Patriots,2014,5,2014-10-05,Cincinnati Bengals
+New England Patriots,2014,6,2014-10-12,Buffalo Bills
+New England Patriots,2014,7,2014-10-16,New York Jets
+New England Patriots,2014,8,2014-10-26,Chicago Bears
+New England Patriots,2014,9,2014-11-02,Denver Broncos
+New England Patriots,2014,11,2014-11-16,Indianapolis Colts
+New England Patriots,2014,12,2014-11-23,Detroit Lions
+New England Patriots,2014,13,2014-11-30,Green Bay Packers
+New England Patriots,2014,14,2014-12-07,San Diego Chargers
+New England Patriots,2014,15,2014-12-14,Miami Dolphins
+New England Patriots,2014,16,2014-12-21,New York Jets
+New England Patriots,2014,17,2014-12-28,Buffalo Bills
+New England Patriots,2014,18,2015-01-10,Baltimore Ravens
+New England Patriots,2014,19,2015-01-18,Indianapolis Colts
+New England Patriots,2014,20,2015-02-01,Seattle Seahawks
+New England Patriots,2015,1,2015-09-10,Pittsburgh Steelers
+New England Patriots,2015,2,2015-09-20,Buffalo Bills
+New England Patriots,2015,3,2015-09-27,Jacksonville Jaguars
+New England Patriots,2015,5,2015-10-11,Dallas Cowboys
+New England Patriots,2015,6,2015-10-18,Indianapolis Colts
+New England Patriots,2015,7,2015-10-25,New York Jets
+New England Patriots,2015,8,2015-10-29,Miami Dolphins
+New England Patriots,2015,9,2015-11-08,Washington Redskins
+New England Patriots,2015,10,2015-11-15,New York Giants
+New England Patriots,2015,11,2015-11-23,Buffalo Bills
+New England Patriots,2015,12,2015-11-29,Denver Broncos
+New England Patriots,2015,13,2015-12-06,Philadelphia Eagles
+New England Patriots,2015,14,2015-12-13,Houston Texans
+New England Patriots,2015,15,2015-12-20,Tennessee Titans
+New England Patriots,2015,16,2015-12-27,New York Jets
+New England Patriots,2015,17,2016-01-03,Miami Dolphins
+New England Patriots,2015,18,2016-01-16,Kansas City Chiefs
+New England Patriots,2015,19,2016-01-24,Denver Broncos
+New England Patriots,2016,1,2016-09-11,Arizona Cardinals
+New England Patriots,2016,2,2016-09-18,Miami Dolphins
+New England Patriots,2016,3,2016-09-22,Houston Texans
+New England Patriots,2016,4,2016-10-02,Buffalo Bills
+New England Patriots,2016,5,2016-10-09,Cleveland Browns
+New England Patriots,2016,6,2016-10-16,Cincinnati Bengals
+New England Patriots,2016,7,2016-10-23,Pittsburgh Steelers
+New England Patriots,2016,8,2016-10-30,Buffalo Bills
+New England Patriots,2016,10,2016-11-13,Seattle Seahawks
+New England Patriots,2016,11,2016-11-20,San Francisco 49ers
+New England Patriots,2016,12,2016-11-27,New York Jets
+New England Patriots,2016,13,2016-12-04,Los Angeles Rams
+New England Patriots,2016,14,2016-12-12,Baltimore Ravens
+New England Patriots,2016,15,2016-12-18,Denver Broncos
+New England Patriots,2016,16,2016-12-24,New York Jets
+New England Patriots,2016,17,2017-01-01,Miami Dolphins
+New England Patriots,2016,18,2017-01-14,Houston Texans
+New England Patriots,2016,19,2017-01-22,Pittsburgh Steelers
+New England Patriots,2016,20,2017-02-05,Atlanta Falcons
+New England Patriots,2017,1,2017-09-07,Kansas City Chiefs
+New England Patriots,2017,2,2017-09-17,New Orleans Saints
+New England Patriots,2017,3,2017-09-24,Houston Texans
+New England Patriots,2017,4,2017-10-01,Carolina Panthers
+New England Patriots,2017,5,2017-10-05,Tampa Bay Buccaneers
+New England Patriots,2017,6,2017-10-15,New York Jets
+New England Patriots,2017,7,2017-10-22,Atlanta Falcons
+New England Patriots,2017,8,2017-10-29,Los Angeles Chargers
+New England Patriots,2017,10,2017-11-12,Denver Broncos
+New England Patriots,2017,11,2017-11-19,Oakland Raiders
+New England Patriots,2017,12,2017-11-26,Miami Dolphins
+New England Patriots,2017,13,2017-12-03,Buffalo Bills
+New England Patriots,2017,14,2017-12-11,Miami Dolphins
+New England Patriots,2017,15,2017-12-17,Pittsburgh Steelers
+New England Patriots,2017,16,2017-12-24,Buffalo Bills
+New England Patriots,2017,17,2017-12-31,New York Jets
+New England Patriots,2017,18,2018-01-13,Tennessee Titans
+New England Patriots,2017,19,2018-01-21,Jacksonville Jaguars
+New England Patriots,2017,20,2018-02-04,Philadelphia Eagles
+New England Patriots,2018,1,2018-09-09,Houston Texans
+New England Patriots,2018,2,2018-09-16,Jacksonville Jaguars
+New England Patriots,2018,3,2018-09-23,Detroit Lions
+New England Patriots,2018,4,2018-09-30,Miami Dolphins
+New England Patriots,2018,5,2018-10-04,Indianapolis Colts
+New England Patriots,2018,6,2018-10-14,Kansas City Chiefs
+New England Patriots,2018,7,2018-10-21,Chicago Bears
+New England Patriots,2018,8,2018-10-29,Buffalo Bills
+New England Patriots,2018,9,2018-11-04,Green Bay Packers
+New England Patriots,2018,10,2018-11-11,Tennessee Titans
+New England Patriots,2018,12,2018-11-25,New York Jets
+New England Patriots,2018,13,2018-12-02,Minnesota Vikings
+New England Patriots,2018,14,2018-12-09,Miami Dolphins
+New England Patriots,2018,15,2018-12-16,Pittsburgh Steelers
+New England Patriots,2018,16,2018-12-23,Buffalo Bills
+New England Patriots,2018,17,2018-12-30,New York Jets
+New England Patriots,2018,18,2019-01-13,Los Angeles Chargers
+New England Patriots,2018,19,2019-01-20,Kansas City Chiefs
+New England Patriots,2018,20,2019-02-03,Los Angeles Rams
+New England Patriots,2019,1,2019-09-08,Pittsburgh Steelers
+New England Patriots,2019,2,2019-09-15,Miami Dolphins
+New England Patriots,2019,3,2019-09-22,New York Jets
+New England Patriots,2019,4,2019-09-29,Buffalo Bills
+New England Patriots,2019,5,2019-10-06,Washington Redskins
+New England Patriots,2019,6,2019-10-10,New York Giants
+New England Patriots,2019,7,2019-10-21,New York Jets
+New England Patriots,2019,8,2019-10-27,Cleveland Browns
+New England Patriots,2019,9,2019-11-03,Baltimore Ravens
+New England Patriots,2019,11,2019-11-17,Philadelphia Eagles
+New England Patriots,2019,12,2019-11-24,Dallas Cowboys
+New England Patriots,2019,13,2019-12-01,Houston Texans
+New England Patriots,2019,14,2019-12-08,Kansas City Chiefs
+New England Patriots,2019,15,2019-12-15,Cincinnati Bengals
+New England Patriots,2019,16,2019-12-21,Buffalo Bills
+New England Patriots,2019,17,2019-12-29,Miami Dolphins
+New England Patriots,2019,18,2020-01-04,Tennessee Titans
+New England Patriots,2020,1,2020-09-13,Miami Dolphins
+New England Patriots,2020,2,2020-09-20,Seattle Seahawks
+New England Patriots,2020,3,2020-09-27,Las Vegas Raiders
+New England Patriots,2020,4,2020-10-05,Kansas City Chiefs
+New England Patriots,2020,6,2020-10-18,Denver Broncos
+New England Patriots,2020,7,2020-10-25,San Francisco 49ers
+New England Patriots,2020,8,2020-11-01,Buffalo Bills
+New England Patriots,2020,9,2020-11-09,New York Jets
+New England Patriots,2020,10,2020-11-15,Baltimore Ravens
+New England Patriots,2020,11,2020-11-22,Houston Texans
+New England Patriots,2020,12,2020-11-29,Arizona Cardinals
+New England Patriots,2020,13,2020-12-06,Los Angeles Chargers
+New England Patriots,2020,14,2020-12-10,Los Angeles Rams
+New England Patriots,2020,15,2020-12-20,Miami Dolphins
+New England Patriots,2020,16,2020-12-28,Buffalo Bills
+New England Patriots,2020,17,2021-01-03,New York Jets
+New England Patriots,2021,1,2021-09-12,Miami Dolphins
+New England Patriots,2021,2,2021-09-19,New York Jets
+New England Patriots,2021,3,2021-09-26,New Orleans Saints
+New England Patriots,2021,4,2021-10-03,Tampa Bay Buccaneers
+New England Patriots,2021,5,2021-10-10,Houston Texans
+New England Patriots,2021,6,2021-10-17,Dallas Cowboys
+New England Patriots,2021,7,2021-10-24,New York Jets
+New England Patriots,2021,8,2021-10-31,Los Angeles Chargers
+New England Patriots,2021,9,2021-11-07,Carolina Panthers
+New England Patriots,2021,10,2021-11-14,Cleveland Browns
+New England Patriots,2021,11,2021-11-18,Atlanta Falcons
+New England Patriots,2021,12,2021-11-28,Tennessee Titans
+New England Patriots,2021,13,2021-12-06,Buffalo Bills
+New England Patriots,2021,15,2021-12-18,Indianapolis Colts
+New England Patriots,2021,16,2021-12-26,Buffalo Bills
+New England Patriots,2021,17,2022-01-02,Jacksonville Jaguars
+New England Patriots,2021,18,2022-01-09,Miami Dolphins
+New England Patriots,2021,19,2022-01-15,Buffalo Bills
+New England Patriots,2022,1,2022-09-11,Miami Dolphins
+New England Patriots,2022,2,2022-09-18,Pittsburgh Steelers
+New England Patriots,2022,3,2022-09-25,Baltimore Ravens
+New England Patriots,2022,4,2022-10-02,Green Bay Packers
+New England Patriots,2022,5,2022-10-09,Detroit Lions
+New England Patriots,2022,6,2022-10-16,Cleveland Browns
+New England Patriots,2022,7,2022-10-24,Chicago Bears
+New England Patriots,2022,8,2022-10-30,New York Jets
+New England Patriots,2022,9,2022-11-06,Indianapolis Colts
+New England Patriots,2022,11,2022-11-20,New York Jets
+New England Patriots,2022,12,2022-11-24,Minnesota Vikings
+New England Patriots,2022,13,2022-12-01,Buffalo Bills
+New England Patriots,2022,14,2022-12-12,Arizona Cardinals
+New England Patriots,2022,15,2022-12-18,Las Vegas Raiders
+New England Patriots,2022,16,2022-12-24,Cincinnati Bengals
+New England Patriots,2022,17,2023-01-01,Miami Dolphins
+New England Patriots,2022,18,2023-01-08,Buffalo Bills
+New England Patriots,2023,1,2023-09-10,Philadelphia Eagles
+New England Patriots,2023,2,2023-09-17,Miami Dolphins
+New England Patriots,2023,3,2023-09-24,New York Jets
+New England Patriots,2023,4,2023-10-01,Dallas Cowboys
+New England Patriots,2023,5,2023-10-08,New Orleans Saints
+New England Patriots,2023,6,2023-10-15,Las Vegas Raiders
+New England Patriots,2023,7,2023-10-22,Buffalo Bills
+New England Patriots,2023,8,2023-10-29,Miami Dolphins
+New England Patriots,2023,9,2023-11-05,Washington Commanders
+New England Patriots,2023,10,2023-11-12,Indianapolis Colts
+New England Patriots,2023,12,2023-11-26,New York Giants
+New England Patriots,2023,13,2023-12-03,Los Angeles Chargers
+New England Patriots,2023,14,2023-12-07,Pittsburgh Steelers
+New England Patriots,2023,15,2023-12-17,Kansas City Chiefs
+New England Patriots,2023,16,2023-12-24,Denver Broncos
+New England Patriots,2023,17,2023-12-31,Buffalo Bills
+New England Patriots,2023,18,2024-01-07,New York Jets
+New England Patriots,2024,1,2024-09-08,Cincinnati Bengals
+New England Patriots,2024,2,2024-09-15,Seattle Seahawks
+New England Patriots,2024,3,2024-09-19,New York Jets
+New England Patriots,2024,4,2024-09-29,San Francisco 49ers
+New England Patriots,2024,5,2024-10-06,Miami Dolphins
+New England Patriots,2024,6,2024-10-13,Houston Texans
+New England Patriots,2024,7,2024-10-20,Jacksonville Jaguars
+New England Patriots,2024,8,2024-10-27,New York Jets
+New England Patriots,2024,9,2024-11-03,Tennessee Titans
+New England Patriots,2024,10,2024-11-10,Chicago Bears
+New England Patriots,2024,11,2024-11-17,Los Angeles Rams
+New England Patriots,2024,12,2024-11-24,Miami Dolphins
+New England Patriots,2024,13,2024-12-01,Indianapolis Colts
+New England Patriots,2024,15,2024-12-15,Arizona Cardinals
+New England Patriots,2024,16,2024-12-22,Buffalo Bills
+New England Patriots,2024,17,2024-12-28,Los Angeles Chargers
+New England Patriots,2024,18,2025-01-05,Buffalo Bills

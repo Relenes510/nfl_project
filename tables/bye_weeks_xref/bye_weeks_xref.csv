@@ -1,1118 +1,1082 @@
-Team,Season,Bye Week
-Arizona Cardinals,1990,5
-Arizona Cardinals,1991,14
-Arizona Cardinals,1992,4
-Arizona Cardinals,1993,5
-Arizona Cardinals,1993,12
-Arizona Cardinals,1994,4
-Arizona Cardinals,1995,8
-Arizona Cardinals,1996,6
-Arizona Cardinals,1997,4
-Arizona Cardinals,1998,8
-Arizona Cardinals,1999,7
-Arizona Cardinals,2000,3
-Arizona Cardinals,2001,1
-Arizona Cardinals,2002,6
-Arizona Cardinals,2003,7
-Arizona Cardinals,2004,6
-Arizona Cardinals,2005,6
-Arizona Cardinals,2006,9
-Arizona Cardinals,2007,8
-Arizona Cardinals,2008,7
-Arizona Cardinals,2009,4
-Arizona Cardinals,2010,6
-Arizona Cardinals,2011,6
-Arizona Cardinals,2012,10
-Arizona Cardinals,2013,9
-Arizona Cardinals,2014,4
-Arizona Cardinals,2015,9
-Arizona Cardinals,2016,9
-Arizona Cardinals,2017,8
-Arizona Cardinals,2018,9
-Arizona Cardinals,2019,12
-Arizona Cardinals,2020,8
-Arizona Cardinals,2021,12
-Arizona Cardinals,2022,13
-Arizona Cardinals,2023,14
-Arizona Cardinals,2024,11
-Atlanta Falcons,1990,4
-Atlanta Falcons,1991,6
-Atlanta Falcons,1992,8
-Atlanta Falcons,1993,6
-Atlanta Falcons,1993,10
-Atlanta Falcons,1994,9
-Atlanta Falcons,1995,6
-Atlanta Falcons,1996,3
-Atlanta Falcons,1997,6
-Atlanta Falcons,1998,3
-Atlanta Falcons,1999,10
-Atlanta Falcons,2000,15
-Atlanta Falcons,2001,7
-Atlanta Falcons,2002,4
-Atlanta Falcons,2003,8
-Atlanta Falcons,2004,9
-Atlanta Falcons,2005,8
-Atlanta Falcons,2006,5
-Atlanta Falcons,2007,8
-Atlanta Falcons,2008,7
-Atlanta Falcons,2009,4
-Atlanta Falcons,2010,8
-Atlanta Falcons,2011,8
-Atlanta Falcons,2012,7
-Atlanta Falcons,2013,6
-Atlanta Falcons,2014,9
-Atlanta Falcons,2015,10
-Atlanta Falcons,2016,11
-Atlanta Falcons,2017,5
-Atlanta Falcons,2018,8
-Atlanta Falcons,2019,9
-Atlanta Falcons,2020,10
-Atlanta Falcons,2021,6
-Atlanta Falcons,2022,14
-Atlanta Falcons,2023,11
-Atlanta Falcons,2024,12
-Baltimore Ravens,1996,4
-Baltimore Ravens,1997,7
-Baltimore Ravens,1998,5
-Baltimore Ravens,1999,6
-Baltimore Ravens,2000,14
-Baltimore Ravens,2001,13
-Baltimore Ravens,2002,3
-Baltimore Ravens,2003,5
-Baltimore Ravens,2004,6
-Baltimore Ravens,2005,3
-Baltimore Ravens,2006,7
-Baltimore Ravens,2007,8
-Baltimore Ravens,2008,2
-Baltimore Ravens,2009,7
-Baltimore Ravens,2010,8
-Baltimore Ravens,2011,5
-Baltimore Ravens,2012,8
-Baltimore Ravens,2013,8
-Baltimore Ravens,2014,11
-Baltimore Ravens,2015,9
-Baltimore Ravens,2016,8
-Baltimore Ravens,2017,10
-Baltimore Ravens,2018,10
-Baltimore Ravens,2019,8
-Baltimore Ravens,2020,7
-Baltimore Ravens,2021,8
-Baltimore Ravens,2022,10
-Baltimore Ravens,2023,13
-Baltimore Ravens,2024,14
-Buffalo Bills,1990,6
-Buffalo Bills,1991,9
-Buffalo Bills,1992,7
-Buffalo Bills,1993,3
-Buffalo Bills,1993,7
-Buffalo Bills,1994,8
-Buffalo Bills,1995,4
-Buffalo Bills,1996,5
-Buffalo Bills,1997,5
-Buffalo Bills,1998,4
-Buffalo Bills,1999,13
-Buffalo Bills,2000,4
-Buffalo Bills,2001,5
-Buffalo Bills,2002,10
-Buffalo Bills,2003,9
-Buffalo Bills,2004,3
-Buffalo Bills,2005,9
-Buffalo Bills,2006,8
-Buffalo Bills,2007,6
-Buffalo Bills,2008,6
-Buffalo Bills,2009,9
-Buffalo Bills,2010,6
-Buffalo Bills,2011,7
-Buffalo Bills,2012,8
-Buffalo Bills,2013,12
-Buffalo Bills,2014,9
-Buffalo Bills,2015,8
-Buffalo Bills,2016,10
-Buffalo Bills,2017,6
-Buffalo Bills,2018,11
-Buffalo Bills,2019,6
-Buffalo Bills,2020,11
-Buffalo Bills,2021,7
-Buffalo Bills,2022,7
-Buffalo Bills,2023,13
-Buffalo Bills,2024,12
-Carolina Panthers,1995,4
-Carolina Panthers,1996,3
-Carolina Panthers,1997,6
-Carolina Panthers,1998,3
-Carolina Panthers,1999,5
-Carolina Panthers,2000,4
-Carolina Panthers,2001,14
-Carolina Panthers,2002,9
-Carolina Panthers,2003,3
-Carolina Panthers,2004,3
-Carolina Panthers,2005,7
-Carolina Panthers,2006,9
-Carolina Panthers,2007,7
-Carolina Panthers,2008,9
-Carolina Panthers,2009,4
-Carolina Panthers,2010,6
-Carolina Panthers,2011,9
-Carolina Panthers,2012,6
-Carolina Panthers,2013,4
-Carolina Panthers,2014,12
-Carolina Panthers,2015,5
-Carolina Panthers,2016,7
-Carolina Panthers,2017,11
-Carolina Panthers,2018,4
-Carolina Panthers,2019,7
-Carolina Panthers,2020,13
-Carolina Panthers,2021,13
-Carolina Panthers,2022,13
-Carolina Panthers,2023,7
-Carolina Panthers,2024,11
-Chicago Bears,1990,7
-Chicago Bears,1991,7
-Chicago Bears,1992,6
-Chicago Bears,1993,3
-Chicago Bears,1993,7
-Chicago Bears,1994,7
-Chicago Bears,1995,5
-Chicago Bears,1996,8
-Chicago Bears,1997,8
-Chicago Bears,1998,9
-Chicago Bears,1999,14
-Chicago Bears,2000,9
-Chicago Bears,2001,3
-Chicago Bears,2002,6
-Chicago Bears,2003,3
-Chicago Bears,2004,5
-Chicago Bears,2005,4
-Chicago Bears,2006,7
-Chicago Bears,2007,9
-Chicago Bears,2008,8
-Chicago Bears,2009,5
-Chicago Bears,2010,8
-Chicago Bears,2011,8
-Chicago Bears,2012,6
-Chicago Bears,2013,8
-Chicago Bears,2014,9
-Chicago Bears,2015,7
-Chicago Bears,2016,9
-Chicago Bears,2017,9
-Chicago Bears,2018,5
-Chicago Bears,2019,6
-Chicago Bears,2020,11
-Chicago Bears,2021,10
-Chicago Bears,2022,14
-Chicago Bears,2023,13
-Chicago Bears,2024,7
-Cincinnati Bengals,1990,10
-Cincinnati Bengals,1991,5
-Cincinnati Bengals,1992,5
-Cincinnati Bengals,1993,5
-Cincinnati Bengals,1993,9
-Cincinnati Bengals,1994,6
-Cincinnati Bengals,1995,7
-Cincinnati Bengals,1996,4
-Cincinnati Bengals,1997,3
-Cincinnati Bengals,1998,5
-Cincinnati Bengals,1999,15
-Cincinnati Bengals,2000,1
-Cincinnati Bengals,2001,8
-Cincinnati Bengals,2002,7
-Cincinnati Bengals,2003,6
-Cincinnati Bengals,2004,5
-Cincinnati Bengals,2005,10
-Cincinnati Bengals,2006,5
-Cincinnati Bengals,2007,5
-Cincinnati Bengals,2008,10
-Cincinnati Bengals,2009,8
-Cincinnati Bengals,2010,6
-Cincinnati Bengals,2011,7
-Cincinnati Bengals,2012,8
-Cincinnati Bengals,2013,12
-Cincinnati Bengals,2014,4
-Cincinnati Bengals,2015,7
-Cincinnati Bengals,2016,9
-Cincinnati Bengals,2017,6
-Cincinnati Bengals,2018,9
-Cincinnati Bengals,2019,9
-Cincinnati Bengals,2020,9
-Cincinnati Bengals,2021,10
-Cincinnati Bengals,2022,10
-Cincinnati Bengals,2023,7
-Cincinnati Bengals,2024,12
-Cleveland Browns,1990,10
-Cleveland Browns,1991,5
-Cleveland Browns,1992,5
-Cleveland Browns,1993,5
-Cleveland Browns,1993,9
-Cleveland Browns,1994,6
-Cleveland Browns,1995,7
-Cleveland Browns,1999,17
-Cleveland Browns,2000,17
-Cleveland Browns,2001,7
-Cleveland Browns,2002,10
-Cleveland Browns,2003,9
-Cleveland Browns,2004,8
-Cleveland Browns,2005,4
-Cleveland Browns,2006,6
-Cleveland Browns,2007,7
-Cleveland Browns,2008,5
-Cleveland Browns,2009,9
-Cleveland Browns,2010,8
-Cleveland Browns,2011,5
-Cleveland Browns,2012,10
-Cleveland Browns,2013,10
-Cleveland Browns,2014,4
-Cleveland Browns,2015,11
-Cleveland Browns,2016,13
-Cleveland Browns,2017,9
-Cleveland Browns,2018,11
-Cleveland Browns,2019,7
-Cleveland Browns,2020,9
-Cleveland Browns,2021,13
-Cleveland Browns,2022,9
-Cleveland Browns,2023,5
-Cleveland Browns,2024,10
-Dallas Cowboys,1990,14
-Dallas Cowboys,1991,8
-Dallas Cowboys,1992,4
-Dallas Cowboys,1993,4
-Dallas Cowboys,1993,8
-Dallas Cowboys,1994,4
-Dallas Cowboys,1995,8
-Dallas Cowboys,1996,6
-Dallas Cowboys,1997,4
-Dallas Cowboys,1998,8
-Dallas Cowboys,1999,3
-Dallas Cowboys,2000,6
-Dallas Cowboys,2001,6
-Dallas Cowboys,2002,10
-Dallas Cowboys,2003,3
-Dallas Cowboys,2004,4
-Dallas Cowboys,2005,9
-Dallas Cowboys,2006,3
-Dallas Cowboys,2007,8
-Dallas Cowboys,2008,10
-Dallas Cowboys,2009,6
-Dallas Cowboys,2010,4
-Dallas Cowboys,2011,5
-Dallas Cowboys,2012,5
-Dallas Cowboys,2013,11
-Dallas Cowboys,2014,11
-Dallas Cowboys,2015,6
-Dallas Cowboys,2016,7
-Dallas Cowboys,2017,6
-Dallas Cowboys,2018,8
-Dallas Cowboys,2019,8
-Dallas Cowboys,2020,10
-Dallas Cowboys,2021,7
-Dallas Cowboys,2022,9
-Dallas Cowboys,2023,7
-Dallas Cowboys,2024,7
-Denver Broncos,1990,8
-Denver Broncos,1991,7
-Denver Broncos,1992,9
-Denver Broncos,1993,4
-Denver Broncos,1993,8
-Denver Broncos,1994,5
-Denver Broncos,1995,9
-Denver Broncos,1996,7
-Denver Broncos,1997,7
-Denver Broncos,1998,7
-Denver Broncos,1999,12
-Denver Broncos,2000,9
-Denver Broncos,2001,15
-Denver Broncos,2002,9
-Denver Broncos,2003,10
-Denver Broncos,2004,10
-Denver Broncos,2005,9
-Denver Broncos,2006,4
-Denver Broncos,2007,6
-Denver Broncos,2008,8
-Denver Broncos,2009,7
-Denver Broncos,2010,9
-Denver Broncos,2011,6
-Denver Broncos,2012,7
-Denver Broncos,2013,9
-Denver Broncos,2014,4
-Denver Broncos,2015,7
-Denver Broncos,2016,11
-Denver Broncos,2017,5
-Denver Broncos,2018,10
-Denver Broncos,2019,10
-Denver Broncos,2020,5
-Denver Broncos,2021,11
-Denver Broncos,2022,9
-Denver Broncos,2023,9
-Denver Broncos,2024,14
-Detroit Lions,1990,7
-Detroit Lions,1991,7
-Detroit Lions,1992,6
-Detroit Lions,1993,6
-Detroit Lions,1993,11
-Detroit Lions,1994,7
-Detroit Lions,1995,5
-Detroit Lions,1996,8
-Detroit Lions,1997,9
-Detroit Lions,1998,6
-Detroit Lions,1999,4
-Detroit Lions,2000,7
-Detroit Lions,2001,3
-Detroit Lions,2002,5
-Detroit Lions,2003,6
-Detroit Lions,2004,4
-Detroit Lions,2005,3
-Detroit Lions,2006,8
-Detroit Lions,2007,6
-Detroit Lions,2008,4
-Detroit Lions,2009,7
-Detroit Lions,2010,7
-Detroit Lions,2011,9
-Detroit Lions,2012,5
-Detroit Lions,2013,9
-Detroit Lions,2014,9
-Detroit Lions,2015,9
-Detroit Lions,2016,10
-Detroit Lions,2017,7
-Detroit Lions,2018,6
-Detroit Lions,2019,5
-Detroit Lions,2020,5
-Detroit Lions,2021,9
-Detroit Lions,2022,6
-Detroit Lions,2023,9
-Detroit Lions,2024,5
-Green Bay Packers,1990,7
-Green Bay Packers,1991,7
-Green Bay Packers,1992,6
-Green Bay Packers,1993,3
-Green Bay Packers,1993,7
-Green Bay Packers,1994,7
-Green Bay Packers,1995,5
-Green Bay Packers,1996,8
-Green Bay Packers,1997,8
-Green Bay Packers,1998,6
-Green Bay Packers,1999,4
-Green Bay Packers,2000,8
-Green Bay Packers,2001,7
-Green Bay Packers,2002,8
-Green Bay Packers,2003,8
-Green Bay Packers,2004,9
-Green Bay Packers,2005,6
-Green Bay Packers,2006,6
-Green Bay Packers,2007,7
-Green Bay Packers,2008,8
-Green Bay Packers,2009,5
-Green Bay Packers,2010,10
-Green Bay Packers,2011,8
-Green Bay Packers,2012,10
-Green Bay Packers,2013,4
-Green Bay Packers,2014,9
-Green Bay Packers,2015,7
-Green Bay Packers,2016,4
-Green Bay Packers,2017,8
-Green Bay Packers,2018,7
-Green Bay Packers,2019,11
-Green Bay Packers,2020,5
-Green Bay Packers,2021,13
-Green Bay Packers,2022,14
-Green Bay Packers,2023,6
-Green Bay Packers,2024,10
-Houston Texans,2002,5
-Houston Texans,2003,5
-Houston Texans,2004,7
-Houston Texans,2005,3
-Houston Texans,2006,5
-Houston Texans,2007,10
-Houston Texans,2008,2
-Houston Texans,2009,10
-Houston Texans,2010,7
-Houston Texans,2011,11
-Houston Texans,2012,8
-Houston Texans,2013,8
-Houston Texans,2014,10
-Houston Texans,2015,9
-Houston Texans,2016,9
-Houston Texans,2017,7
-Houston Texans,2018,10
-Houston Texans,2019,10
-Houston Texans,2020,8
-Houston Texans,2021,10
-Houston Texans,2022,6
-Houston Texans,2023,7
-Houston Texans,2024,14
-Indianapolis Colts,1990,6
-Indianapolis Colts,1991,9
-Indianapolis Colts,1992,4
-Indianapolis Colts,1993,3
-Indianapolis Colts,1993,7
-Indianapolis Colts,1994,11
-Indianapolis Colts,1995,4
-Indianapolis Colts,1996,5
-Indianapolis Colts,1997,5
-Indianapolis Colts,1998,8
-Indianapolis Colts,1999,4
-Indianapolis Colts,2000,3
-Indianapolis Colts,2001,4
-Indianapolis Colts,2002,4
-Indianapolis Colts,2003,7
-Indianapolis Colts,2004,6
-Indianapolis Colts,2005,8
-Indianapolis Colts,2006,6
-Indianapolis Colts,2007,6
-Indianapolis Colts,2008,4
-Indianapolis Colts,2009,6
-Indianapolis Colts,2010,7
-Indianapolis Colts,2011,11
-Indianapolis Colts,2012,4
-Indianapolis Colts,2013,8
-Indianapolis Colts,2014,10
-Indianapolis Colts,2015,10
-Indianapolis Colts,2016,10
-Indianapolis Colts,2017,11
-Indianapolis Colts,2018,9
-Indianapolis Colts,2019,6
-Indianapolis Colts,2020,7
-Indianapolis Colts,2021,14
-Indianapolis Colts,2022,14
-Indianapolis Colts,2023,11
-Indianapolis Colts,2024,14
-Jacksonville Jaguars,1995,10
-Jacksonville Jaguars,1996,10
-Jacksonville Jaguars,1997,3
-Jacksonville Jaguars,1998,5
-Jacksonville Jaguars,1999,7
-Jacksonville Jaguars,2000,10
-Jacksonville Jaguars,2001,5
-Jacksonville Jaguars,2002,3
-Jacksonville Jaguars,2003,7
-Jacksonville Jaguars,2004,9
-Jacksonville Jaguars,2005,7
-Jacksonville Jaguars,2006,6
-Jacksonville Jaguars,2007,4
-Jacksonville Jaguars,2008,7
-Jacksonville Jaguars,2009,7
-Jacksonville Jaguars,2010,9
-Jacksonville Jaguars,2011,9
-Jacksonville Jaguars,2012,6
-Jacksonville Jaguars,2013,9
-Jacksonville Jaguars,2014,11
-Jacksonville Jaguars,2015,8
-Jacksonville Jaguars,2016,5
-Jacksonville Jaguars,2017,8
-Jacksonville Jaguars,2018,9
-Jacksonville Jaguars,2019,10
-Jacksonville Jaguars,2020,8
-Jacksonville Jaguars,2021,7
-Jacksonville Jaguars,2022,11
-Jacksonville Jaguars,2023,9
-Jacksonville Jaguars,2024,12
-Kansas City Chiefs,1990,8
-Kansas City Chiefs,1991,10
-Kansas City Chiefs,1992,9
-Kansas City Chiefs,1993,4
-Kansas City Chiefs,1993,8
-Kansas City Chiefs,1994,5
-Kansas City Chiefs,1995,9
-Kansas City Chiefs,1996,7
-Kansas City Chiefs,1997,7
-Kansas City Chiefs,1998,7
-Kansas City Chiefs,1999,6
-Kansas City Chiefs,2000,6
-Kansas City Chiefs,2001,10
-Kansas City Chiefs,2002,9
-Kansas City Chiefs,2003,9
-Kansas City Chiefs,2004,5
-Kansas City Chiefs,2005,5
-Kansas City Chiefs,2006,3
-Kansas City Chiefs,2007,8
-Kansas City Chiefs,2008,6
-Kansas City Chiefs,2009,8
-Kansas City Chiefs,2010,4
-Kansas City Chiefs,2011,6
-Kansas City Chiefs,2012,7
-Kansas City Chiefs,2013,10
-Kansas City Chiefs,2014,6
-Kansas City Chiefs,2015,9
-Kansas City Chiefs,2016,5
-Kansas City Chiefs,2017,10
-Kansas City Chiefs,2018,12
-Kansas City Chiefs,2019,12
-Kansas City Chiefs,2020,10
-Kansas City Chiefs,2021,12
-Kansas City Chiefs,2022,8
-Kansas City Chiefs,2023,10
-Kansas City Chiefs,2024,6
-Las Vegas Raiders,1990,8
-Las Vegas Raiders,1991,10
-Las Vegas Raiders,1992,9
-Las Vegas Raiders,1993,4
-Las Vegas Raiders,1993,8
-Las Vegas Raiders,1994,5
-Las Vegas Raiders,1995,9
-Las Vegas Raiders,1996,9
-Las Vegas Raiders,1997,7
-Las Vegas Raiders,1998,7
-Las Vegas Raiders,1999,9
-Las Vegas Raiders,2000,5
-Las Vegas Raiders,2001,6
-Las Vegas Raiders,2002,3
-Las Vegas Raiders,2003,8
-Las Vegas Raiders,2004,10
-Las Vegas Raiders,2005,5
-Las Vegas Raiders,2006,3
-Las Vegas Raiders,2007,5
-Las Vegas Raiders,2008,5
-Las Vegas Raiders,2009,9
-Las Vegas Raiders,2010,10
-Las Vegas Raiders,2011,8
-Las Vegas Raiders,2012,5
-Las Vegas Raiders,2013,7
-Las Vegas Raiders,2014,5
-Las Vegas Raiders,2015,6
-Las Vegas Raiders,2016,10
-Las Vegas Raiders,2017,10
-Las Vegas Raiders,2018,7
-Las Vegas Raiders,2019,6
-Las Vegas Raiders,2020,6
-Las Vegas Raiders,2021,8
-Las Vegas Raiders,2022,6
-Las Vegas Raiders,2023,13
-Las Vegas Raiders,2024,10
-Los Angeles Chargers,1990,14
-Los Angeles Chargers,1991,10
-Los Angeles Chargers,1992,6
-Los Angeles Chargers,1993,4
-Los Angeles Chargers,1993,8
-Los Angeles Chargers,1994,5
-Los Angeles Chargers,1995,9
-Los Angeles Chargers,1996,7
-Los Angeles Chargers,1997,7
-Los Angeles Chargers,1998,9
-Los Angeles Chargers,1999,1
-Los Angeles Chargers,2000,8
-Los Angeles Chargers,2001,17
-Los Angeles Chargers,2002,8
-Los Angeles Chargers,2003,6
-Los Angeles Chargers,2004,10
-Los Angeles Chargers,2005,10
-Los Angeles Chargers,2006,3
-Los Angeles Chargers,2007,7
-Los Angeles Chargers,2008,9
-Los Angeles Chargers,2009,5
-Los Angeles Chargers,2010,10
-Los Angeles Chargers,2011,6
-Los Angeles Chargers,2012,7
-Los Angeles Chargers,2013,8
-Los Angeles Chargers,2014,10
-Los Angeles Chargers,2015,10
-Los Angeles Chargers,2016,11
-Los Angeles Chargers,2017,9
-Los Angeles Chargers,2018,8
-Los Angeles Chargers,2019,12
-Los Angeles Chargers,2020,6
-Los Angeles Chargers,2021,7
-Los Angeles Chargers,2022,8
-Los Angeles Chargers,2023,5
-Los Angeles Chargers,2024,5
-Los Angeles Rams,1990,4
-Los Angeles Rams,1991,6
-Los Angeles Rams,1992,8
-Los Angeles Rams,1993,6
-Los Angeles Rams,1993,10
-Los Angeles Rams,1994,9
-Los Angeles Rams,1995,6
-Los Angeles Rams,1996,3
-Los Angeles Rams,1997,6
-Los Angeles Rams,1998,5
-Los Angeles Rams,1999,2
-Los Angeles Rams,2000,6
-Los Angeles Rams,2001,8
-Los Angeles Rams,2002,8
-Los Angeles Rams,2003,5
-Los Angeles Rams,2004,8
-Los Angeles Rams,2005,9
-Los Angeles Rams,2006,7
-Los Angeles Rams,2007,9
-Los Angeles Rams,2008,5
-Los Angeles Rams,2009,9
-Los Angeles Rams,2010,9
-Los Angeles Rams,2011,5
-Los Angeles Rams,2012,9
-Los Angeles Rams,2013,11
-Los Angeles Rams,2014,4
-Los Angeles Rams,2015,6
-Los Angeles Rams,2016,8
-Los Angeles Rams,2017,8
-Los Angeles Rams,2018,12
-Los Angeles Rams,2019,9
-Los Angeles Rams,2020,9
-Los Angeles Rams,2021,11
-Los Angeles Rams,2022,7
-Los Angeles Rams,2023,10
-Los Angeles Rams,2024,6
-Miami Dolphins,1990,6
-Miami Dolphins,1991,9
-Miami Dolphins,1992,1
-Miami Dolphins,1993,3
-Miami Dolphins,1993,7
-Miami Dolphins,1994,8
-Miami Dolphins,1995,4
-Miami Dolphins,1996,5
-Miami Dolphins,1997,5
-Miami Dolphins,1998,4
-Miami Dolphins,1999,3
-Miami Dolphins,2000,7
-Miami Dolphins,2001,6
-Miami Dolphins,2002,8
-Miami Dolphins,2003,4
-Miami Dolphins,2004,10
-Miami Dolphins,2005,4
-Miami Dolphins,2006,8
-Miami Dolphins,2007,9
-Miami Dolphins,2008,4
-Miami Dolphins,2009,6
-Miami Dolphins,2010,5
-Miami Dolphins,2011,5
-Miami Dolphins,2012,7
-Miami Dolphins,2013,6
-Miami Dolphins,2014,5
-Miami Dolphins,2015,5
-Miami Dolphins,2016,8
-Miami Dolphins,2017,1
-Miami Dolphins,2018,11
-Miami Dolphins,2019,5
-Miami Dolphins,2020,7
-Miami Dolphins,2021,14
-Miami Dolphins,2022,11
-Miami Dolphins,2023,10
-Miami Dolphins,2024,6
-Minnesota Vikings,1990,7
-Minnesota Vikings,1991,14
-Minnesota Vikings,1992,6
-Minnesota Vikings,1993,3
-Minnesota Vikings,1993,7
-Minnesota Vikings,1994,7
-Minnesota Vikings,1995,5
-Minnesota Vikings,1996,8
-Minnesota Vikings,1997,8
-Minnesota Vikings,1998,6
-Minnesota Vikings,1999,11
-Minnesota Vikings,2000,4
-Minnesota Vikings,2001,8
-Minnesota Vikings,2002,5
-Minnesota Vikings,2003,6
-Minnesota Vikings,2004,4
-Minnesota Vikings,2005,5
-Minnesota Vikings,2006,6
-Minnesota Vikings,2007,5
-Minnesota Vikings,2008,8
-Minnesota Vikings,2009,9
-Minnesota Vikings,2010,4
-Minnesota Vikings,2011,9
-Minnesota Vikings,2012,11
-Minnesota Vikings,2013,5
-Minnesota Vikings,2014,10
-Minnesota Vikings,2015,5
-Minnesota Vikings,2016,6
-Minnesota Vikings,2017,9
-Minnesota Vikings,2018,10
-Minnesota Vikings,2019,12
-Minnesota Vikings,2020,7
-Minnesota Vikings,2021,7
-Minnesota Vikings,2022,7
-Minnesota Vikings,2023,13
-Minnesota Vikings,2024,6
-New England Patriots,1990,6
-New England Patriots,1991,7
-New England Patriots,1992,1
-New England Patriots,1993,5
-New England Patriots,1993,11
-New England Patriots,1994,8
-New England Patriots,1995,4
-New England Patriots,1996,5
-New England Patriots,1997,5
-New England Patriots,1998,4
-New England Patriots,1999,9
-New England Patriots,2000,9
-New England Patriots,2001,16
-New England Patriots,2002,7
-New England Patriots,2003,10
-New England Patriots,2004,3
-New England Patriots,2005,7
-New England Patriots,2006,6
-New England Patriots,2007,10
-New England Patriots,2008,4
-New England Patriots,2009,8
-New England Patriots,2010,5
-New England Patriots,2011,7
-New England Patriots,2012,9
-New England Patriots,2013,10
-New England Patriots,2014,10
-New England Patriots,2015,4
-New England Patriots,2016,9
-New England Patriots,2017,9
-New England Patriots,2018,11
-New England Patriots,2019,10
-New England Patriots,2020,5
-New England Patriots,2021,14
-New England Patriots,2022,10
-New England Patriots,2023,11
-New England Patriots,2024,14
-New Orleans Saints,1990,4
-New Orleans Saints,1991,6
-New Orleans Saints,1992,8
-New Orleans Saints,1993,6
-New Orleans Saints,1993,10
-New Orleans Saints,1994,9
-New Orleans Saints,1995,6
-New Orleans Saints,1996,9
-New Orleans Saints,1997,10
-New Orleans Saints,1998,3
-New Orleans Saints,1999,3
-New Orleans Saints,2000,5
-New Orleans Saints,2001,2
-New Orleans Saints,2002,9
-New Orleans Saints,2003,10
-New Orleans Saints,2004,8
-New Orleans Saints,2005,10
-New Orleans Saints,2006,7
-New Orleans Saints,2007,4
-New Orleans Saints,2008,9
-New Orleans Saints,2009,5
-New Orleans Saints,2010,10
-New Orleans Saints,2011,11
-New Orleans Saints,2012,6
-New Orleans Saints,2013,7
-New Orleans Saints,2014,6
-New Orleans Saints,2015,11
-New Orleans Saints,2016,5
-New Orleans Saints,2017,5
-New Orleans Saints,2018,6
-New Orleans Saints,2019,9
-New Orleans Saints,2020,6
-New Orleans Saints,2021,6
-New Orleans Saints,2022,14
-New Orleans Saints,2023,11
-New Orleans Saints,2024,12
-New York Giants,1990,5
-New York Giants,1991,8
-New York Giants,1992,4
-New York Giants,1993,4
-New York Giants,1993,8
-New York Giants,1994,4
-New York Giants,1995,8
-New York Giants,1996,6
-New York Giants,1997,10
-New York Giants,1998,8
-New York Giants,1999,9
-New York Giants,2000,8
-New York Giants,2001,12
-New York Giants,2002,7
-New York Giants,2003,4
-New York Giants,2004,6
-New York Giants,2005,5
-New York Giants,2006,4
-New York Giants,2007,9
-New York Giants,2008,4
-New York Giants,2009,10
-New York Giants,2010,8
-New York Giants,2011,7
-New York Giants,2012,11
-New York Giants,2013,9
-New York Giants,2014,8
-New York Giants,2015,11
-New York Giants,2016,8
-New York Giants,2017,8
-New York Giants,2018,9
-New York Giants,2019,11
-New York Giants,2020,11
-New York Giants,2021,10
-New York Giants,2022,9
-New York Giants,2023,13
-New York Giants,2024,11
-New York Jets,1990,14
-New York Jets,1991,9
-New York Jets,1992,7
-New York Jets,1993,3
-New York Jets,1993,7
-New York Jets,1994,8
-New York Jets,1995,11
-New York Jets,1996,10
-New York Jets,1997,9
-New York Jets,1998,4
-New York Jets,1999,8
-New York Jets,2000,5
-New York Jets,2001,11
-New York Jets,2002,6
-New York Jets,2003,5
-New York Jets,2004,3
-New York Jets,2005,8
-New York Jets,2006,9
-New York Jets,2007,10
-New York Jets,2008,5
-New York Jets,2009,9
-New York Jets,2010,7
-New York Jets,2011,8
-New York Jets,2012,9
-New York Jets,2013,10
-New York Jets,2014,11
-New York Jets,2015,5
-New York Jets,2016,11
-New York Jets,2017,11
-New York Jets,2018,11
-New York Jets,2019,4
-New York Jets,2020,10
-New York Jets,2021,6
-New York Jets,2022,10
-New York Jets,2023,7
-New York Jets,2024,12
-Philadelphia Eagles,1990,5
-Philadelphia Eagles,1991,8
-Philadelphia Eagles,1992,4
-Philadelphia Eagles,1993,4
-Philadelphia Eagles,1993,8
-Philadelphia Eagles,1994,4
-Philadelphia Eagles,1995,8
-Philadelphia Eagles,1996,6
-Philadelphia Eagles,1997,4
-Philadelphia Eagles,1998,8
-Philadelphia Eagles,1999,16
-Philadelphia Eagles,2000,16
-Philadelphia Eagles,2001,5
-Philadelphia Eagles,2002,6
-Philadelphia Eagles,2003,3
-Philadelphia Eagles,2004,5
-Philadelphia Eagles,2005,6
-Philadelphia Eagles,2006,9
-Philadelphia Eagles,2007,5
-Philadelphia Eagles,2008,7
-Philadelphia Eagles,2009,4
-Philadelphia Eagles,2010,8
-Philadelphia Eagles,2011,7
-Philadelphia Eagles,2012,7
-Philadelphia Eagles,2013,12
-Philadelphia Eagles,2014,7
-Philadelphia Eagles,2015,8
-Philadelphia Eagles,2016,4
-Philadelphia Eagles,2017,10
-Philadelphia Eagles,2018,9
-Philadelphia Eagles,2019,10
-Philadelphia Eagles,2020,9
-Philadelphia Eagles,2021,14
-Philadelphia Eagles,2022,7
-Philadelphia Eagles,2023,10
-Philadelphia Eagles,2024,5
-Pittsburgh Steelers,1990,10
-Pittsburgh Steelers,1991,5
-Pittsburgh Steelers,1992,5
-Pittsburgh Steelers,1993,5
-Pittsburgh Steelers,1993,9
-Pittsburgh Steelers,1994,6
-Pittsburgh Steelers,1995,7
-Pittsburgh Steelers,1996,4
-Pittsburgh Steelers,1997,3
-Pittsburgh Steelers,1998,5
-Pittsburgh Steelers,1999,8
-Pittsburgh Steelers,2000,2
-Pittsburgh Steelers,2001,1
-Pittsburgh Steelers,2002,3
-Pittsburgh Steelers,2003,7
-Pittsburgh Steelers,2004,7
-Pittsburgh Steelers,2005,4
-Pittsburgh Steelers,2006,4
-Pittsburgh Steelers,2007,6
-Pittsburgh Steelers,2008,6
-Pittsburgh Steelers,2009,8
-Pittsburgh Steelers,2010,5
-Pittsburgh Steelers,2011,11
-Pittsburgh Steelers,2012,4
-Pittsburgh Steelers,2013,5
-Pittsburgh Steelers,2014,12
-Pittsburgh Steelers,2015,11
-Pittsburgh Steelers,2016,8
-Pittsburgh Steelers,2017,9
-Pittsburgh Steelers,2018,7
-Pittsburgh Steelers,2019,7
-Pittsburgh Steelers,2020,4
-Pittsburgh Steelers,2021,7
-Pittsburgh Steelers,2022,9
-Pittsburgh Steelers,2023,6
-Pittsburgh Steelers,2024,9
-San Francisco 49ers,1990,4
-San Francisco 49ers,1991,6
-San Francisco 49ers,1992,8
-San Francisco 49ers,1993,6
-San Francisco 49ers,1993,10
-San Francisco 49ers,1994,9
-San Francisco 49ers,1995,6
-San Francisco 49ers,1996,3
-San Francisco 49ers,1997,6
-San Francisco 49ers,1998,3
-San Francisco 49ers,1999,8
-San Francisco 49ers,2000,13
-San Francisco 49ers,2001,6
-San Francisco 49ers,2002,4
-San Francisco 49ers,2003,10
-San Francisco 49ers,2004,7
-San Francisco 49ers,2005,6
-San Francisco 49ers,2006,7
-San Francisco 49ers,2007,6
-San Francisco 49ers,2008,9
-San Francisco 49ers,2009,6
-San Francisco 49ers,2010,9
-San Francisco 49ers,2011,7
-San Francisco 49ers,2012,9
-San Francisco 49ers,2013,9
-San Francisco 49ers,2014,8
-San Francisco 49ers,2015,10
-San Francisco 49ers,2016,8
-San Francisco 49ers,2017,11
-San Francisco 49ers,2018,11
-San Francisco 49ers,2019,4
-San Francisco 49ers,2020,11
-San Francisco 49ers,2021,6
-San Francisco 49ers,2022,9
-San Francisco 49ers,2023,9
-San Francisco 49ers,2024,9
-Seattle Seahawks,1990,8
-Seattle Seahawks,1991,10
-Seattle Seahawks,1992,9
-Seattle Seahawks,1993,6
-Seattle Seahawks,1993,12
-Seattle Seahawks,1994,7
-Seattle Seahawks,1995,4
-Seattle Seahawks,1996,7
-Seattle Seahawks,1997,7
-Seattle Seahawks,1998,7
-Seattle Seahawks,1999,5
-Seattle Seahawks,2000,12
-Seattle Seahawks,2001,6
-Seattle Seahawks,2002,5
-Seattle Seahawks,2003,4
-Seattle Seahawks,2004,4
-Seattle Seahawks,2005,8
-Seattle Seahawks,2006,5
-Seattle Seahawks,2007,8
-Seattle Seahawks,2008,4
-Seattle Seahawks,2009,7
-Seattle Seahawks,2010,5
-Seattle Seahawks,2011,6
-Seattle Seahawks,2012,11
-Seattle Seahawks,2013,12
-Seattle Seahawks,2014,4
-Seattle Seahawks,2015,9
-Seattle Seahawks,2016,5
-Seattle Seahawks,2017,6
-Seattle Seahawks,2018,7
-Seattle Seahawks,2019,11
-Seattle Seahawks,2020,6
-Seattle Seahawks,2021,9
-Seattle Seahawks,2022,11
-Seattle Seahawks,2023,5
-Seattle Seahawks,2024,10
-Tampa Bay Buccaneers,1990,14
-Tampa Bay Buccaneers,1991,7
-Tampa Bay Buccaneers,1992,6
-Tampa Bay Buccaneers,1993,3
-Tampa Bay Buccaneers,1993,7
-Tampa Bay Buccaneers,1994,7
-Tampa Bay Buccaneers,1995,10
-Tampa Bay Buccaneers,1996,6
-Tampa Bay Buccaneers,1997,8
-Tampa Bay Buccaneers,1998,6
-Tampa Bay Buccaneers,1999,6
-Tampa Bay Buccaneers,2000,7
-Tampa Bay Buccaneers,2001,1
-Tampa Bay Buccaneers,2002,10
-Tampa Bay Buccaneers,2003,4
-Tampa Bay Buccaneers,2004,8
-Tampa Bay Buccaneers,2005,7
-Tampa Bay Buccaneers,2006,4
-Tampa Bay Buccaneers,2007,10
-Tampa Bay Buccaneers,2008,10
-Tampa Bay Buccaneers,2009,8
-Tampa Bay Buccaneers,2010,4
-Tampa Bay Buccaneers,2011,8
-Tampa Bay Buccaneers,2012,5
-Tampa Bay Buccaneers,2013,5
-Tampa Bay Buccaneers,2014,7
-Tampa Bay Buccaneers,2015,6
-Tampa Bay Buccaneers,2016,6
-Tampa Bay Buccaneers,2017,1
-Tampa Bay Buccaneers,2018,5
-Tampa Bay Buccaneers,2019,7
-Tampa Bay Buccaneers,2020,13
-Tampa Bay Buccaneers,2021,9
-Tampa Bay Buccaneers,2022,11
-Tampa Bay Buccaneers,2023,5
-Tampa Bay Buccaneers,2024,11
-Tennessee Titans,1990,10
-Tennessee Titans,1991,5
-Tennessee Titans,1992,5
-Tennessee Titans,1993,5
-Tennessee Titans,1993,9
-Tennessee Titans,1994,6
-Tennessee Titans,1995,7
-Tennessee Titans,1996,4
-Tennessee Titans,1997,3
-Tennessee Titans,1998,5
-Tennessee Titans,1999,7
-Tennessee Titans,2000,3
-Tennessee Titans,2001,3
-Tennessee Titans,2002,7
-Tennessee Titans,2003,9
-Tennessee Titans,2004,9
-Tennessee Titans,2005,10
-Tennessee Titans,2006,7
-Tennessee Titans,2007,4
-Tennessee Titans,2008,6
-Tennessee Titans,2009,7
-Tennessee Titans,2010,9
-Tennessee Titans,2011,6
-Tennessee Titans,2012,11
-Tennessee Titans,2013,8
-Tennessee Titans,2014,9
-Tennessee Titans,2015,4
-Tennessee Titans,2016,13
-Tennessee Titans,2017,8
-Tennessee Titans,2018,8
-Tennessee Titans,2019,11
-Tennessee Titans,2020,4
-Tennessee Titans,2021,13
-Tennessee Titans,2022,6
-Tennessee Titans,2023,7
-Tennessee Titans,2024,5
-Washington Commanders,1990,5
-Washington Commanders,1991,8
-Washington Commanders,1992,4
-Washington Commanders,1993,4
-Washington Commanders,1993,8
-Washington Commanders,1994,11
-Washington Commanders,1995,11
-Washington Commanders,1996,6
-Washington Commanders,1997,4
-Washington Commanders,1998,8
-Washington Commanders,1999,5
-Washington Commanders,2000,11
-Washington Commanders,2001,9
-Washington Commanders,2002,4
-Washington Commanders,2003,8
-Washington Commanders,2004,7
-Washington Commanders,2005,3
-Washington Commanders,2006,8
-Washington Commanders,2007,4
-Washington Commanders,2008,10
-Washington Commanders,2009,8
-Washington Commanders,2010,9
-Washington Commanders,2011,5
-Washington Commanders,2012,10
-Washington Commanders,2013,5
-Washington Commanders,2014,10
-Washington Commanders,2015,8
-Washington Commanders,2016,9
-Washington Commanders,2017,5
-Washington Commanders,2018,4
-Washington Commanders,2019,10
-Washington Commanders,2020,8
-Washington Commanders,2021,9
-Washington Commanders,2022,14
-Washington Commanders,2023,14
-Washington Commanders,2024,14
+Team,Season,Bye Week,PFR_ABV
+Phoenix Cardinals,1990,5,crd
+Phoenix Cardinals,1991,14,crd
+Phoenix Cardinals,1992,4,crd
+Phoenix Cardinals,1993,5,crd
+Phoenix Cardinals,1993,12,crd
+Arizona Cardinals,1994,4,crd
+Arizona Cardinals,1995,8,crd
+Arizona Cardinals,1996,6,crd
+Arizona Cardinals,1997,4,crd
+Arizona Cardinals,1998,8,crd
+Arizona Cardinals,1999,7,crd
+Arizona Cardinals,2000,3,crd
+Arizona Cardinals,2001,1,crd
+Arizona Cardinals,2002,6,crd
+Arizona Cardinals,2003,7,crd
+Arizona Cardinals,2004,6,crd
+Arizona Cardinals,2005,6,crd
+Arizona Cardinals,2006,9,crd
+Arizona Cardinals,2007,8,crd
+Arizona Cardinals,2008,7,crd
+Arizona Cardinals,2009,4,crd
+Arizona Cardinals,2010,6,crd
+Arizona Cardinals,2011,6,crd
+Arizona Cardinals,2012,10,crd
+Arizona Cardinals,2013,9,crd
+Arizona Cardinals,2014,4,crd
+Arizona Cardinals,2015,9,crd
+Arizona Cardinals,2016,9,crd
+Arizona Cardinals,2017,8,crd
+Arizona Cardinals,2018,9,crd
+Arizona Cardinals,2019,12,crd
+Arizona Cardinals,2020,8,crd
+Arizona Cardinals,2021,12,crd
+Arizona Cardinals,2022,13,crd
+Arizona Cardinals,2023,14,crd
+Arizona Cardinals,2024,11,crd
+Atlanta Falcons,1990,4,atl
+Atlanta Falcons,1991,6,atl
+Atlanta Falcons,1992,8,atl
+Atlanta Falcons,1993,6,atl
+Atlanta Falcons,1993,10,atl
+Atlanta Falcons,1994,9,atl
+Atlanta Falcons,1995,6,atl
+Atlanta Falcons,1996,3,atl
+Atlanta Falcons,1997,6,atl
+Atlanta Falcons,1998,3,atl
+Atlanta Falcons,1999,10,atl
+Atlanta Falcons,2000,15,atl
+Atlanta Falcons,2001,7,atl
+Atlanta Falcons,2002,4,atl
+Atlanta Falcons,2003,8,atl
+Atlanta Falcons,2004,9,atl
+Atlanta Falcons,2005,8,atl
+Atlanta Falcons,2006,5,atl
+Atlanta Falcons,2007,8,atl
+Atlanta Falcons,2008,7,atl
+Atlanta Falcons,2009,4,atl
+Atlanta Falcons,2010,8,atl
+Atlanta Falcons,2011,8,atl
+Atlanta Falcons,2012,7,atl
+Atlanta Falcons,2013,6,atl
+Atlanta Falcons,2014,9,atl
+Atlanta Falcons,2015,10,atl
+Atlanta Falcons,2016,11,atl
+Atlanta Falcons,2017,5,atl
+Atlanta Falcons,2018,8,atl
+Atlanta Falcons,2019,9,atl
+Atlanta Falcons,2020,10,atl
+Atlanta Falcons,2021,6,atl
+Atlanta Falcons,2022,14,atl
+Atlanta Falcons,2023,11,atl
+Atlanta Falcons,2024,12,atl
+Baltimore Ravens,1996,4,rav
+Baltimore Ravens,1997,7,rav
+Baltimore Ravens,1998,5,rav
+Baltimore Ravens,1999,6,rav
+Baltimore Ravens,2000,14,rav
+Baltimore Ravens,2001,13,rav
+Baltimore Ravens,2002,3,rav
+Baltimore Ravens,2003,5,rav
+Baltimore Ravens,2004,6,rav
+Baltimore Ravens,2005,3,rav
+Baltimore Ravens,2006,7,rav
+Baltimore Ravens,2007,8,rav
+Baltimore Ravens,2008,2,rav
+Baltimore Ravens,2009,7,rav
+Baltimore Ravens,2010,8,rav
+Baltimore Ravens,2011,5,rav
+Baltimore Ravens,2012,8,rav
+Baltimore Ravens,2013,8,rav
+Baltimore Ravens,2014,11,rav
+Baltimore Ravens,2015,9,rav
+Baltimore Ravens,2016,8,rav
+Baltimore Ravens,2017,10,rav
+Baltimore Ravens,2018,10,rav
+Baltimore Ravens,2019,8,rav
+Baltimore Ravens,2020,7,rav
+Baltimore Ravens,2021,8,rav
+Baltimore Ravens,2022,10,rav
+Baltimore Ravens,2023,13,rav
+Baltimore Ravens,2024,14,rav
+Buffalo Bills,1990,6,buf
+Buffalo Bills,1991,9,buf
+Buffalo Bills,1992,7,buf
+Buffalo Bills,1993,3,buf
+Buffalo Bills,1993,7,buf
+Buffalo Bills,1994,8,buf
+Buffalo Bills,1995,4,buf
+Buffalo Bills,1996,5,buf
+Buffalo Bills,1997,5,buf
+Buffalo Bills,1998,4,buf
+Buffalo Bills,1999,13,buf
+Buffalo Bills,2000,4,buf
+Buffalo Bills,2001,5,buf
+Buffalo Bills,2002,10,buf
+Buffalo Bills,2003,9,buf
+Buffalo Bills,2004,3,buf
+Buffalo Bills,2005,9,buf
+Buffalo Bills,2006,8,buf
+Buffalo Bills,2007,6,buf
+Buffalo Bills,2008,6,buf
+Buffalo Bills,2009,9,buf
+Buffalo Bills,2010,6,buf
+Buffalo Bills,2011,7,buf
+Buffalo Bills,2012,8,buf
+Buffalo Bills,2013,12,buf
+Buffalo Bills,2014,9,buf
+Buffalo Bills,2015,8,buf
+Buffalo Bills,2016,10,buf
+Buffalo Bills,2017,6,buf
+Buffalo Bills,2018,11,buf
+Buffalo Bills,2019,6,buf
+Buffalo Bills,2020,11,buf
+Buffalo Bills,2021,7,buf
+Buffalo Bills,2022,7,buf
+Buffalo Bills,2023,13,buf
+Buffalo Bills,2024,12,buf
+Carolina Panthers,1995,4,car
+Carolina Panthers,1996,3,car
+Carolina Panthers,1997,6,car
+Carolina Panthers,1998,3,car
+Carolina Panthers,1999,5,car
+Carolina Panthers,2000,4,car
+Carolina Panthers,2001,14,car
+Carolina Panthers,2002,9,car
+Carolina Panthers,2003,3,car
+Carolina Panthers,2004,3,car
+Carolina Panthers,2005,7,car
+Carolina Panthers,2006,9,car
+Carolina Panthers,2007,7,car
+Carolina Panthers,2008,9,car
+Carolina Panthers,2009,4,car
+Carolina Panthers,2010,6,car
+Carolina Panthers,2011,9,car
+Carolina Panthers,2012,6,car
+Carolina Panthers,2013,4,car
+Carolina Panthers,2014,12,car
+Carolina Panthers,2015,5,car
+Carolina Panthers,2016,7,car
+Carolina Panthers,2017,11,car
+Carolina Panthers,2018,4,car
+Carolina Panthers,2019,7,car
+Carolina Panthers,2020,13,car
+Carolina Panthers,2021,13,car
+Carolina Panthers,2022,13,car
+Carolina Panthers,2023,7,car
+Carolina Panthers,2024,11,car
+Chicago Bears,1990,7,chi
+Chicago Bears,1991,7,chi
+Chicago Bears,1992,6,chi
+Chicago Bears,1993,3,chi
+Chicago Bears,1993,7,chi
+Chicago Bears,1994,7,chi
+Chicago Bears,1995,5,chi
+Chicago Bears,1996,8,chi
+Chicago Bears,1997,8,chi
+Chicago Bears,1998,9,chi
+Chicago Bears,1999,14,chi
+Chicago Bears,2000,9,chi
+Chicago Bears,2001,3,chi
+Chicago Bears,2002,6,chi
+Chicago Bears,2003,3,chi
+Chicago Bears,2004,5,chi
+Chicago Bears,2005,4,chi
+Chicago Bears,2006,7,chi
+Chicago Bears,2007,9,chi
+Chicago Bears,2008,8,chi
+Chicago Bears,2009,5,chi
+Chicago Bears,2010,8,chi
+Chicago Bears,2011,8,chi
+Chicago Bears,2012,6,chi
+Chicago Bears,2013,8,chi
+Chicago Bears,2014,9,chi
+Chicago Bears,2015,7,chi
+Chicago Bears,2016,9,chi
+Chicago Bears,2017,9,chi
+Chicago Bears,2018,5,chi
+Chicago Bears,2019,6,chi
+Chicago Bears,2020,11,chi
+Chicago Bears,2021,10,chi
+Chicago Bears,2022,14,chi
+Chicago Bears,2023,13,chi
+Chicago Bears,2024,7,chi
+Cincinnati Bengals,1990,10,cin
+Cincinnati Bengals,1991,5,cin
+Cincinnati Bengals,1992,5,cin
+Cincinnati Bengals,1993,5,cin
+Cincinnati Bengals,1993,9,cin
+Cincinnati Bengals,1994,6,cin
+Cincinnati Bengals,1995,7,cin
+Cincinnati Bengals,1996,4,cin
+Cincinnati Bengals,1997,3,cin
+Cincinnati Bengals,1998,5,cin
+Cincinnati Bengals,1999,15,cin
+Cincinnati Bengals,2000,1,cin
+Cincinnati Bengals,2001,8,cin
+Cincinnati Bengals,2002,7,cin
+Cincinnati Bengals,2003,6,cin
+Cincinnati Bengals,2004,5,cin
+Cincinnati Bengals,2005,10,cin
+Cincinnati Bengals,2006,5,cin
+Cincinnati Bengals,2007,5,cin
+Cincinnati Bengals,2008,10,cin
+Cincinnati Bengals,2009,8,cin
+Cincinnati Bengals,2010,6,cin
+Cincinnati Bengals,2011,7,cin
+Cincinnati Bengals,2012,8,cin
+Cincinnati Bengals,2013,12,cin
+Cincinnati Bengals,2014,4,cin
+Cincinnati Bengals,2015,7,cin
+Cincinnati Bengals,2016,9,cin
+Cincinnati Bengals,2017,6,cin
+Cincinnati Bengals,2018,9,cin
+Cincinnati Bengals,2019,9,cin
+Cincinnati Bengals,2020,9,cin
+Cincinnati Bengals,2021,10,cin
+Cincinnati Bengals,2022,10,cin
+Cincinnati Bengals,2023,7,cin
+Cincinnati Bengals,2024,12,cin
+Cleveland Browns,1990,10,cle
+Cleveland Browns,1991,5,cle
+Cleveland Browns,1992,5,cle
+Cleveland Browns,1993,5,cle
+Cleveland Browns,1993,9,cle
+Cleveland Browns,1994,6,cle
+Cleveland Browns,1995,7,cle
+Cleveland Browns,1999,17,cle
+Cleveland Browns,2000,17,cle
+Cleveland Browns,2001,7,cle
+Cleveland Browns,2002,10,cle
+Cleveland Browns,2003,9,cle
+Cleveland Browns,2004,8,cle
+Cleveland Browns,2005,4,cle
+Cleveland Browns,2006,6,cle
+Cleveland Browns,2007,7,cle
+Cleveland Browns,2008,5,cle
+Cleveland Browns,2009,9,cle
+Cleveland Browns,2010,8,cle
+Cleveland Browns,2011,5,cle
+Cleveland Browns,2012,10,cle
+Cleveland Browns,2013,10,cle
+Cleveland Browns,2014,4,cle
+Cleveland Browns,2015,11,cle
+Cleveland Browns,2016,13,cle
+Cleveland Browns,2017,9,cle
+Cleveland Browns,2018,11,cle
+Cleveland Browns,2019,7,cle
+Cleveland Browns,2020,9,cle
+Cleveland Browns,2021,13,cle
+Cleveland Browns,2022,9,cle
+Cleveland Browns,2023,5,cle
+Cleveland Browns,2024,10,cle
+Dallas Cowboys,1990,14,dal
+Dallas Cowboys,1991,8,dal
+Dallas Cowboys,1992,4,dal
+Dallas Cowboys,1993,4,dal
+Dallas Cowboys,1993,8,dal
+Dallas Cowboys,1994,4,dal
+Dallas Cowboys,1995,8,dal
+Dallas Cowboys,1996,6,dal
+Dallas Cowboys,1997,4,dal
+Dallas Cowboys,1998,8,dal
+Dallas Cowboys,1999,3,dal
+Dallas Cowboys,2000,6,dal
+Dallas Cowboys,2001,6,dal
+Dallas Cowboys,2002,10,dal
+Dallas Cowboys,2003,3,dal
+Dallas Cowboys,2004,4,dal
+Dallas Cowboys,2005,9,dal
+Dallas Cowboys,2006,3,dal
+Dallas Cowboys,2007,8,dal
+Dallas Cowboys,2008,10,dal
+Dallas Cowboys,2009,6,dal
+Dallas Cowboys,2010,4,dal
+Dallas Cowboys,2011,5,dal
+Dallas Cowboys,2012,5,dal
+Dallas Cowboys,2013,11,dal
+Dallas Cowboys,2014,11,dal
+Dallas Cowboys,2015,6,dal
+Dallas Cowboys,2016,7,dal
+Dallas Cowboys,2017,6,dal
+Dallas Cowboys,2018,8,dal
+Dallas Cowboys,2019,8,dal
+Dallas Cowboys,2020,10,dal
+Dallas Cowboys,2021,7,dal
+Dallas Cowboys,2022,9,dal
+Dallas Cowboys,2023,7,dal
+Dallas Cowboys,2024,7,dal
+Denver Broncos,1990,8,den
+Denver Broncos,1991,7,den
+Denver Broncos,1992,9,den
+Denver Broncos,1993,4,den
+Denver Broncos,1993,8,den
+Denver Broncos,1994,5,den
+Denver Broncos,1995,9,den
+Denver Broncos,1996,7,den
+Denver Broncos,1997,7,den
+Denver Broncos,1998,7,den
+Denver Broncos,1999,12,den
+Denver Broncos,2000,9,den
+Denver Broncos,2001,15,den
+Denver Broncos,2002,9,den
+Denver Broncos,2003,10,den
+Denver Broncos,2004,10,den
+Denver Broncos,2005,9,den
+Denver Broncos,2006,4,den
+Denver Broncos,2007,6,den
+Denver Broncos,2008,8,den
+Denver Broncos,2009,7,den
+Denver Broncos,2010,9,den
+Denver Broncos,2011,6,den
+Denver Broncos,2012,7,den
+Denver Broncos,2013,9,den
+Denver Broncos,2014,4,den
+Denver Broncos,2015,7,den
+Denver Broncos,2016,11,den
+Denver Broncos,2017,5,den
+Denver Broncos,2018,10,den
+Denver Broncos,2019,10,den
+Denver Broncos,2020,5,den
+Denver Broncos,2021,11,den
+Denver Broncos,2022,9,den
+Denver Broncos,2023,9,den
+Denver Broncos,2024,14,den
+Detroit Lions,1990,7,det
+Detroit Lions,1991,7,det
+Detroit Lions,1992,6,det
+Detroit Lions,1993,6,det
+Detroit Lions,1993,11,det
+Detroit Lions,1994,7,det
+Detroit Lions,1995,5,det
+Detroit Lions,1996,8,det
+Detroit Lions,1997,9,det
+Detroit Lions,1998,6,det
+Detroit Lions,1999,4,det
+Detroit Lions,2000,7,det
+Detroit Lions,2001,3,det
+Detroit Lions,2002,5,det
+Detroit Lions,2003,6,det
+Detroit Lions,2004,4,det
+Detroit Lions,2005,3,det
+Detroit Lions,2006,8,det
+Detroit Lions,2007,6,det
+Detroit Lions,2008,4,det
+Detroit Lions,2009,7,det
+Detroit Lions,2010,7,det
+Detroit Lions,2011,9,det
+Detroit Lions,2012,5,det
+Detroit Lions,2013,9,det
+Detroit Lions,2014,9,det
+Detroit Lions,2015,9,det
+Detroit Lions,2016,10,det
+Detroit Lions,2017,7,det
+Detroit Lions,2018,6,det
+Detroit Lions,2019,5,det
+Detroit Lions,2020,5,det
+Detroit Lions,2021,9,det
+Detroit Lions,2022,6,det
+Detroit Lions,2023,9,det
+Detroit Lions,2024,5,det
+Green Bay Packers,1990,7,gnb
+Green Bay Packers,1991,7,gnb
+Green Bay Packers,1992,6,gnb
+Green Bay Packers,1993,3,gnb
+Green Bay Packers,1993,7,gnb
+Green Bay Packers,1994,7,gnb
+Green Bay Packers,1995,5,gnb
+Green Bay Packers,1996,8,gnb
+Green Bay Packers,1997,8,gnb
+Green Bay Packers,1998,6,gnb
+Green Bay Packers,1999,4,gnb
+Green Bay Packers,2000,8,gnb
+Green Bay Packers,2001,7,gnb
+Green Bay Packers,2002,8,gnb
+Green Bay Packers,2003,8,gnb
+Green Bay Packers,2004,9,gnb
+Green Bay Packers,2005,6,gnb
+Green Bay Packers,2006,6,gnb
+Green Bay Packers,2007,7,gnb
+Green Bay Packers,2008,8,gnb
+Green Bay Packers,2009,5,gnb
+Green Bay Packers,2010,10,gnb
+Green Bay Packers,2011,8,gnb
+Green Bay Packers,2012,10,gnb
+Green Bay Packers,2013,4,gnb
+Green Bay Packers,2014,9,gnb
+Green Bay Packers,2015,7,gnb
+Green Bay Packers,2016,4,gnb
+Green Bay Packers,2017,8,gnb
+Green Bay Packers,2018,7,gnb
+Green Bay Packers,2019,11,gnb
+Green Bay Packers,2020,5,gnb
+Green Bay Packers,2021,13,gnb
+Green Bay Packers,2022,14,gnb
+Green Bay Packers,2023,6,gnb
+Green Bay Packers,2024,10,gnb
+Houston Texans,2002,5,htx
+Houston Texans,2003,5,htx
+Houston Texans,2004,7,htx
+Houston Texans,2005,3,htx
+Houston Texans,2006,5,htx
+Houston Texans,2007,10,htx
+Houston Texans,2008,2,htx
+Houston Texans,2009,10,htx
+Houston Texans,2010,7,htx
+Houston Texans,2011,11,htx
+Houston Texans,2012,8,htx
+Houston Texans,2013,8,htx
+Houston Texans,2014,10,htx
+Houston Texans,2015,9,htx
+Houston Texans,2016,9,htx
+Houston Texans,2017,7,htx
+Houston Texans,2018,10,htx
+Houston Texans,2019,10,htx
+Houston Texans,2020,8,htx
+Houston Texans,2021,10,htx
+Houston Texans,2022,6,htx
+Houston Texans,2023,7,htx
+Houston Texans,2024,14,htx
+Indianapolis Colts,1990,6,clt
+Indianapolis Colts,1991,9,clt
+Indianapolis Colts,1992,4,clt
+Indianapolis Colts,1993,3,clt
+Indianapolis Colts,1993,7,clt
+Indianapolis Colts,1994,11,clt
+Indianapolis Colts,1995,4,clt
+Indianapolis Colts,1996,5,clt
+Indianapolis Colts,1997,5,clt
+Indianapolis Colts,1998,8,clt
+Indianapolis Colts,1999,4,clt
+Indianapolis Colts,2000,3,clt
+Indianapolis Colts,2001,4,clt
+Indianapolis Colts,2002,4,clt
+Indianapolis Colts,2003,7,clt
+Indianapolis Colts,2004,6,clt
+Indianapolis Colts,2005,8,clt
+Indianapolis Colts,2006,6,clt
+Indianapolis Colts,2007,6,clt
+Indianapolis Colts,2008,4,clt
+Indianapolis Colts,2009,6,clt
+Indianapolis Colts,2010,7,clt
+Indianapolis Colts,2011,11,clt
+Indianapolis Colts,2012,4,clt
+Indianapolis Colts,2013,8,clt
+Indianapolis Colts,2014,10,clt
+Indianapolis Colts,2015,10,clt
+Indianapolis Colts,2016,10,clt
+Indianapolis Colts,2017,11,clt
+Indianapolis Colts,2018,9,clt
+Indianapolis Colts,2019,6,clt
+Indianapolis Colts,2020,7,clt
+Indianapolis Colts,2021,14,clt
+Indianapolis Colts,2022,14,clt
+Indianapolis Colts,2023,11,clt
+Indianapolis Colts,2024,14,clt
+Jacksonville Jaguars,1995,10,jax
+Jacksonville Jaguars,1996,10,jax
+Jacksonville Jaguars,1997,3,jax
+Jacksonville Jaguars,1998,5,jax
+Jacksonville Jaguars,1999,7,jax
+Jacksonville Jaguars,2000,10,jax
+Jacksonville Jaguars,2001,5,jax
+Jacksonville Jaguars,2002,3,jax
+Jacksonville Jaguars,2003,7,jax
+Jacksonville Jaguars,2004,9,jax
+Jacksonville Jaguars,2005,7,jax
+Jacksonville Jaguars,2006,6,jax
+Jacksonville Jaguars,2007,4,jax
+Jacksonville Jaguars,2008,7,jax
+Jacksonville Jaguars,2009,7,jax
+Jacksonville Jaguars,2010,9,jax
+Jacksonville Jaguars,2011,9,jax
+Jacksonville Jaguars,2012,6,jax
+Jacksonville Jaguars,2013,9,jax
+Jacksonville Jaguars,2014,11,jax
+Jacksonville Jaguars,2015,8,jax
+Jacksonville Jaguars,2016,5,jax
+Jacksonville Jaguars,2017,8,jax
+Jacksonville Jaguars,2018,9,jax
+Jacksonville Jaguars,2019,10,jax
+Jacksonville Jaguars,2020,8,jax
+Jacksonville Jaguars,2021,7,jax
+Jacksonville Jaguars,2022,11,jax
+Jacksonville Jaguars,2023,9,jax
+Jacksonville Jaguars,2024,12,jax
+Kansas City Chiefs,1990,8,kan
+Kansas City Chiefs,1991,10,kan
+Kansas City Chiefs,1992,9,kan
+Kansas City Chiefs,1993,4,kan
+Kansas City Chiefs,1993,8,kan
+Kansas City Chiefs,1994,5,kan
+Kansas City Chiefs,1995,9,kan
+Kansas City Chiefs,1996,7,kan
+Kansas City Chiefs,1997,7,kan
+Kansas City Chiefs,1998,7,kan
+Kansas City Chiefs,1999,6,kan
+Kansas City Chiefs,2000,6,kan
+Kansas City Chiefs,2001,10,kan
+Kansas City Chiefs,2002,9,kan
+Kansas City Chiefs,2003,9,kan
+Kansas City Chiefs,2004,5,kan
+Kansas City Chiefs,2005,5,kan
+Kansas City Chiefs,2006,3,kan
+Kansas City Chiefs,2007,8,kan
+Kansas City Chiefs,2008,6,kan
+Kansas City Chiefs,2009,8,kan
+Kansas City Chiefs,2010,4,kan
+Kansas City Chiefs,2011,6,kan
+Kansas City Chiefs,2012,7,kan
+Kansas City Chiefs,2013,10,kan
+Kansas City Chiefs,2014,6,kan
+Kansas City Chiefs,2015,9,kan
+Kansas City Chiefs,2016,5,kan
+Kansas City Chiefs,2017,10,kan
+Kansas City Chiefs,2018,12,kan
+Kansas City Chiefs,2019,12,kan
+Kansas City Chiefs,2020,10,kan
+Kansas City Chiefs,2021,12,kan
+Kansas City Chiefs,2022,8,kan
+Kansas City Chiefs,2023,10,kan
+Kansas City Chiefs,2024,6,kan
+San Diego Chargers,1990,14,sdg
+San Diego Chargers,1991,10,sdg
+San Diego Chargers,1992,6,sdg
+San Diego Chargers,1993,4,sdg
+San Diego Chargers,1993,8,sdg
+San Diego Chargers,1994,5,sdg
+San Diego Chargers,1995,9,sdg
+San Diego Chargers,1996,7,sdg
+San Diego Chargers,1997,7,sdg
+San Diego Chargers,1998,9,sdg
+San Diego Chargers,1999,1,sdg
+San Diego Chargers,2000,8,sdg
+San Diego Chargers,2001,17,sdg
+San Diego Chargers,2002,8,sdg
+San Diego Chargers,2003,6,sdg
+San Diego Chargers,2004,10,sdg
+San Diego Chargers,2005,10,sdg
+San Diego Chargers,2006,3,sdg
+San Diego Chargers,2007,7,sdg
+San Diego Chargers,2008,9,sdg
+San Diego Chargers,2009,5,sdg
+San Diego Chargers,2010,10,sdg
+San Diego Chargers,2011,6,sdg
+San Diego Chargers,2012,7,sdg
+San Diego Chargers,2013,8,sdg
+San Diego Chargers,2014,10,sdg
+San Diego Chargers,2015,10,sdg
+San Diego Chargers,2016,11,sdg
+Los Angeles Chargers,2017,9,sdg
+Los Angeles Chargers,2018,8,sdg
+Los Angeles Chargers,2019,12,sdg
+Los Angeles Chargers,2020,6,sdg
+Los Angeles Chargers,2021,7,sdg
+Los Angeles Chargers,2022,8,sdg
+Los Angeles Chargers,2023,5,sdg
+Los Angeles Chargers,2024,5,sdg
+Los Angeles Rams,1990,4,ram
+Los Angeles Rams,1991,6,ram
+Los Angeles Rams,1992,8,ram
+Los Angeles Rams,1993,6,ram
+Los Angeles Rams,1993,10,ram
+Los Angeles Rams,1994,9,ram
+St. Louis Rams,1995,6,ram
+St. Louis Rams,1996,3,ram
+St. Louis Rams,1997,6,ram
+St. Louis Rams,1998,5,ram
+St. Louis Rams,1999,2,ram
+St. Louis Rams,2000,6,ram
+St. Louis Rams,2001,8,ram
+St. Louis Rams,2002,8,ram
+St. Louis Rams,2003,5,ram
+St. Louis Rams,2004,8,ram
+St. Louis Rams,2005,9,ram
+St. Louis Rams,2006,7,ram
+St. Louis Rams,2007,9,ram
+St. Louis Rams,2008,5,ram
+St. Louis Rams,2009,9,ram
+St. Louis Rams,2010,9,ram
+St. Louis Rams,2011,5,ram
+St. Louis Rams,2012,9,ram
+St. Louis Rams,2013,11,ram
+St. Louis Rams,2014,4,ram
+St. Louis Rams,2015,6,ram
+Los Angeles Rams,2016,8,ram
+Los Angeles Rams,2017,8,ram
+Los Angeles Rams,2018,12,ram
+Los Angeles Rams,2019,9,ram
+Los Angeles Rams,2020,9,ram
+Los Angeles Rams,2021,11,ram
+Los Angeles Rams,2022,7,ram
+Los Angeles Rams,2023,10,ram
+Los Angeles Rams,2024,6,ram
+Miami Dolphins,1990,6,mia
+Miami Dolphins,1991,9,mia
+Miami Dolphins,1992,1,mia
+Miami Dolphins,1993,3,mia
+Miami Dolphins,1993,7,mia
+Miami Dolphins,1994,8,mia
+Miami Dolphins,1995,4,mia
+Miami Dolphins,1996,5,mia
+Miami Dolphins,1997,5,mia
+Miami Dolphins,1998,4,mia
+Miami Dolphins,1999,3,mia
+Miami Dolphins,2000,7,mia
+Miami Dolphins,2001,6,mia
+Miami Dolphins,2002,8,mia
+Miami Dolphins,2003,4,mia
+Miami Dolphins,2004,10,mia
+Miami Dolphins,2005,4,mia
+Miami Dolphins,2006,8,mia
+Miami Dolphins,2007,9,mia
+Miami Dolphins,2008,4,mia
+Miami Dolphins,2009,6,mia
+Miami Dolphins,2010,5,mia
+Miami Dolphins,2011,5,mia
+Miami Dolphins,2012,7,mia
+Miami Dolphins,2013,6,mia
+Miami Dolphins,2014,5,mia
+Miami Dolphins,2015,5,mia
+Miami Dolphins,2016,8,mia
+Miami Dolphins,2017,1,mia
+Miami Dolphins,2018,11,mia
+Miami Dolphins,2019,5,mia
+Miami Dolphins,2020,7,mia
+Miami Dolphins,2021,14,mia
+Miami Dolphins,2022,11,mia
+Miami Dolphins,2023,10,mia
+Miami Dolphins,2024,6,mia
+Minnesota Vikings,1990,7,min
+Minnesota Vikings,1991,14,min
+Minnesota Vikings,1992,6,min
+Minnesota Vikings,1993,3,min
+Minnesota Vikings,1993,7,min
+Minnesota Vikings,1994,7,min
+Minnesota Vikings,1995,5,min
+Minnesota Vikings,1996,8,min
+Minnesota Vikings,1997,8,min
+Minnesota Vikings,1998,6,min
+Minnesota Vikings,1999,11,min
+Minnesota Vikings,2000,4,min
+Minnesota Vikings,2001,8,min
+Minnesota Vikings,2002,5,min
+Minnesota Vikings,2003,6,min
+Minnesota Vikings,2004,4,min
+Minnesota Vikings,2005,5,min
+Minnesota Vikings,2006,6,min
+Minnesota Vikings,2007,5,min
+Minnesota Vikings,2008,8,min
+Minnesota Vikings,2009,9,min
+Minnesota Vikings,2010,4,min
+Minnesota Vikings,2011,9,min
+Minnesota Vikings,2012,11,min
+Minnesota Vikings,2013,5,min
+Minnesota Vikings,2014,10,min
+Minnesota Vikings,2015,5,min
+Minnesota Vikings,2016,6,min
+Minnesota Vikings,2017,9,min
+Minnesota Vikings,2018,10,min
+Minnesota Vikings,2019,12,min
+Minnesota Vikings,2020,7,min
+Minnesota Vikings,2021,7,min
+Minnesota Vikings,2022,7,min
+Minnesota Vikings,2023,13,min
+Minnesota Vikings,2024,6,min
+New England Patriots,1990,6,nwe
+New England Patriots,1991,7,nwe
+New England Patriots,1992,1,nwe
+New England Patriots,1993,5,nwe
+New England Patriots,1993,11,nwe
+New England Patriots,1994,8,nwe
+New England Patriots,1995,4,nwe
+New England Patriots,1996,5,nwe
+New England Patriots,1997,5,nwe
+New England Patriots,1998,4,nwe
+New England Patriots,1999,9,nwe
+New England Patriots,2000,9,nwe
+New England Patriots,2001,16,nwe
+New England Patriots,2002,7,nwe
+New England Patriots,2003,10,nwe
+New England Patriots,2004,3,nwe
+New England Patriots,2005,7,nwe
+New England Patriots,2006,6,nwe
+New England Patriots,2007,10,nwe
+New England Patriots,2008,4,nwe
+New England Patriots,2009,8,nwe
+New England Patriots,2010,5,nwe
+New England Patriots,2011,7,nwe
+New England Patriots,2012,9,nwe
+New England Patriots,2013,10,nwe
+New England Patriots,2014,10,nwe
+New England Patriots,2015,4,nwe
+New England Patriots,2016,9,nwe
+New England Patriots,2017,9,nwe
+New England Patriots,2018,11,nwe
+New England Patriots,2019,10,nwe
+New England Patriots,2020,5,nwe
+New England Patriots,2021,14,nwe
+New England Patriots,2022,10,nwe
+New England Patriots,2023,11,nwe
+New England Patriots,2024,14,nwe
+New Orleans Saints,1990,4,nor
+New Orleans Saints,1991,6,nor
+New Orleans Saints,1992,8,nor
+New Orleans Saints,1993,6,nor
+New Orleans Saints,1993,10,nor
+New Orleans Saints,1994,9,nor
+New Orleans Saints,1995,6,nor
+New Orleans Saints,1996,9,nor
+New Orleans Saints,1997,10,nor
+New Orleans Saints,1998,3,nor
+New Orleans Saints,1999,3,nor
+New Orleans Saints,2000,5,nor
+New Orleans Saints,2001,2,nor
+New Orleans Saints,2002,9,nor
+New Orleans Saints,2003,10,nor
+New Orleans Saints,2004,8,nor
+New Orleans Saints,2005,10,nor
+New Orleans Saints,2006,7,nor
+New Orleans Saints,2007,4,nor
+New Orleans Saints,2008,9,nor
+New Orleans Saints,2009,5,nor
+New Orleans Saints,2010,10,nor
+New Orleans Saints,2011,11,nor
+New Orleans Saints,2012,6,nor
+New Orleans Saints,2013,7,nor
+New Orleans Saints,2014,6,nor
+New Orleans Saints,2015,11,nor
+New Orleans Saints,2016,5,nor
+New Orleans Saints,2017,5,nor
+New Orleans Saints,2018,6,nor
+New Orleans Saints,2019,9,nor
+New Orleans Saints,2020,6,nor
+New Orleans Saints,2021,6,nor
+New Orleans Saints,2022,14,nor
+New Orleans Saints,2023,11,nor
+New Orleans Saints,2024,12,nor
+New York Giants,1990,5,nyg
+New York Giants,1991,8,nyg
+New York Giants,1992,4,nyg
+New York Giants,1993,4,nyg
+New York Giants,1993,8,nyg
+New York Giants,1994,4,nyg
+New York Giants,1995,8,nyg
+New York Giants,1996,6,nyg
+New York Giants,1997,10,nyg
+New York Giants,1998,8,nyg
+New York Giants,1999,9,nyg
+New York Giants,2000,8,nyg
+New York Giants,2001,12,nyg
+New York Giants,2002,7,nyg
+New York Giants,2003,4,nyg
+New York Giants,2004,6,nyg
+New York Giants,2005,5,nyg
+New York Giants,2006,4,nyg
+New York Giants,2007,9,nyg
+New York Giants,2008,4,nyg
+New York Giants,2009,10,nyg
+New York Giants,2010,8,nyg
+New York Giants,2011,7,nyg
+New York Giants,2012,11,nyg
+New York Giants,2013,9,nyg
+New York Giants,2014,8,nyg
+New York Giants,2015,11,nyg
+New York Giants,2016,8,nyg
+New York Giants,2017,8,nyg
+New York Giants,2018,9,nyg
+New York Giants,2019,11,nyg
+New York Giants,2020,11,nyg
+New York Giants,2021,10,nyg
+New York Giants,2022,9,nyg
+New York Giants,2023,13,nyg
+New York Giants,2024,11,nyg
+New York Jets,1990,14,nyj
+New York Jets,1991,9,nyj
+New York Jets,1992,7,nyj
+New York Jets,1993,3,nyj
+New York Jets,1993,7,nyj
+New York Jets,1994,8,nyj
+New York Jets,1995,11,nyj
+New York Jets,1996,10,nyj
+New York Jets,1997,9,nyj
+New York Jets,1998,4,nyj
+New York Jets,1999,8,nyj
+New York Jets,2000,5,nyj
+New York Jets,2001,11,nyj
+New York Jets,2002,6,nyj
+New York Jets,2003,5,nyj
+New York Jets,2004,3,nyj
+New York Jets,2005,8,nyj
+New York Jets,2006,9,nyj
+New York Jets,2007,10,nyj
+New York Jets,2008,5,nyj
+New York Jets,2009,9,nyj
+New York Jets,2010,7,nyj
+New York Jets,2011,8,nyj
+New York Jets,2012,9,nyj
+New York Jets,2013,10,nyj
+New York Jets,2014,11,nyj
+New York Jets,2015,5,nyj
+New York Jets,2016,11,nyj
+New York Jets,2017,11,nyj
+New York Jets,2018,11,nyj
+New York Jets,2019,4,nyj
+New York Jets,2020,10,nyj
+New York Jets,2021,6,nyj
+New York Jets,2022,10,nyj
+New York Jets,2023,7,nyj
+New York Jets,2024,12,nyj
+Philadelphia Eagles,1990,5,phi
+Philadelphia Eagles,1991,8,phi
+Philadelphia Eagles,1992,4,phi
+Philadelphia Eagles,1993,4,phi
+Philadelphia Eagles,1993,8,phi
+Philadelphia Eagles,1994,4,phi
+Philadelphia Eagles,1995,8,phi
+Philadelphia Eagles,1996,6,phi
+Philadelphia Eagles,1997,4,phi
+Philadelphia Eagles,1998,8,phi
+Philadelphia Eagles,1999,16,phi
+Philadelphia Eagles,2000,16,phi
+Philadelphia Eagles,2001,5,phi
+Philadelphia Eagles,2002,6,phi
+Philadelphia Eagles,2003,3,phi
+Philadelphia Eagles,2004,5,phi
+Philadelphia Eagles,2005,6,phi
+Philadelphia Eagles,2006,9,phi
+Philadelphia Eagles,2007,5,phi
+Philadelphia Eagles,2008,7,phi
+Philadelphia Eagles,2009,4,phi
+Philadelphia Eagles,2010,8,phi
+Philadelphia Eagles,2011,7,phi
+Philadelphia Eagles,2012,7,phi
+Philadelphia Eagles,2013,12,phi
+Philadelphia Eagles,2014,7,phi
+Philadelphia Eagles,2015,8,phi
+Philadelphia Eagles,2016,4,phi
+Philadelphia Eagles,2017,10,phi
+Philadelphia Eagles,2018,9,phi
+Philadelphia Eagles,2019,10,phi
+Philadelphia Eagles,2020,9,phi
+Philadelphia Eagles,2021,14,phi
+Philadelphia Eagles,2022,7,phi
+Philadelphia Eagles,2023,10,phi
+Philadelphia Eagles,2024,5,phi
+Pittsburgh Steelers,1990,10,pit
+Pittsburgh Steelers,1991,5,pit
+Pittsburgh Steelers,1992,5,pit
+Pittsburgh Steelers,1993,5,pit
+Pittsburgh Steelers,1993,9,pit
+Pittsburgh Steelers,1994,6,pit
+Pittsburgh Steelers,1995,7,pit
+Pittsburgh Steelers,1996,4,pit
+Pittsburgh Steelers,1997,3,pit
+Pittsburgh Steelers,1998,5,pit
+Pittsburgh Steelers,1999,8,pit
+Pittsburgh Steelers,2000,2,pit
+Pittsburgh Steelers,2001,1,pit
+Pittsburgh Steelers,2002,3,pit
+Pittsburgh Steelers,2003,7,pit
+Pittsburgh Steelers,2004,7,pit
+Pittsburgh Steelers,2005,4,pit
+Pittsburgh Steelers,2006,4,pit
+Pittsburgh Steelers,2007,6,pit
+Pittsburgh Steelers,2008,6,pit
+Pittsburgh Steelers,2009,8,pit
+Pittsburgh Steelers,2010,5,pit
+Pittsburgh Steelers,2011,11,pit
+Pittsburgh Steelers,2012,4,pit
+Pittsburgh Steelers,2013,5,pit
+Pittsburgh Steelers,2014,12,pit
+Pittsburgh Steelers,2015,11,pit
+Pittsburgh Steelers,2016,8,pit
+Pittsburgh Steelers,2017,9,pit
+Pittsburgh Steelers,2018,7,pit
+Pittsburgh Steelers,2019,7,pit
+Pittsburgh Steelers,2020,4,pit
+Pittsburgh Steelers,2021,7,pit
+Pittsburgh Steelers,2022,9,pit
+Pittsburgh Steelers,2023,6,pit
+Pittsburgh Steelers,2024,9,pit
+San Francisco 49ers,1990,4,sfo
+San Francisco 49ers,1991,6,sfo
+San Francisco 49ers,1992,8,sfo
+San Francisco 49ers,1993,6,sfo
+San Francisco 49ers,1993,10,sfo
+San Francisco 49ers,1994,9,sfo
+San Francisco 49ers,1995,6,sfo
+San Francisco 49ers,1996,3,sfo
+San Francisco 49ers,1997,6,sfo
+San Francisco 49ers,1998,3,sfo
+San Francisco 49ers,1999,8,sfo
+San Francisco 49ers,2000,13,sfo
+San Francisco 49ers,2001,6,sfo
+San Francisco 49ers,2002,4,sfo
+San Francisco 49ers,2003,10,sfo
+San Francisco 49ers,2004,7,sfo
+San Francisco 49ers,2005,6,sfo
+San Francisco 49ers,2006,7,sfo
+San Francisco 49ers,2007,6,sfo
+San Francisco 49ers,2008,9,sfo
+San Francisco 49ers,2009,6,sfo
+San Francisco 49ers,2010,9,sfo
+San Francisco 49ers,2011,7,sfo
+San Francisco 49ers,2012,9,sfo
+San Francisco 49ers,2013,9,sfo
+San Francisco 49ers,2014,8,sfo
+San Francisco 49ers,2015,10,sfo
+San Francisco 49ers,2016,8,sfo
+San Francisco 49ers,2017,11,sfo
+San Francisco 49ers,2018,11,sfo
+San Francisco 49ers,2019,4,sfo
+San Francisco 49ers,2020,11,sfo
+San Francisco 49ers,2021,6,sfo
+San Francisco 49ers,2022,9,sfo
+San Francisco 49ers,2023,9,sfo
+San Francisco 49ers,2024,9,sfo
+Seattle Seahawks,1990,8,sea
+Seattle Seahawks,1991,10,sea
+Seattle Seahawks,1992,9,sea
+Seattle Seahawks,1993,6,sea
+Seattle Seahawks,1993,12,sea
+Seattle Seahawks,1994,7,sea
+Seattle Seahawks,1995,4,sea
+Seattle Seahawks,1996,7,sea
+Seattle Seahawks,1997,7,sea
+Seattle Seahawks,1998,7,sea
+Seattle Seahawks,1999,5,sea
+Seattle Seahawks,2000,12,sea
+Seattle Seahawks,2001,6,sea
+Seattle Seahawks,2002,5,sea
+Seattle Seahawks,2003,4,sea
+Seattle Seahawks,2004,4,sea
+Seattle Seahawks,2005,8,sea
+Seattle Seahawks,2006,5,sea
+Seattle Seahawks,2007,8,sea
+Seattle Seahawks,2008,4,sea
+Seattle Seahawks,2009,7,sea
+Seattle Seahawks,2010,5,sea
+Seattle Seahawks,2011,6,sea
+Seattle Seahawks,2012,11,sea
+Seattle Seahawks,2013,12,sea
+Seattle Seahawks,2014,4,sea
+Seattle Seahawks,2015,9,sea
+Seattle Seahawks,2016,5,sea
+Seattle Seahawks,2017,6,sea
+Seattle Seahawks,2018,7,sea
+Seattle Seahawks,2019,11,sea
+Seattle Seahawks,2020,6,sea
+Seattle Seahawks,2021,9,sea
+Seattle Seahawks,2022,11,sea
+Seattle Seahawks,2023,5,sea
+Seattle Seahawks,2024,10,sea
+Tampa Bay Buccaneers,1990,14,tam
+Tampa Bay Buccaneers,1991,7,tam
+Tampa Bay Buccaneers,1992,6,tam
+Tampa Bay Buccaneers,1993,3,tam
+Tampa Bay Buccaneers,1993,7,tam
+Tampa Bay Buccaneers,1994,7,tam
+Tampa Bay Buccaneers,1995,10,tam
+Tampa Bay Buccaneers,1996,6,tam
+Tampa Bay Buccaneers,1997,8,tam
+Tampa Bay Buccaneers,1998,6,tam
+Tampa Bay Buccaneers,1999,6,tam
+Tampa Bay Buccaneers,2000,7,tam
+Tampa Bay Buccaneers,2001,1,tam
+Tampa Bay Buccaneers,2002,10,tam
+Tampa Bay Buccaneers,2003,4,tam
+Tampa Bay Buccaneers,2004,8,tam
+Tampa Bay Buccaneers,2005,7,tam
+Tampa Bay Buccaneers,2006,4,tam
+Tampa Bay Buccaneers,2007,10,tam
+Tampa Bay Buccaneers,2008,10,tam
+Tampa Bay Buccaneers,2009,8,tam
+Tampa Bay Buccaneers,2010,4,tam
+Tampa Bay Buccaneers,2011,8,tam
+Tampa Bay Buccaneers,2012,5,tam
+Tampa Bay Buccaneers,2013,5,tam
+Tampa Bay Buccaneers,2014,7,tam
+Tampa Bay Buccaneers,2015,6,tam
+Tampa Bay Buccaneers,2016,6,tam
+Tampa Bay Buccaneers,2017,1,tam
+Tampa Bay Buccaneers,2018,5,tam
+Tampa Bay Buccaneers,2019,7,tam
+Tampa Bay Buccaneers,2020,13,tam
+Tampa Bay Buccaneers,2021,9,tam
+Tampa Bay Buccaneers,2022,11,tam
+Tampa Bay Buccaneers,2023,5,tam
+Tampa Bay Buccaneers,2024,11,tam
+Houston Oilers,1990,10,oti
+Houston Oilers,1991,5,oti
+Houston Oilers,1992,5,oti
+Houston Oilers,1993,5,oti
+Houston Oilers,1993,9,oti
+Houston Oilers,1994,6,oti
+Houston Oilers,1995,7,oti
+Houston Oilers,1996,4,oti
+Tennessee Oilers,1997,3,oti
+Tennessee Oilers,1998,5,oti
+Tennessee Titans,1999,7,oti
+Tennessee Titans,2000,3,oti
+Tennessee Titans,2001,3,oti
+Tennessee Titans,2002,7,oti
+Tennessee Titans,2003,9,oti
+Tennessee Titans,2004,9,oti
+Tennessee Titans,2005,10,oti
+Tennessee Titans,2006,7,oti
+Tennessee Titans,2007,4,oti
+Tennessee Titans,2008,6,oti
+Tennessee Titans,2009,7,oti
+Tennessee Titans,2010,9,oti
+Tennessee Titans,2011,6,oti
+Tennessee Titans,2012,11,oti
+Tennessee Titans,2013,8,oti
+Tennessee Titans,2014,9,oti
+Tennessee Titans,2015,4,oti
+Tennessee Titans,2016,13,oti
+Tennessee Titans,2017,8,oti
+Tennessee Titans,2018,8,oti
+Tennessee Titans,2019,11,oti
+Tennessee Titans,2020,4,oti
+Tennessee Titans,2021,13,oti
+Tennessee Titans,2022,6,oti
+Tennessee Titans,2023,7,oti
+Tennessee Titans,2024,5,oti
+Washington Redskins,1990,5,was
+Washington Redskins,1991,8,was
+Washington Redskins,1992,4,was
+Washington Redskins,1993,4,was
+Washington Redskins,1993,8,was
+Washington Redskins,1994,11,was
+Washington Redskins,1995,11,was
+Washington Redskins,1996,6,was
+Washington Redskins,1997,4,was
+Washington Redskins,1998,8,was
+Washington Redskins,1999,5,was
+Washington Redskins,2000,11,was
+Washington Redskins,2001,9,was
+Washington Redskins,2002,4,was
+Washington Redskins,2003,8,was
+Washington Redskins,2004,7,was
+Washington Redskins,2005,3,was
+Washington Redskins,2006,8,was
+Washington Redskins,2007,4,was
+Washington Redskins,2008,10,was
+Washington Redskins,2009,8,was
+Washington Redskins,2010,9,was
+Washington Redskins,2011,5,was
+Washington Redskins,2012,10,was
+Washington Redskins,2013,5,was
+Washington Redskins,2014,10,was
+Washington Redskins,2015,8,was
+Washington Redskins,2016,9,was
+Washington Redskins,2017,5,was
+Washington Redskins,2018,4,was
+Washington Redskins,2019,10,was
+Washington Football Team,2020,8,was
+Washington Football Team,2021,9,was
+Washington Commanders,2022,14,was
+Washington Commanders,2023,14,was
+Washington Commanders,2024,14,was
