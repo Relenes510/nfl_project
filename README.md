@@ -8,6 +8,11 @@ Hello user! I am conducting a case study on NFL Runningback players. They are kn
 I want to find what factors contribute to the player's injuries such as usage, age, experience in the league, etc.
 I want to ultimately be able to create an ML model to predict possible injuries from the upcoming players in the 2025 NFL season!
 
+# LinkedIn Blog Posts:
+- [8/27/25](https://www.linkedin.com/pulse/nflproject-blog-post-82725-rodolfo-elenes-9lxfc/?trackingId=GNbPQPNQF%2F7UJGbvhQxnwA%3D%3D)
+- [9/25/25](https://www.linkedin.com/pulse/nflproject-blog-spot-92525-rodolfo-elenes-ju2qc/?trackingId=FG9gOrpb%2FHS4OhH2airSig%3D%3D)
+- [12/2/2025 Post](https://www.linkedin.com/pulse/nflproject-blog-post-12225-rodolfo-elenes-5kruc/?trackingId=h%2FDxxmlbQtOk5ShsPn6RfQ%3D%3D)
+
 # How I am making this project
 I am currently developing this under jupyter notebook. I am currently planning to use only Python and python packages like pandas.
 I am going to stick with saving the tables as csv files to allow easier reproducibility. I am using duckdb python package to implement SQL!
