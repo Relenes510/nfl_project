@@ -13,6 +13,9 @@ I want to ultimately be able to create an ML model to predict possible injuries 
 - [9/25/25 Post](https://www.linkedin.com/pulse/nflproject-blog-spot-92525-rodolfo-elenes-ju2qc/?trackingId=FG9gOrpb%2FHS4OhH2airSig%3D%3D)
 - [12/2/2025 Post](https://www.linkedin.com/pulse/nflproject-blog-post-12225-rodolfo-elenes-5kruc/?trackingId=h%2FDxxmlbQtOk5ShsPn6RfQ%3D%3D)
 
+# Results
+[ML Table CSV](tables/ml_predictions.csv)
+
 # How I am making this project
 I am currently developing this under jupyter notebook. I am currently planning to use only Python and python packages like pandas.
 I am going to stick with saving the tables as csv files to allow easier reproducibility. I am using duckdb python package to implement SQL!
@@ -44,6 +47,3 @@ I am using github for version controlling and my linkedin to communicate signifi
 - I have been learning how to utility github (I come from Azure DevOps background)
 - I have learned how to manage raw data
 - I learned how to independently create my first ML model via XGBoost while applying background knowledge of ML topics
-
-# Results
-[ML Table CSV](tables/ml_predictions.csv)
