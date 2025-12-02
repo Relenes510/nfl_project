@@ -26,7 +26,7 @@ I am using github for version controlling and my linkedin to communicate signifi
 - When updating players_ref.csv gm_log_rtrvd column from create_player_gmlogs notebook, the value will be updated to 1 at the end of **each individual player run** and not **notebook run** as pandas save to csv does not support the option to update individual rows. This way is more computationally expensive but it allows easier maintainability in case of an error
 - Under gamelogs, I am not including Kick or Punt Returns yards, but itll be represented through special teams snap count. This is to reduce complexity
   - Players like Cordarrelle Patterson will be affected by this decision
-
+- There will be various players who will have inferred INJ rows, but those rows were not from injuries but due to legal issues, waived by team, etc.
 
 # Known skills I applied
 - Python skills
