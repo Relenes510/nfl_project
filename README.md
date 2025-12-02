@@ -33,10 +33,12 @@ I am using github for version controlling and my linkedin to communicate signifi
 - Pandas python package skills
 - SQL queries skills
 - Feature engineering skills
-- Project management skills
-- Documentation skills
 
 # Lessons Learned
 - I have learned how to scrape data from websites
 - I have been learning how to utility github (I come from Azure DevOps background)
 - I have learned how to manage raw data
+- I learned how to independently create my first ML model via XGBoost while applying background knowledge of ML topics
+
+# Results
+[ML Table CSV](tables/ml_predictions.csv)
