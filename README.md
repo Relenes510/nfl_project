@@ -9,8 +9,8 @@ I want to find what factors contribute to the player's injuries such as usage, a
 I want to ultimately be able to create an ML model to predict possible injuries from the upcoming players in the 2025 NFL season!
 
 # LinkedIn Blog Posts:
-- [8/27/25](https://www.linkedin.com/pulse/nflproject-blog-post-82725-rodolfo-elenes-9lxfc/?trackingId=GNbPQPNQF%2F7UJGbvhQxnwA%3D%3D)
-- [9/25/25](https://www.linkedin.com/pulse/nflproject-blog-spot-92525-rodolfo-elenes-ju2qc/?trackingId=FG9gOrpb%2FHS4OhH2airSig%3D%3D)
+- [8/27/25 Post](https://www.linkedin.com/pulse/nflproject-blog-post-82725-rodolfo-elenes-9lxfc/?trackingId=GNbPQPNQF%2F7UJGbvhQxnwA%3D%3D)
+- [9/25/25 Post](https://www.linkedin.com/pulse/nflproject-blog-spot-92525-rodolfo-elenes-ju2qc/?trackingId=FG9gOrpb%2FHS4OhH2airSig%3D%3D)
 - [12/2/2025 Post](https://www.linkedin.com/pulse/nflproject-blog-post-12225-rodolfo-elenes-5kruc/?trackingId=h%2FDxxmlbQtOk5ShsPn6RfQ%3D%3D)
 
 # How I am making this project
